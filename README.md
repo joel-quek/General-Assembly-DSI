@@ -1,36 +1,3 @@
-# ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Schedule
-
-
----
-# Contact Information
-Our course Slack channel: [#sg-dsif-7](https://ga-students.slack.com/channels/sg-dsif-7)
-
-### Lead Instructor: Quah Chee Yong
-* Email: cheeyong.quah@generalassemb.ly</br>
-
-### Instructional Assistant: Joseph Gan
-* Email: josephgan1988@gmail.com</br>
-
-### Head of Learning, APAC: Melanie Wu
-* Email: melanie.wu@generalassemb.ly</br>
-* Slack: https://ga-students.slack.com/messages/@U3ZTGDZ9A </br>
-
-### Student + Campus Ops Manager: Aurelia Tan
-* Email: aurelia.tan@generalassemb.ly</br>
-* Slack: https://ga-students.slack.com/messages/@UDXRRRU0Z </br>
-
-### Career Coach: Stefanie Padilla
-* Email: stefanie.padilla@generalassemb.ly
-* Slack: https://ga-students.slack.com/messages/@USLHTFEQH</br>
-
-### Student Experience Specialist: Kerin Ong
-* Email: kerin.ong@generalassemb.ly</br>
-* Slack: https://ga-students.slack.com/messages/@U0131N94RJN </br>
-
----
-### Course schedule is subject to changes depending on class pacing and availability of guest speakers, career coach, alumni panel etc.
----
-
 #### Week 1 - Getting Started: Python for Data Science
 
 |         | Tue, 23 Aug 22  | Thu, 25 Aug 22   | Sat, 27 Aug 22 |
