@@ -6,6 +6,7 @@ It is often said that wealth inequality is a barrier to education and social mob
 And if there is a correlation found between wealth and educational attainment, we will discuss what can be done to bridge that gap, possibly in the form of monetary grants or tuition help.
 
 Inspiration: https://www.urban.org/sites/default/files/publication/89976/wealth_and_education_4.pdf 
+
 ---
 ### Datasets
 #### Provided Data
@@ -46,6 +47,7 @@ ACT Source: https://www.princetonreview.com/college-advice/good-act-scores#:~:te
 SAT Source: https://satsuite.collegeboard.org/media/pdf/understanding-sat-scores.pdf 
 
 Median Personal Income By States (https://fred.stlouisfed.org/release/tables?rid=249&eid=259515&od=2017-01-01#)
+
 ---
 
 ### Observations
@@ -78,6 +80,7 @@ This has been studied and I cite a [study by University of Pennsylvania](https:/
 We can conclude that there is an effect with regards to ACT scores.
 
 ---
+
 **Correlation between SAT Scores and Household Income**
 
 There appears to be a (very) weak negative correlation between median income and SAT Total Scores.
@@ -87,6 +90,7 @@ Based on the boxplots, there is no observable trend between the highest/lowest s
 We thus cannot conclude that there is or is not an effect with regards to SAT scores.
 
 ---
+
 *What can the college board do about these findings?*
 
 Financial grants can be given to households to help aid students from households with lower income.
