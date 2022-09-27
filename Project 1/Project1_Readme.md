@@ -58,6 +58,8 @@ Median Personal Income By States (https://fred.stlouisfed.org/release/tables?rid
 |2018 Median Income|2018 ACT Composite|55.1%|
 |2019 Median Income|2019 ACT Composite|53.0%|
 
+---
+
 **Median Income against SAT Scores**
 |Dependent Variable|Independent Variable|Correlation Coefficient|
 |---|---|---|
@@ -68,6 +70,8 @@ Median Personal Income By States (https://fred.stlouisfed.org/release/tables?rid
 There appears to be a weak negative correlation (0 to 0.3) between Median Household income and the SAT Total Scores.
 
 There also appears to be a strong positive correlation (0.5 to 1.0) between the median income and the ACT composite scores.
+
+---
 
 **Correlation between ACT Scores and Household Income**
 
