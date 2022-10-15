@@ -1,3 +1,36 @@
+# ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Schedule
+
+
+---
+# Contact Information
+Our course Slack channel: [#sg-dsif-7](https://ga-students.slack.com/channels/sg-dsif-7)
+
+### Lead Instructor: Quah Chee Yong
+* Email: cheeyong.quah@generalassemb.ly</br>
+
+### Instructional Assistant: Joseph Gan
+* Email: josephgan1988@gmail.com</br>
+
+### Head of Learning, APAC: Melanie Wu
+* Email: melanie.wu@generalassemb.ly</br>
+* Slack: https://ga-students.slack.com/messages/@U3ZTGDZ9A </br>
+
+### Student + Campus Ops Manager: Aurelia Tan
+* Email: aurelia.tan@generalassemb.ly</br>
+* Slack: https://ga-students.slack.com/messages/@UDXRRRU0Z </br>
+
+### Career Coach: Stefanie Padilla
+* Email: stefanie.padilla@generalassemb.ly
+* Slack: https://ga-students.slack.com/messages/@USLHTFEQH</br>
+
+### Student Experience Specialist: Kerin Ong
+* Email: kerin.ong@generalassemb.ly</br>
+* Slack: https://ga-students.slack.com/messages/@U0131N94RJN </br>
+
+---
+### Course schedule is subject to changes depending on class pacing and availability of guest speakers, career coach, alumni panel etc.
+---
+
 #### Week 1 - Getting Started: Python for Data Science
 
 |         | Tue, 23 Aug 22  | Thu, 25 Aug 22   | Sat, 27 Aug 22 |
@@ -11,7 +44,7 @@
 |         | Tue, 30 Aug 22  | Thu, 1 Sep 22   | Sat, 3 Sep 22 |
 |---------|------------|------------|------------|
 | Morning |  |  | 1.07 Distributions - Continuous |  
-| Afternoon/Evening| 1.05 Probability | 1.06 Discrete Distributions | 1.08 Central Limit Theorem/1.09 Inference - Confidence Interval |
+| Afternoon/Evening| 1.05 Probability | 1.06 Discrete Distributions | 1.09 Inference - Confidence Interval |
 | Labs | Outcomes | 1_02 Distributions Lab | 1_02 Distributions Lab |
 
 #### Week 3 - Exploratory Data Analysis
@@ -20,7 +53,7 @@
 |---------|------------|------------|------------|
 | Morning |  |  | 2.02 Pandas: Intro 2 |  
 | Afternoon/Evening| 1.10 Inference/Hypothesis Testing | 2.01 Pandas: Intro 1 | 2.03 Principles of Data Visualization |
-| Labs | 1_02 Distributions Lab |  | Intro to Project 1 |
+| Labs | 1_02 Distributions Lab | Intro to Project 1 |  |
 
 #### Week 4 - Exploratory Data Analysis
 
@@ -28,7 +61,7 @@
 |---------|------------|------------|------------|
 | Morning |  |  | 2.05 Pandas Concatenation	 |  
 | Afternoon/Evening| 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.06 Advanced transformation using Pandas |
-| Labs | 2_01 Titanic EDA Lab | Outcomes(6.30 to 7.30pm) | Project Time |
+| Labs | 2_01 Titanic EDA Lab |  | Project Time |
 
 #### Week 5 - Regression
 
@@ -36,7 +69,7 @@
 |---------|------------|------------|------------|
 | Morning |  |  |  3.03 Bias-Variance Tradeoff |  
 | Afternoon/Evening| 3.01 Linear Regression | 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation |
-| Labs | 3_01 Linear Regression Lab |  | Project Time |
+| Labs | 3_01 Linear Regression Lab | Outcomes(6.30 to 7.30pm) | Project Time |
 
 #### Week 6 - Regression
 
@@ -44,39 +77,39 @@
 |---------|------------|------------|------------|
 | Morning |  |  | Project Time |  
 | Afternoon/Evening| 3.05 Feature Engineering | 3.06 Regularization + 3.07 Model Workflow | Project 1 Presentation |
-| Labs | | | |
+| Labs | | 3_02 Regularization and Validation Lab | |
 
 #### Week 7 - Classification
 
 |         | Tue, 4 Oct 22  | Thu, 6 Oct 22   | Sat, 8 Oct 22 |
 |---------|------------|------------|------------|
 | Morning |  |  | 4.02 k-Nearest Neighbours |  
-| Afternoon/Evening| 3.08 Missing Data | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I + 4.04 Classification Metrics II |
-| Labs | 3_02 Regularization and Validation Lab + Intro to Project 2 | Outcomes(6.30 to 7.30pm) | |
+| Afternoon/Evening| Mid Course Survey / 3.08 Missing Data | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I + 4.04 Classification Metrics II |
+| Labs | Intro to Project 2 |  | 4_01 Classification Model Comparison Lab, Guest Speaker : Srihari Mohan (2 - 3 pm) |
 
 #### Week 8 - Classification
 
 |         | Tue, 11 Oct 22  | Thu, 13 Oct 22   | Sat, 15 Oct 22 |
 |---------|------------|------------|------------|
 | Morning |  |  | 5.04 RegEx |  
-| Afternoon/Evening| 4.05 Hyperparameter Tuning and Pipelines | 4.06 API Integration & Consumption | Project Time  |
-| Labs | 4_01 Classification Model Comparison Lab   |  | 4_02 Classification Model Evaluation Lab |
+| Afternoon/Evening| 4.05 Hyperparameter Tuning and Pipelines | 7.07 SMOTE | Project Time  |
+| Labs |  | Outcomes(6.30 to 7.30pm) | 4_02 Classification Model Evaluation Lab |
 
 #### Week 9 - APIs, HTML, and Web Scraping
 
 |         | Tue, 18 Oct 22  | Thu, 20 Oct 22   | Sat, 22 Oct 22 |
 |---------|------------|------------|------------|
-| Morning |  |  | 5.03 Object-Oriented Programming |  
-| Afternoon/Evening| 5.01 Intro to HTML | 55.02 Web Scraping using BeautifulSoup | Flextime |
-| Labs |   |   | 5_01 Scraping Lab |
+| Morning |  |  | 5.05 NLP I/5.06 NLP II |  
+| Afternoon/Evening| 5.01 Intro to HTML | 5.02 Web Scraping using BeautifulSoup | Flextime |
+| Labs | Meet&Greet - GA VP John | 5_01 Scraping Lab | 5_02 NLP Lab |
 
 #### Week 10 - NLP
 
 |         | Tue, 25 Oct 22  | Thu, 27 Oct 22   | Sat, 29 Oct 22 |
 |---------|------------|------------|------------|
 | Morning |  |  | Project Time  |  
-| Afternoon/Evening| 5.07 Naive Bayes | 5.05 NLP I/5.06 NLP II | Project 2 Presentation |
-| Labs |  | 5_02 NLP Lab |  |
+| Afternoon/Evening| 5.03 Object-Oriented Programming | 5.07 Naive Bayes | Project 2 Presentation |
+| Labs |  |  |  |
 
 #### Week 11 - Advanced Supervised learning
 
@@ -90,7 +123,7 @@
 
 |         | Tue, 8 Nov 22  | Thu, 10 Nov 22   | Sat, 12 Nov 22 |
 |---------|------------|------------|------------|
-| Morning |  |  | 7.08 API & Flask |  
+| Morning |  |  | 4.06 API Integration & Consumption |  
 | Afternoon/Evening| 6.08 Gradient Descent | 6.05 SVMs | 6.06 GLMs |
 | Labs |  |  |  |
 
@@ -100,14 +133,14 @@
 |---------|------------|------------|------------|
 | Morning |  |  |  7.03 Hierarchical Clustering |  
 | Afternoon/Evening| 7.01 Intro to Clustering: K-Means | 7.02 DBSCAN Clustering | 7.04 PCA  |
-| Labs | 7_01 Clustering Lab | 7_01 Clustering Lab |  Project Time|
+| Labs | 7_01 Clustering Lab | |  Project Time|
 
 #### Week 14 - Unsupervised Learning
 
 |         | Tue, 22 Nov 22  | Thu, 24 Nov 22   | Sat, 26 Nov 22 |
 |---------|------------|------------|------------|
 | Morning |  |  | Project Time |  
-| Afternoon/Evening| 11.01 SQL I | 11.02 SQL II | Project 3 Presentations|
+| Afternoon/Evening| 11.01 SQL I | 11.01 SQL II | Project 3 Presentations|
 | Labs | 7_02 PCA Lab | 11_01 Lab SQL | |
 
 
@@ -116,7 +149,7 @@
 |         | Tue, 29 Nov 22  | Thu, 1 Dec 22   | Sat, 3 Dec 22 |
 |---------|------------|------------|------------|
 | Morning |  |  | 8.03 ARIMA |  
-| Afternoon/Evening| 8.01 Intro to Correlated Data | 8.02 Intro to Time Series | 8.04 Advanced Time Series Analysis |
+| Afternoon/Evening| Mid Course Survey / 8.01 Intro to Correlated Data | 8.02 Intro to Time Series | 8.04 Advanced Time Series Analysis |
 | Labs | Intro Project 4 | Outcomes(6.30 to 7.30pm) | 8_01 Correlated Data Lab |
 
 
@@ -124,18 +157,18 @@
 
 |         | Tue, 6 Dec 22  | Thu, 8 Dec 22   | Sat, 10 Dec 22 |
 |---------|------------|------------|------------|
-| Morning |  |  | 7.07 SMOTE |  
-| Afternoon/Evening| 7.05 Recommender Systems I  | 7.06 Recommender Systems II | 7.09 Introduction to AWS/7.10 Docker on AWS  |
-| Labs | Capstone Check In | 8_02 Time Series Lab | DSIF-6 Capstone Presentation |
+| Morning |  |  | 7.08 API & Flask |  
+| Afternoon/Evening| 7.05 Recommender Systems I  | 7.06 Recommender Systems II | 7.09 Introduction to AWS  |
+| Labs | Capstone Intro | 8_02 Time Series Lab | DSIF-6 Capstone Presentation |
 
 
 #### Week 17 - Correlated Data-Continued
 
 |         | Tue, 13 Dec 22  | Thu, 15 Dec 22   | Sat, 17 Dec 22 |
 |---------|------------|------------|------------|
-| Morning |  |  |  Capstone Check In 1:1 |  
-| Afternoon/Evening| 8.05 Spatial Data Analysis | 8.06 Network Analysis | Capstone Check In 1:1  |
-| Labs |  |  | Preparation for Capstone Lightning Talk |
+| Morning |  |  | Capstone Topic Proposals Presentation |  
+| Afternoon/Evening| 8.05 Spatial Data Analysis | 8.06 Network Analysis | Project Time |
+| Labs |  |  |  |
 
 
 #### Week 18 - Deep Learning
@@ -143,7 +176,7 @@
 |         | Tue, 20 Dec 22  | Thu, 22 Dec 22   | Sat, 24 Dec 22 |
 |---------|------------|------------|------------|
 | Morning |  |  | 9.03 Deep Learning Regularization  |  
-| Afternoon/Evening| 9.01 Introduction to Neural Networks + 9.02 Introduction to Keras | DSIF-7 Capstones Lightning Talk | 9.04 Word Vectors |
+| Afternoon/Evening| 9.01 Introduction to Neural Networks | 9.02 Introduction to Keras | 9.04 Word Vectors |
 | Labs | 9_01 Conceptual Neural Networks Lab | 9_01 Conceptual Neural Networks Lab | 9_02 Applied Neural Networks Lab |
 
 #### Week 19 - Holiday Week
@@ -191,14 +224,14 @@
 |         | Tue, 31 Jan 23  | Thu, 2 Feb 23   | Sat, 4 Feb 23 |
 |---------|------------|------------|------------|
 | Morning |  |  | Project Time |  
-| Afternoon/Evening| Project Time | Project Time |  Project Time |
+| Afternoon/Evening| Project Time | Project Time |  Capstone Problem Statement & EDA Presenation |
 | Labs |  |  | Paparation for Progress Presentation |
 
 #### Week 25 - Capstone Project
 
 |         | Tue, 7 Feb 23  | Thu, 9 Feb 23   | Sat, 11 Feb 22 |
 |---------|------------|------------|------------|
-| Morning |  |  | DSIF-7 Capstone Progress Presentation |  
+| Morning |  |  |  |  
 | Afternoon/Evening| Project Time | Project Time |  Project Time |
 | Labs |  |  |  |
 
@@ -207,7 +240,7 @@
 |         | Tue, 14 Feb 22  | Thu, 16 Feb 22   | Sat, 18 Feb 22 |
 |---------|------------|------------|------------|
 | Morning |  |  | Project Time |  
-| Afternoon/Evening| Project Time | Project Time |  Project Time |
+| Afternoon/Evening| Project Time | Project Time | Capstone Progress Presentation |
 | Labs |  |  |  |
 
 #### Week 27 - Capstone Project
