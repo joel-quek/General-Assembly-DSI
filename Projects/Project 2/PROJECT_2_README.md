@@ -28,4 +28,5 @@ I will create models for housing price prediction based on multiple key factors.
 ## Conclusions and Findings
 
 ### 1. Finding Undervalued Homes using my Model
-image.png
+
+### 1. Finding the Factors that have an effect on Home Value
