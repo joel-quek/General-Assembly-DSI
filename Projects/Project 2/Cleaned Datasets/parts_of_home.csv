@@ -1,0 +1,1888 @@
+,House Style,Roof Style,Roof Matl,Exterior 1st,Exterior 2nd,Foundation,Bsmt Qual,Bsmt Cond,Bsmt Exposure,BsmtFin Type 1,BsmtFin Type 2,Bsmt Full Bath,Bsmt Half Bath,Full Bath,Half Bath,Bedroom AbvGr,Kitchen AbvGr,Kitchen Qual,TotRms AbvGrd,Fireplaces,Garage Type,Garage Finish,Garage Cars,Paved Drive
+0,2Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,8,1,Attchd,RFn,2.0,Y
+2,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,3,1,Gd,5,0,Detchd,Unf,1.0,Y
+3,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,0,BuiltIn,Fin,2.0,Y
+4,1.5Fin,Gable,CompShg,Wd Sdng,Plywood,PConc,Fa,Gd,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,6,0,Detchd,Unf,2.0,N
+5,1Story,Gable,CompShg,BrkFace,Plywood,CBlock,TA,TA,No,ALQ,Rec,0.0,0.0,2,1,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+6,SFoyer,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,TA,5,0,Basment,Fin,2.0,Y
+7,1Story,Hip,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,2.0,Y
+8,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,6,0,Detchd,Unf,1.0,Y
+9,2Story,Gable,CompShg,Plywood,Plywood,PConc,Gd,TA,Av,Rec,Unf,0.0,1.0,1,2,5,1,Fa,9,2,Attchd,Unf,2.0,Y
+10,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,2,1,TA,4,0,Detchd,Unf,1.0,Y
+11,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,6,0,Attchd,RFn,2.0,Y
+13,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,0,Detchd,Unf,2.0,Y
+14,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+15,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+16,2Story,Gable,CompShg,AsbShng,AsbShng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,4,1,TA,7,0,Detchd,Unf,3.0,Y
+17,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,Rec,Unf,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+18,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+19,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,Unf,2.0,Y
+20,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,Gd,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,5,1,Attchd,Fin,2.0,Y
+21,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,5,1,Attchd,Fin,2.0,Y
+22,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Ex,8,1,Attchd,Fin,2.0,Y
+23,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,2,0,3,1,TA,6,0,Attchd,Fin,2.0,Y
+24,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Mn,Rec,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,Fin,2.0,Y
+25,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,2,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+26,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,GLQ,BLQ,1.0,0.0,1,0,3,1,TA,5,1,Detchd,Unf,1.0,Y
+27,1.5Fin,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,2,0,4,1,Gd,7,1,Detchd,Unf,1.0,Y
+29,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,1,Detchd,Unf,2.0,Y
+30,1Story,Hip,WdShngl,BrkFace,BrkFace,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,Fin,2.0,Y
+31,2Story,Gable,CompShg,BrkFace,Stucco,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Gd,7,2,Detchd,Unf,2.0,Y
+32,1Story,Hip,CompShg,BrkFace,BrkFace,PConc,Gd,Gd,Av,LwQ,GLQ,1.0,0.0,1,1,2,1,Ex,6,1,Attchd,Fin,2.0,Y
+33,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,N
+34,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+35,1Story,Flat,Tar&Grv,Wd Sdng,Wd Sdng,CBlock,Gd,TA,Gd,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,1,Basment,RFn,1.0,Y
+36,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,TA,TA,No,ALQ,Rec,0.0,0.0,2,0,4,1,TA,6,1,Attchd,RFn,1.0,Y
+37,1Story,Hip,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,BLQ,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,RFn,2.0,Y
+38,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,3,1,TA,6,1,Attchd,Unf,2.0,Y
+39,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,No,GLQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+40,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,LwQ,1.0,0.0,1,1,3,1,TA,6,0,Attchd,Fin,1.0,Y
+41,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,Gd,GLQ,Unf,1.0,0.0,2,1,2,1,Ex,7,1,Attchd,Fin,3.0,Y
+42,SFoyer,Gable,CompShg,Plywood,Plywood,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,4,1,Attchd,Fin,2.0,Y
+43,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,1,TA,7,0,Attchd,Unf,1.0,Y
+44,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+45,2Story,Gable,CompShg,BrkFace,Stucco,PConc,TA,Fa,No,LwQ,Unf,0.0,0.0,1,1,4,1,TA,9,2,Detchd,Fin,2.0,Y
+46,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,LwQ,BLQ,0.0,0.0,2,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+47,2Story,Gable,CompShg,Stucco,Wd Shng,BrkTil,Gd,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,6,1,Attchd,RFn,1.0,P
+48,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,LwQ,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+49,2Story,Gable,CompShg,VinylSd,Wd Shng,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,2,1,Gd,6,0,BuiltIn,RFn,2.0,Y
+50,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,2,1,Gd,4,0,Detchd,Unf,2.0,Y
+51,1.5Fin,Gable,CompShg,WdShing,Plywood,BrkTil,TA,TA,No,BLQ,Unf,1.0,0.0,2,0,4,1,Gd,7,2,Detchd,Unf,2.0,Y
+52,2Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,BLQ,LwQ,1.0,0.0,3,1,5,1,Gd,12,2,Attchd,RFn,2.0,Y
+54,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,2,1,Gd,5,1,Attchd,Unf,2.0,Y
+55,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,4,1,TA,7,0,Attchd,Fin,1.0,Y
+56,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,ALQ,1.0,0.0,2,1,2,1,Gd,4,0,Detchd,RFn,2.0,Y
+57,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,2,1,TA,5,0,Attchd,Unf,1.0,Y
+58,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,ALQ,0.0,1.0,1,0,3,1,TA,6,0,Attchd,Fin,1.0,Y
+59,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,Rec,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+60,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,9,1,Attchd,Fin,3.0,Y
+61,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,1,4,1,Ex,11,1,BuiltIn,Fin,2.0,Y
+62,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,Gd,ALQ,Unf,1.0,0.0,1,1,1,1,TA,4,2,Attchd,RFn,2.0,Y
+63,1.5Fin,Gable,CompShg,WdShing,Wd Shng,BrkTil,TA,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,Ex,6,1,Detchd,Unf,1.0,N
+64,1Story,Gable,CompShg,AsbShng,AsbShng,CBlock,TA,TA,No,Rec,LwQ,0.0,1.0,1,0,3,1,Gd,6,0,Attchd,Unf,1.0,Y
+66,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,Gd,TA,No,GLQ,Unf,1.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,1.0,Y
+67,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Detchd,Unf,2.0,Y
+68,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Gd,Unf,Unf,0.0,0.0,2,1,3,1,Ex,7,1,Attchd,Fin,3.0,Y
+69,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+70,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,5,2,Attchd,RFn,2.0,Y
+71,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Mn,GLQ,Unf,1.0,0.0,3,0,3,1,Gd,7,0,Attchd,Fin,3.0,Y
+72,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,TA,TA,Mn,ALQ,Unf,0.0,1.0,1,0,3,1,TA,6,1,BuiltIn,Fin,2.0,Y
+73,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Detchd,Unf,2.0,Y
+74,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,3.0,Y
+75,1Story,Gable,CompShg,Stucco,Wd Shng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,1,1,TA,4,0,Detchd,Unf,2.0,N
+76,1Story,Gable,CompShg,BrkFace,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,Fa,5,1,Detchd,Unf,1.0,N
+77,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,1,1,Fa,4,0,Detchd,Unf,1.0,Y
+78,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,0,5,2,TA,12,0,Detchd,Unf,2.0,Y
+80,2Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+81,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,1,1,Ex,9,1,Attchd,Fin,3.0,Y
+82,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,Mn,Unf,Unf,0.0,0.0,1,1,4,1,TA,7,1,Detchd,Unf,3.0,Y
+83,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+84,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,TA,4,0,Attchd,RFn,2.0,Y
+85,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,Gd,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+86,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,0,Attchd,RFn,2.0,Y
+87,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,4,0,Attchd,Unf,1.0,Y
+88,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Mn,ALQ,Rec,0.0,1.0,2,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+89,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,1,2,1,Gd,4,0,Detchd,RFn,2.0,Y
+90,SLvl,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Av,GLQ,Unf,0.0,1.0,2,0,4,1,TA,7,0,Attchd,RFn,2.0,Y
+91,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,2,Attchd,RFn,2.0,Y
+92,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,LwQ,GLQ,1.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+94,SLvl,Hip,CompShg,Wd Sdng,HdBoard,PConc,TA,TA,Av,GLQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+95,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,0,Attchd,Fin,2.0,Y
+96,SLvl,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Av,BLQ,Unf,0.0,1.0,1,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+97,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,LwQ,0.0,0.0,1,0,2,1,Gd,6,1,Detchd,Unf,2.0,Y
+98,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,1,Attchd,Fin,2.0,Y
+99,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,4,1,Gd,9,1,Attchd,RFn,3.0,Y
+100,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,7,1,Attchd,Fin,3.0,Y
+102,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,Gd,Ex,Mn,GLQ,Rec,1.0,0.0,3,0,3,1,Ex,6,1,Attchd,RFn,2.0,Y
+104,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,ALQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,Fin,2.0,Y
+105,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,TA,6,0,Attchd,Fin,2.0,Y
+106,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,6,0,Detchd,Unf,2.0,Y
+107,1.5Fin,Gable,CompShg,Stucco,Stucco,BrkTil,TA,TA,No,Rec,LwQ,0.0,0.0,2,0,5,1,Gd,10,1,Detchd,Unf,1.0,Y
+108,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,Gd,ALQ,Unf,1.0,0.0,1,1,1,1,Ex,4,2,Attchd,Unf,2.0,Y
+109,2Story,Gable,CompShg,VinylSd,Wd Shng,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,2,1,Gd,6,0,BuiltIn,RFn,2.0,Y
+110,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,3,1,TA,7,1,Detchd,Unf,2.0,Y
+111,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,1.0,Y
+112,1.5Fin,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,8,1,Detchd,Unf,2.0,P
+113,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,5,0,Attchd,Unf,2.0,Y
+115,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,TA,TA,No,ALQ,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,Fin,2.0,Y
+116,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,Fa,6,2,Attchd,Fin,2.0,Y
+117,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,5,1,Attchd,Fin,2.0,Y
+118,1Story,Flat,Tar&Grv,Plywood,Plywood,CBlock,TA,TA,Mn,Rec,Unf,1.0,0.0,2,0,3,1,TA,7,2,Basment,Unf,2.0,Y
+119,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+121,1Story,Gable,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,Rec,BLQ,0.0,1.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+122,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+123,1Story,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,2.0,Y
+124,1.5Fin,Gable,CompShg,AsbShng,AsbShng,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,1,2,1,TA,5,0,Detchd,Unf,1.0,Y
+125,2Story,Mansard,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,No,GLQ,Unf,0.0,0.0,2,2,3,1,Gd,9,1,Attchd,RFn,3.0,Y
+126,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,1,Attchd,Fin,2.0,Y
+127,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,Gd,8,2,2Types,Unf,3.0,Y
+128,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,6,1,Attchd,Fin,2.0,Y
+129,SLvl,Hip,CompShg,HdBoard,Plywood,CBlock,Gd,TA,Mn,Rec,Unf,0.0,0.0,1,1,3,1,TA,7,1,Attchd,Unf,1.0,Y
+130,1Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,Gd,TA,No,ALQ,Unf,0.0,0.0,2,0,2,1,TA,4,0,Attchd,Unf,2.0,Y
+131,2Story,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,Unf,Unf,0.0,1.0,2,0,4,1,Gd,7,0,Detchd,Unf,2.0,Y
+132,2Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,TA,6,1,Attchd,Unf,2.0,Y
+133,1Story,Gable,CompShg,BrkFace,BrkFace,PConc,Gd,TA,Gd,GLQ,Unf,2.0,0.0,1,1,1,1,Gd,6,2,Attchd,Fin,2.0,Y
+135,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,LwQ,Unf,0.0,1.0,1,1,2,1,TA,5,0,Detchd,Unf,1.0,Y
+137,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Mn,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+138,2Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,Unf,Unf,0.0,0.0,3,1,5,1,Ex,10,1,BuiltIn,Fin,3.0,Y
+140,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,2.0,Y
+141,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,TA,9,1,Attchd,Fin,2.0,Y
+142,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,1.0,Y
+143,1Story,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,Av,BLQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,Fin,1.0,Y
+144,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Ex,Po,No,GLQ,Unf,1.0,0.0,1,1,1,1,Gd,6,1,Attchd,RFn,3.0,Y
+145,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,Fa,No,LwQ,Unf,0.0,0.0,1,0,3,1,TA,6,1,Detchd,Unf,1.0,Y
+147,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,No,GLQ,LwQ,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+148,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+149,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,4,1,TA,9,1,Detchd,Unf,2.0,Y
+150,1Story,Hip,CompShg,HdBoard,HdBoard,PConc,TA,TA,No,BLQ,Unf,0.0,1.0,1,0,3,1,TA,5,1,Attchd,RFn,2.0,Y
+151,2Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Av,GLQ,Unf,0.0,0.0,3,1,4,1,Ex,11,1,BuiltIn,Fin,3.0,Y
+152,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,ALQ,Rec,1.0,0.0,1,1,3,1,TA,6,2,Attchd,RFn,2.0,Y
+153,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Av,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,8,1,Attchd,RFn,2.0,Y
+154,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,LwQ,0.0,1.0,1,0,2,1,TA,5,0,Attchd,Fin,1.0,Y
+155,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+156,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,TA,5,0,Attchd,RFn,2.0,Y
+157,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Gd,GLQ,LwQ,1.0,0.0,1,1,4,1,TA,7,0,Attchd,RFn,2.0,Y
+158,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+159,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,0.0,1.0,1,0,2,1,Gd,6,1,Attchd,Unf,1.0,Y
+160,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,Unf,2.0,N
+161,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,LwQ,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+163,2Story,Gable,CompShg,VinylSd,Wd Shng,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,2,1,Gd,6,0,BuiltIn,RFn,2.0,Y
+164,1Story,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+165,2Story,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,No,Rec,BLQ,0.0,0.0,1,1,3,1,TA,4,0,Attchd,Unf,1.0,Y
+166,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,1.0,Y
+167,2Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Unf,2.0,Y
+168,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,Gd,TA,No,BLQ,Unf,1.0,0.0,1,0,2,1,Fa,5,0,Detchd,Unf,1.0,Y
+169,SFoyer,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,LwQ,ALQ,1.0,0.0,1,0,2,1,TA,5,0,Attchd,Unf,2.0,Y
+170,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,Fa,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+171,1.5Fin,Gable,CompShg,Wd Sdng,Wd Shng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Gd,7,0,Detchd,Unf,2.0,P
+172,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,4,0,Attchd,RFn,2.0,Y
+173,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,1,3,1,Gd,7,2,Attchd,Unf,1.0,Y
+174,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,ALQ,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,RFn,2.0,Y
+175,2Story,Gable,CompShg,Wd Sdng,Wd Shng,BrkTil,TA,TA,Mn,Unf,Unf,0.0,0.0,2,0,5,1,TA,10,1,Detchd,Unf,2.0,Y
+176,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+177,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,LwQ,BLQ,0.0,1.0,1,0,3,1,TA,6,1,Attchd,Unf,1.0,Y
+178,2Story,Hip,CompShg,Wd Sdng,ImStucc,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,9,1,Attchd,RFn,3.0,Y
+179,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,2,1,TA,5,0,Detchd,Unf,1.0,Y
+180,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,TA,5,0,Attchd,RFn,2.0,Y
+181,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,2,1,TA,6,0,Attchd,Unf,2.0,Y
+182,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,ALQ,Unf,1.0,0.0,1,1,3,1,TA,6,0,Attchd,RFn,2.0,Y
+184,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,0,Attchd,RFn,2.0,Y
+185,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,Unf,2.0,Y
+186,1.5Fin,Hip,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,9,1,Attchd,Fin,2.0,Y
+187,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,Unf,3.0,Y
+188,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,1,4,1,Gd,8,2,Attchd,Fin,2.0,Y
+189,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,No,Unf,Unf,0.0,0.0,2,1,4,1,Ex,10,1,BuiltIn,Fin,3.0,Y
+190,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,3,1,3,1,Ex,11,1,BuiltIn,Fin,3.0,Y
+191,1Story,Shed,WdShngl,Wd Sdng,Wd Sdng,CBlock,Gd,Gd,Gd,LwQ,GLQ,2.0,0.0,0,1,0,1,Gd,5,2,Attchd,Fin,2.0,Y
+192,1Story,Gable,CompShg,Plywood,ImStucc,PConc,TA,TA,Gd,ALQ,Unf,1.0,0.0,2,0,2,1,Gd,5,2,Attchd,RFn,2.0,Y
+193,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+194,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,LwQ,Unf,1.0,1.0,2,2,6,2,TA,12,0,Detchd,Unf,4.0,Y
+195,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,2,1,Ex,6,0,Attchd,Fin,3.0,Y
+196,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,6,0,Attchd,RFn,3.0,Y
+197,1.5Fin,Gable,CompShg,AsbShng,AsbShng,BrkTil,Fa,Fa,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,7,0,Detchd,Unf,2.0,N
+198,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+199,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,0.0,0.0,2,0,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+200,SLvl,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,2,1,TA,4,0,BuiltIn,Fin,1.0,Y
+201,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,10,1,Attchd,Fin,3.0,Y
+202,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,8,1,BuiltIn,Fin,3.0,Y
+203,2.5Unf,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,0,4,1,TA,7,2,Detchd,Unf,1.0,Y
+204,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,Fin,2.0,Y
+205,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,Fa,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Fin,2.0,P
+206,2Story,Hip,CompShg,Wd Sdng,Stucco,BrkTil,Gd,TA,No,BLQ,Unf,1.0,0.0,2,1,4,1,TA,10,1,Detchd,Unf,3.0,N
+207,1Story,Hip,CompShg,Plywood,HdBoard,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,TA,7,1,Attchd,Unf,2.0,Y
+208,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,Unf,Unf,0.0,0.0,2,0,2,1,Gd,7,1,Attchd,Fin,2.0,Y
+209,SFoyer,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Av,GLQ,LwQ,1.0,0.0,1,1,2,1,TA,5,2,Attchd,RFn,2.0,Y
+210,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,2,1,TA,5,1,Attchd,Fin,2.0,Y
+211,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+212,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+213,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,3,1,Gd,6,0,Attchd,Fin,1.0,Y
+214,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,Gd,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+215,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+216,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,2,1,Gd,5,0,Attchd,Unf,1.0,Y
+217,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,Fa,Fa,No,Unf,Unf,0.0,0.0,1,0,1,1,Fa,5,0,Attchd,Unf,1.0,Y
+218,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,2,1,TA,6,1,Attchd,RFn,2.0,Y
+219,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Fa,Fa,No,Unf,Unf,0.0,0.0,1,0,2,1,Fa,5,1,Basment,Unf,1.0,Y
+220,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+221,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+222,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,9,0,Attchd,Fin,2.0,Y
+223,1Story,Flat,CompShg,BrkFace,Plywood,CBlock,Gd,TA,Gd,BLQ,ALQ,1.0,0.0,1,0,1,1,TA,4,1,Attchd,RFn,2.0,Y
+224,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,BuiltIn,RFn,2.0,Y
+225,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Detchd,Unf,2.0,Y
+226,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,TA,5,0,Attchd,Fin,2.0,Y
+227,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,No,Unf,Unf,0.0,0.0,2,1,4,1,Ex,11,1,BuiltIn,Fin,3.0,Y
+228,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,Fa,No,LwQ,Unf,0.0,0.0,2,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+229,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,3,0,5,1,TA,9,1,Attchd,Unf,2.0,Y
+230,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,1,1,1,1,Ex,7,1,Attchd,Fin,3.0,Y
+231,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,5,1,Attchd,RFn,2.0,Y
+232,2Story,Gable,CompShg,Wd Sdng,Wd Shng,BrkTil,TA,Gd,No,ALQ,Unf,1.0,0.0,1,0,3,1,Gd,7,1,Detchd,Unf,3.0,Y
+233,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,ALQ,BLQ,0.0,1.0,2,0,3,1,Gd,6,0,Attchd,Unf,2.0,Y
+234,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,0,Attchd,Fin,2.0,Y
+236,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,ALQ,Unf,1.0,0.0,1,1,3,1,Gd,6,1,Attchd,RFn,2.0,Y
+237,2Story,Gable,CompShg,VinylSd,VinylSd,CBlock,Gd,TA,No,Rec,Unf,0.0,0.0,2,1,4,1,Gd,8,1,Attchd,Fin,1.0,Y
+238,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,Rec,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,2.0,Y
+239,1.5Fin,Gable,CompShg,Stucco,Wd Sdng,BrkTil,TA,TA,No,ALQ,Unf,0.0,0.0,2,0,4,1,TA,7,1,Detchd,Unf,2.0,Y
+241,1Story,Gable,CompShg,Wd Sdng,Plywood,CBlock,TA,TA,Mn,LwQ,Unf,1.0,0.0,1,0,2,1,TA,6,1,Attchd,RFn,1.0,Y
+242,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,ALQ,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+243,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,0,Attchd,Fin,2.0,Y
+244,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,Fa,Fa,No,ALQ,Unf,1.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,1.0,Y
+245,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Gd,GLQ,Unf,0.0,1.0,2,0,3,1,Fa,6,1,Attchd,Fin,2.0,Y
+246,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,Gd,No,GLQ,Rec,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,RFn,2.0,Y
+247,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,Gd,6,0,Attchd,RFn,1.0,Y
+248,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+250,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,4,1,Gd,9,1,Attchd,RFn,3.0,Y
+251,1Story,Hip,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,2.0,Y
+252,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,5,0,Basment,Unf,1.0,Y
+253,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,1,Attchd,RFn,2.0,Y
+254,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,Unf,2.0,Y
+255,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,TA,8,0,Detchd,Unf,2.0,Y
+257,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,1,3,1,TA,8,1,Attchd,RFn,2.0,Y
+258,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Fa,TA,Mn,BLQ,Unf,1.0,0.0,2,0,3,2,TA,7,0,CarPort,Unf,2.0,Y
+259,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,1.0,P
+261,1Story,Gambrel,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,N
+262,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,Gd,6,0,Attchd,Unf,1.0,Y
+263,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,5,0,Attchd,RFn,1.0,Y
+265,1Story,Gable,CompShg,Plywood,ImStucc,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,0,Attchd,RFn,2.0,Y
+266,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,Fin,1.0,Y
+267,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,LwQ,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,N
+268,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+269,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,2,1,Gd,4,0,Detchd,RFn,2.0,Y
+270,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,Unf,Unf,0.0,0.0,2,1,4,1,Gd,9,1,BuiltIn,Fin,3.0,Y
+271,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,Gd,TA,Mn,Rec,GLQ,1.0,0.0,1,0,2,1,Gd,5,0,Attchd,Unf,2.0,Y
+272,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,8,0,Attchd,RFn,2.0,Y
+273,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,BLQ,1.0,0.0,1,0,3,1,Gd,5,0,Detchd,RFn,2.0,Y
+274,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,Fa,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,Unf,2.0,Y
+275,SLvl,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Av,BLQ,Rec,1.0,0.0,1,0,3,1,TA,6,1,Basment,RFn,1.0,Y
+277,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,7,1,Attchd,Fin,2.0,Y
+278,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,No,LwQ,GLQ,1.0,0.0,2,1,3,1,TA,6,1,Attchd,Fin,2.0,Y
+279,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,LwQ,Rec,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+280,1Story,Gable,CompShg,Stucco,Stucco,BrkTil,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,6,1,Detchd,Unf,2.0,Y
+281,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,1,Attchd,RFn,3.0,Y
+282,2Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,Gd,6,1,Attchd,Unf,2.0,Y
+283,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+284,SLvl,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+285,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,PConc,Gd,TA,No,BLQ,LwQ,0.0,0.0,2,0,3,1,TA,7,1,Attchd,Fin,2.0,Y
+286,1Story,Gable,CompShg,CemntBd,CmentBd,CBlock,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,9,1,Attchd,Fin,3.0,Y
+287,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,BLQ,Unf,1.0,0.0,2,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+288,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,0,Attchd,Fin,2.0,Y
+289,SFoyer,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Gd,GLQ,Unf,2.0,0.0,2,0,2,2,TA,8,0,Attchd,Fin,4.0,Y
+290,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,2,0,4,2,TA,8,0,2Types,Unf,3.0,Y
+291,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+292,SLvl,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,3,0,4,1,Gd,8,1,Attchd,RFn,2.0,Y
+293,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,3,0,Attchd,RFn,2.0,Y
+294,1Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,Gd,TA,No,ALQ,LwQ,0.0,1.0,2,0,2,1,TA,4,1,Attchd,RFn,2.0,Y
+295,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,1,0,2,1,Gd,6,1,Attchd,Unf,2.0,Y
+296,1Story,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+297,SLvl,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,BuiltIn,Unf,1.0,Y
+298,1.5Fin,Gable,CompShg,BrkComm,Brk Cmn,BrkTil,TA,TA,No,BLQ,Rec,1.0,0.0,2,0,3,1,Fa,7,1,Attchd,Unf,1.0,Y
+299,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+300,1Story,Hip,CompShg,BrkFace,BrkFace,PConc,Gd,TA,Gd,LwQ,GLQ,1.0,0.0,1,1,1,1,Gd,4,1,Attchd,Fin,2.0,Y
+301,1.5Fin,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,2,0,4,1,TA,7,0,Attchd,Fin,1.0,Y
+302,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,Fa,7,1,Attchd,Unf,1.0,Y
+303,SLvl,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Ex,TA,Av,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Basment,Unf,1.0,Y
+304,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,3,1,Gd,6,0,Attchd,Unf,1.0,Y
+305,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Rec,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,2.0,Y
+306,1Story,Gable,CompShg,Wd Sdng,AsbShng,CBlock,TA,Fa,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,CarPort,Unf,1.0,N
+307,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,2.0,Y
+308,2.5Unf,Gable,CompShg,AsbShng,AsbShng,BrkTil,Gd,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,TA,8,1,Detchd,Unf,2.0,P
+309,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,4,1,Attchd,RFn,2.0,Y
+310,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,1,Attchd,RFn,3.0,Y
+311,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,1,4,1,TA,8,1,Attchd,RFn,2.0,Y
+312,1.5Fin,Gambrel,CompShg,MetalSd,MetalSd,BrkTil,TA,Fa,No,Unf,Unf,0.0,0.0,2,0,4,1,TA,7,0,Detchd,Unf,1.0,P
+313,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,7,0,Attchd,Fin,2.0,Y
+314,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,8,1,Attchd,RFn,1.0,Y
+315,2Story,Gable,CompShg,CemntBd,CmentBd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,TA,5,0,CarPort,Unf,1.0,Y
+316,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,1,Attchd,RFn,2.0,Y
+317,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,Gd,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,11,1,BuiltIn,Fin,3.0,Y
+318,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Ex,7,0,Attchd,Fin,2.0,Y
+319,2Story,Hip,WdShake,VinylSd,VinylSd,PConc,Gd,TA,Av,BLQ,GLQ,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,Fin,3.0,Y
+320,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,2,1,TA,7,0,Detchd,Unf,2.0,Y
+321,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,Fin,2.0,Y
+322,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+323,1Story,Gable,CompShg,Plywood,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,1.0,1,0,3,1,TA,5,0,Attchd,RFn,1.0,Y
+324,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,2.0,Y
+325,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+326,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,2,TA,8,0,Detchd,Unf,2.0,Y
+327,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,ALQ,Unf,0.0,0.0,2,0,2,1,TA,5,1,Attchd,RFn,2.0,Y
+328,1Story,Hip,CompShg,BrkFace,BrkFace,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,3,0,4,1,Gd,10,1,Attchd,RFn,2.0,Y
+329,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,1,3,1,TA,5,0,Detchd,Fin,2.0,Y
+330,1.5Fin,Gable,CompShg,Wd Sdng,Wd Shng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,8,1,Detchd,Unf,2.0,Y
+331,SLvl,Hip,CompShg,VinylSd,VinylSd,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,3,1,3,1,TA,7,1,BuiltIn,Fin,2.0,Y
+332,2Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,4,1,Ex,10,1,BuiltIn,Fin,4.0,Y
+333,2.5Unf,Gable,CompShg,Wd Sdng,Wd Shng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,5,1,Gd,10,0,Detchd,Unf,2.0,Y
+335,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,2,1,3,1,Gd,8,1,BuiltIn,RFn,2.0,Y
+336,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Gd,6,0,Detchd,Unf,1.0,P
+337,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Av,BLQ,Unf,1.0,0.0,1,0,3,1,TA,7,1,2Types,Fin,4.0,Y
+338,2Story,Hip,CompShg,WdShing,Wd Shng,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+339,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,1,1,2,1,Gd,5,0,Attchd,RFn,2.0,Y
+340,1Story,Gable,CompShg,BrkFace,Wd Sdng,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+341,2Story,Hip,CompShg,Wd Sdng,Wd Sdng,PConc,TA,Fa,No,Unf,Unf,0.0,0.0,1,1,3,1,Gd,7,2,Detchd,Unf,1.0,Y
+342,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,2,1,TA,5,0,Detchd,Unf,1.0,Y
+343,SLvl,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Gd,ALQ,Unf,1.0,0.0,1,0,2,1,TA,6,0,Attchd,RFn,1.0,Y
+344,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Detchd,Unf,2.0,Y
+345,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+346,SLvl,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,Gd,Av,GLQ,Unf,1.0,1.0,0,0,0,1,TA,3,0,Attchd,Unf,1.0,Y
+347,2Story,Gable,CompShg,VinylSd,VinylSd,CBlock,Gd,TA,No,ALQ,Unf,1.0,0.0,2,1,3,1,TA,6,1,Attchd,RFn,2.0,Y
+348,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,Unf,Unf,0.0,0.0,2,0,2,1,Gd,7,1,Attchd,RFn,3.0,Y
+349,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,2.0,Y
+350,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,LwQ,Unf,0.0,1.0,1,1,3,1,TA,6,2,Detchd,Unf,2.0,Y
+351,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Fa,TA,No,Unf,Unf,0.0,1.0,1,0,2,1,Fa,4,0,CarPort,Unf,1.0,Y
+352,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+353,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Unf,Unf,0.0,1.0,1,0,3,1,TA,6,1,Attchd,Unf,1.0,Y
+354,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Attchd,RFn,2.0,Y
+355,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Av,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,9,1,Attchd,Unf,3.0,Y
+357,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,2.0,N
+358,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,Unf,Unf,0.0,1.0,1,0,3,1,Gd,6,0,Attchd,Unf,1.0,Y
+359,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,1,2,1,Gd,7,1,Attchd,Fin,3.0,Y
+360,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,ALQ,Rec,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,1.0,Y
+361,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Gd,Unf,Unf,0.0,0.0,2,1,4,1,Ex,9,1,BuiltIn,Fin,3.0,Y
+362,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,Fa,5,0,Detchd,Unf,1.0,N
+363,1.5Fin,Gable,CompShg,VinylSd,Stucco,BrkTil,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+364,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,1,Attchd,Unf,3.0,Y
+365,1.5Fin,Gable,CompShg,BrkFace,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,0,4,1,TA,6,0,Detchd,Unf,2.0,Y
+366,SFoyer,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,1.0,Y
+367,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Fa,Fa,No,LwQ,Unf,0.0,0.0,1,0,4,1,TA,6,0,Detchd,Unf,1.0,Y
+368,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,ALQ,Unf,1.0,0.0,2,0,3,1,TA,6,0,Attchd,RFn,2.0,Y
+369,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Ex,8,1,BuiltIn,Fin,3.0,Y
+370,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,2,Attchd,RFn,2.0,Y
+371,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,TA,6,2,Attchd,Unf,1.0,Y
+372,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+373,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,8,1,BuiltIn,RFn,2.0,Y
+374,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Detchd,Unf,1.0,Y
+375,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,BLQ,LwQ,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+376,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,ALQ,BLQ,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,1.0,Y
+377,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Unf,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,RFn,2.0,Y
+378,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Gd,ALQ,Unf,1.0,0.0,2,0,3,1,TA,8,2,Attchd,Fin,2.0,Y
+379,2.5Unf,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,Fa,No,Unf,Unf,0.0,0.0,1,0,3,1,Fa,6,0,Detchd,Unf,1.0,N
+380,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+381,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+383,1.5Unf,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,1.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+384,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,BLQ,LwQ,1.0,0.0,2,0,3,1,TA,7,1,Attchd,Unf,2.0,Y
+385,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+386,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+387,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,No,Unf,Unf,0.0,0.0,2,0,4,1,Gd,8,0,Attchd,RFn,3.0,Y
+388,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+389,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,GLQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,3.0,Y
+391,1Story,Hip,CompShg,HdBoard,Plywood,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,3,1,TA,6,0,Attchd,Unf,2.0,Y
+392,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,4,1,Ex,10,1,BuiltIn,Fin,3.0,Y
+393,SLvl,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,Av,ALQ,BLQ,1.0,0.0,1,0,3,1,TA,6,1,Detchd,Unf,2.0,Y
+394,2Story,Gable,CompShg,VinylSd,AsbShng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,2,TA,11,0,Detchd,Unf,2.0,N
+395,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,2,1,TA,5,0,Detchd,Unf,1.0,Y
+396,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,Fa,TA,No,LwQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+397,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,1.0,0.0,1,1,3,1,TA,7,0,Attchd,RFn,2.0,Y
+398,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Ex,10,1,Attchd,Fin,3.0,Y
+399,1Story,Gable,CompShg,MetalSd,HdBoard,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,3,1,TA,6,2,Attchd,Unf,2.0,Y
+400,SFoyer,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Av,GLQ,Unf,2.0,0.0,0,2,2,2,TA,6,2,Detchd,Unf,2.0,Y
+401,2Story,Gambrel,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,BLQ,Unf,1.0,0.0,2,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+402,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,Gd,Av,LwQ,ALQ,1.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+403,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,5,0,Detchd,Unf,2.0,Y
+404,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,3.0,Y
+405,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+407,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,2,Gd,7,0,BuiltIn,Unf,1.0,Y
+408,2Story,Gambrel,CompShg,BrkFace,BrkFace,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,N
+410,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,RFn,1.0,N
+411,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,Gd,No,BLQ,Unf,1.0,0.0,1,1,3,1,TA,6,1,Attchd,RFn,1.0,Y
+412,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,Rec,0.0,0.0,1,0,2,1,TA,4,1,Detchd,Fin,1.0,Y
+413,1.5Fin,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,7,1,Detchd,Unf,1.0,Y
+414,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+415,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,1,3,1,TA,7,2,Attchd,Fin,2.0,Y
+416,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,BLQ,ALQ,1.0,0.0,1,0,2,1,TA,5,0,Attchd,Unf,2.0,Y
+417,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+418,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,0,Attchd,Unf,2.0,Y
+419,2Story,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,7,1,Detchd,Unf,1.0,Y
+420,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+421,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,1,1,3,1,Gd,5,0,Detchd,Unf,2.0,Y
+422,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,RFn,3.0,Y
+423,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,Gd,TA,No,ALQ,Unf,1.0,0.0,1,1,3,1,Gd,7,2,Detchd,Unf,1.0,Y
+424,1Story,Hip,CompShg,BrkFace,VinylSd,PConc,TA,TA,Mn,ALQ,BLQ,1.0,0.0,2,0,3,1,Gd,7,2,Attchd,RFn,1.0,Y
+425,2.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,Gd,TA,Mn,Rec,Unf,0.0,0.0,1,1,2,1,TA,6,2,Detchd,Unf,2.0,N
+427,SLvl,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,Av,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,Unf,2.0,Y
+428,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,2,1,4,1,Gd,8,1,BuiltIn,Fin,3.0,Y
+429,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,RFn,2.0,Y
+430,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,2,1,Gd,4,0,Detchd,Unf,2.0,Y
+431,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+432,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,Fa,No,Rec,Unf,0.0,0.0,1,0,1,1,Fa,3,0,Detchd,Unf,1.0,N
+433,SFoyer,Gable,CompShg,HdBoard,Plywood,CBlock,Gd,Gd,Gd,ALQ,Unf,0.0,1.0,1,0,3,1,TA,6,0,BuiltIn,RFn,2.0,Y
+434,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,9,1,BuiltIn,RFn,2.0,Y
+435,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+436,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Av,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+438,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,2,0,2,1,Gd,5,2,Attchd,Unf,2.0,Y
+439,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,ALQ,Unf,0.0,1.0,1,0,3,1,TA,7,0,Detchd,Unf,2.0,Y
+440,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,Fin,2.0,Y
+441,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Gd,ALQ,Unf,1.0,0.0,1,1,3,1,TA,7,0,2Types,Unf,3.0,N
+442,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,GLQ,Unf,0.0,1.0,1,0,2,1,TA,4,0,Attchd,Unf,1.0,Y
+443,1Story,Gable,CompShg,WdShing,Wd Shng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,TA,7,1,Attchd,Unf,1.0,Y
+444,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,1,4,1,Gd,7,0,Attchd,Fin,2.0,Y
+446,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,TA,6,1,Attchd,RFn,2.0,Y
+447,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+448,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,ALQ,Unf,0.0,1.0,2,1,3,1,Gd,8,1,Attchd,RFn,3.0,Y
+449,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,0,Attchd,Fin,2.0,Y
+450,SFoyer,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+451,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,Fin,2.0,Y
+452,SFoyer,Gable,CompShg,Plywood,HdBoard,CBlock,Gd,TA,Gd,GLQ,Unf,0.0,1.0,1,0,3,1,TA,5,1,Basment,Fin,2.0,Y
+453,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Mn,ALQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,2.0,Y
+454,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,2,1,Gd,4,0,Attchd,RFn,2.0,Y
+455,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,7,1,Detchd,Unf,1.0,N
+456,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,1,2,1,TA,6,2,Detchd,Unf,2.0,Y
+458,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,RFn,2.0,Y
+459,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,Fa,TA,No,LwQ,Unf,1.0,0.0,2,0,3,1,Fa,6,0,Detchd,Unf,1.0,Y
+460,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,ALQ,1.0,0.0,1,0,2,1,TA,5,0,Attchd,RFn,1.0,Y
+461,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+462,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,N
+463,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,Gd,TA,No,GLQ,ALQ,1.0,0.0,1,1,1,1,Gd,5,1,Attchd,Fin,1.0,Y
+464,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,3,1,TA,7,0,Detchd,Unf,1.0,Y
+465,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,Fin,3.0,Y
+466,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,Gd,No,GLQ,Unf,0.0,1.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+467,1.5Fin,Gable,CompShg,VinylSd,VinylSd,BrkTil,Fa,TA,No,Unf,Unf,0.0,0.0,1,1,4,1,TA,7,1,Detchd,Unf,2.0,Y
+468,2Story,Gambrel,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,LwQ,1.0,0.0,2,1,3,1,Gd,9,1,Detchd,Unf,1.0,Y
+469,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,3,1,5,1,Gd,10,1,BuiltIn,Fin,2.0,Y
+470,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,LwQ,Rec,1.0,0.0,1,1,3,1,Gd,6,0,Attchd,RFn,1.0,Y
+471,1.5Fin,Gable,CompShg,Wd Sdng,HdBoard,CBlock,Gd,TA,Gd,Rec,Unf,0.0,1.0,2,0,4,1,Gd,7,2,Attchd,Fin,2.0,Y
+472,1.5Fin,Gable,CompShg,BrkFace,Wd Sdng,BrkTil,TA,TA,No,LwQ,Unf,0.0,0.0,1,0,3,1,TA,6,2,BuiltIn,Unf,1.0,Y
+473,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+474,1.5Fin,Gable,CompShg,AsbShng,CmentBd,BrkTil,TA,Gd,No,GLQ,Unf,0.0,0.0,2,0,4,1,Gd,7,1,Detchd,Unf,1.0,Y
+475,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,3.0,Y
+476,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,2,1,Gd,4,0,Detchd,RFn,2.0,Y
+477,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,1,2,1,TA,6,0,Detchd,Unf,2.0,Y
+478,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,ALQ,1.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+479,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,0,Attchd,RFn,2.0,Y
+480,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,Gd,GLQ,Unf,1.0,0.0,1,1,1,1,Gd,7,1,Attchd,RFn,2.0,Y
+481,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,0.0,1.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+482,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,Fa,Gd,LwQ,Unf,0.0,0.0,2,1,5,1,Gd,9,0,Attchd,Fin,2.0,Y
+483,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,Fin,2.0,Y
+484,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,BLQ,1.0,0.0,1,0,3,1,Gd,5,0,Attchd,RFn,1.0,Y
+487,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,Fa,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,2.0,N
+488,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,1,Attchd,Fin,3.0,Y
+489,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Mn,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,10,1,Attchd,Fin,3.0,Y
+490,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,BuiltIn,RFn,2.0,Y
+491,SFoyer,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Av,BLQ,Rec,1.0,0.0,2,0,3,1,TA,6,0,Detchd,RFn,2.0,Y
+492,1Story,Hip,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,7,1,Attchd,Fin,2.0,Y
+493,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,6,1,Detchd,Unf,1.0,Y
+494,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,ALQ,Unf,1.0,0.0,1,0,2,1,Gd,4,1,Attchd,RFn,2.0,Y
+495,1.5Fin,Gable,CompShg,AsbShng,AsbShng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,6,0,Detchd,Unf,1.0,N
+496,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Unf,0.0,1.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+497,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+498,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Ex,7,1,Attchd,RFn,3.0,Y
+500,2Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,GLQ,Rec,0.0,1.0,1,1,4,1,Gd,7,0,Attchd,Unf,2.0,Y
+501,1Story,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,1,1,1,TA,4,0,Detchd,Unf,1.0,Y
+502,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+503,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Fa,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,2.0,Y
+504,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,7,1,Attchd,Fin,3.0,Y
+505,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+506,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+507,2Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,Gd,BLQ,LwQ,0.0,0.0,1,1,4,1,TA,7,1,Attchd,RFn,2.0,Y
+508,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,BLQ,0.0,0.0,1,0,3,1,TA,5,1,Detchd,Unf,1.0,Y
+509,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,11,1,Attchd,Fin,3.0,Y
+510,2Story,Gable,CompShg,Wd Sdng,Stucco,BrkTil,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,Gd,6,2,Detchd,Unf,1.0,Y
+511,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,7,1,Attchd,RFn,3.0,Y
+512,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+513,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,LwQ,Rec,1.0,0.0,1,0,1,1,TA,6,1,Detchd,Unf,1.0,Y
+515,1.5Fin,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,Gd,No,GLQ,LwQ,0.0,0.0,2,1,4,1,Gd,9,0,Attchd,Unf,3.0,Y
+516,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+517,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Gd,Unf,Unf,0.0,0.0,2,0,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+518,2Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,Fa,No,BLQ,Unf,1.0,0.0,2,0,4,1,TA,8,0,Attchd,Unf,1.0,Y
+519,2Story,Gable,CompShg,BrkFace,MetalSd,PConc,Gd,TA,Mn,BLQ,GLQ,1.0,0.0,2,1,2,1,Ex,7,1,Attchd,Fin,2.0,Y
+520,2Story,Hip,CompShg,CemntBd,CmentBd,PConc,Fa,TA,No,Unf,Unf,0.0,0.0,2,0,5,1,TA,8,0,Detchd,Unf,2.0,Y
+521,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Attchd,Unf,1.0,N
+522,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Av,LwQ,Unf,0.0,0.0,2,1,3,1,TA,9,1,Attchd,Fin,3.0,Y
+523,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,4,1,TA,6,1,Detchd,Unf,1.0,Y
+524,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,RFn,1.0,Y
+525,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Fa,TA,No,ALQ,Unf,1.0,0.0,1,0,4,1,TA,7,0,Detchd,Unf,1.0,Y
+526,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,7,1,Attchd,Fin,3.0,Y
+527,2Story,Gable,CompShg,VinylSd,VinylSd,CBlock,Fa,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+528,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,LwQ,1.0,0.0,2,0,3,1,TA,6,1,Attchd,RFn,1.0,Y
+529,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,10,1,BuiltIn,RFn,3.0,Y
+531,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,0,Attchd,Fin,2.0,Y
+532,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,Unf,2.0,Y
+533,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,6,2,Detchd,Unf,1.0,Y
+534,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,2,0,6,2,TA,10,0,Detchd,Unf,2.0,Y
+535,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Fin,1.0,Y
+536,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+537,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+538,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+539,1.5Fin,Hip,CompShg,VinylSd,VinylSd,CBlock,TA,Fa,No,Unf,Unf,0.0,0.0,1,0,2,1,Gd,5,0,Attchd,Unf,1.0,Y
+540,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,0,Attchd,RFn,2.0,Y
+541,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,1,1,1,1,Gd,5,1,Attchd,RFn,2.0,Y
+543,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,RFn,2.0,Y
+544,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,TA,7,0,Detchd,Unf,2.0,N
+545,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,ALQ,BLQ,0.0,0.0,2,0,4,1,Gd,8,1,Attchd,Unf,2.0,Y
+546,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,RFn,1.0,Y
+547,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,Gd,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,7,0,Detchd,Unf,1.0,Y
+548,1.5Fin,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,N
+549,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+550,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,6,0,Detchd,Unf,1.0,Y
+551,1.5Fin,Gable,CompShg,WdShing,Wd Shng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,1,BuiltIn,RFn,1.0,Y
+552,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+553,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Rec,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+554,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,4.0,Y
+556,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+557,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+558,2Story,Gambrel,CompShg,MetalSd,MetalSd,BrkTil,Gd,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,Gd,9,2,Detchd,Unf,1.0,Y
+559,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,3,1,Attchd,RFn,2.0,Y
+560,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Av,Unf,Unf,1.0,0.0,1,0,5,1,TA,8,2,Attchd,Unf,1.0,Y
+561,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,GLQ,Rec,0.0,1.0,1,0,3,1,Gd,7,1,Basment,RFn,2.0,Y
+563,2Story,Gable,CompShg,Plywood,Plywood,PConc,Gd,TA,No,GLQ,Unf,0.0,1.0,2,1,4,1,TA,8,1,Attchd,Unf,2.0,Y
+564,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,0,Attchd,Fin,2.0,Y
+565,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Gd,Rec,ALQ,1.0,0.0,1,1,3,1,TA,6,0,Attchd,RFn,2.0,Y
+566,SLvl,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,Av,LwQ,ALQ,1.0,0.0,1,0,3,1,TA,6,2,Attchd,RFn,2.0,Y
+567,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+568,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Mn,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Unf,2.0,Y
+569,1.5Fin,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,BLQ,Unf,0.0,1.0,1,0,2,1,TA,6,0,Detchd,Unf,1.0,Y
+570,SFoyer,Gable,CompShg,HdBoard,Wd Shng,CBlock,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,1,BuiltIn,RFn,2.0,Y
+571,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,2,1,Gd,5,0,Detchd,Unf,2.0,Y
+572,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,0,3,1,TA,6,1,Detchd,Unf,2.0,P
+573,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,Gd,No,LwQ,Unf,0.0,1.0,1,1,3,1,Ex,6,1,Detchd,Unf,2.0,Y
+574,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,TA,6,1,Attchd,Fin,2.0,Y
+575,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,4,0,Attchd,Fin,2.0,Y
+576,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,Av,ALQ,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+577,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,6,0,Attchd,Unf,2.0,Y
+578,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,0,Attchd,RFn,2.0,Y
+582,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+583,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,TA,5,0,Attchd,Unf,2.0,Y
+584,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,1,Gd,6,0,Detchd,Unf,1.0,Y
+585,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,BLQ,Unf,1.0,0.0,2,1,2,1,Gd,4,0,Detchd,Unf,2.0,Y
+586,SFoyer,Gable,CompShg,HdBoard,Wd Shng,PConc,Gd,TA,Av,GLQ,LwQ,1.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,2.0,Y
+587,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,RFn,1.0,Y
+588,2Story,Gable,CompShg,Stucco,Stucco,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,9,0,Detchd,Unf,2.0,Y
+589,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+590,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,TA,6,1,Attchd,Fin,1.0,Y
+591,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,1,1,1,1,Gd,4,0,Attchd,Fin,2.0,Y
+592,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,ALQ,Unf,0.0,1.0,2,0,2,1,TA,6,1,Attchd,RFn,2.0,Y
+593,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Rec,0.0,1.0,1,0,3,1,Gd,7,2,Attchd,Unf,2.0,Y
+594,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+595,2Story,Hip,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,1,2,4,1,Gd,8,2,Attchd,RFn,2.0,Y
+596,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,Fin,2.0,Y
+597,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+598,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,0,Attchd,RFn,3.0,Y
+599,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,ALQ,Unf,1.0,0.0,1,1,2,1,Gd,6,0,2Types,Unf,3.0,N
+600,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,Unf,2.0,Y
+601,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+602,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,BLQ,Unf,1.0,0.0,1,0,2,1,TA,5,2,Attchd,Unf,1.0,Y
+603,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,2,1,TA,6,1,Detchd,Unf,2.0,Y
+604,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,TA,5,1,Attchd,RFn,2.0,Y
+605,1Story,Hip,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,BLQ,Unf,0.0,1.0,2,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+606,2Story,Hip,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,10,1,Attchd,Unf,2.0,Y
+607,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+608,1Story,Gable,CompShg,Stone,Stone,PConc,TA,TA,No,ALQ,GLQ,0.0,0.0,1,0,2,1,Ex,6,1,Attchd,Fin,2.0,Y
+609,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,9,1,Attchd,RFn,3.0,Y
+610,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+611,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,4,1,TA,7,1,Attchd,Unf,2.0,Y
+613,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,1.0,2,1,3,1,Gd,8,1,2Types,RFn,4.0,Y
+614,SLvl,Gable,CompShg,Plywood,VinylSd,CBlock,TA,Ex,Av,ALQ,Unf,0.0,0.0,2,0,3,1,TA,6,1,Detchd,Unf,2.0,Y
+615,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+617,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,5,0,Detchd,Unf,2.0,Y
+618,1Story,Gable,CompShg,BrkFace,BrkFace,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,1,1,1,1,Ex,4,2,Attchd,Fin,2.0,Y
+619,1.5Unf,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+620,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,2,Attchd,Fin,3.0,Y
+621,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,8,1,Attchd,Fin,3.0,Y
+622,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,7,1,Attchd,Fin,3.0,Y
+623,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,2,1,Ex,8,1,Attchd,Fin,3.0,Y
+624,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,Fa,TA,Mn,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+625,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,4,0,Attchd,Fin,2.0,Y
+626,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,Unf,3.0,Y
+627,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,0,Attchd,Fin,2.0,Y
+628,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+629,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,4,1,TA,6,0,Attchd,Unf,1.0,Y
+630,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,RFn,2.0,Y
+631,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+632,1Story,Hip,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,GLQ,Rec,1.0,0.0,2,0,3,1,Gd,7,2,Attchd,Fin,2.0,Y
+633,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+634,1Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Attchd,Unf,1.0,Y
+637,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Mn,GLQ,Unf,1.0,0.0,2,1,2,1,Ex,7,1,Attchd,Fin,3.0,Y
+638,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,2,0,4,2,TA,8,0,2Types,Unf,3.0,Y
+639,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,Unf,0.0,1.0,1,1,3,1,Gd,8,2,Attchd,Unf,2.0,Y
+640,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+641,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,0,BuiltIn,RFn,2.0,Y
+643,2Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,Fa,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,6,0,Detchd,Unf,1.0,N
+644,2Story,Gable,CompShg,VinylSd,VinylSd,BrkTil,Fa,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Detchd,Unf,2.0,N
+645,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Mn,GLQ,Unf,1.0,0.0,3,1,4,1,Ex,10,1,BuiltIn,Fin,3.0,Y
+646,1Story,Gable,Tar&Grv,VinylSd,VinylSd,PConc,Gd,TA,Gd,BLQ,Rec,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,3.0,Y
+647,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,RFn,2.0,Y
+648,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+649,2Story,Gable,CompShg,Stucco,BrkFace,BrkTil,Fa,Gd,Mn,Unf,Unf,0.0,0.0,2,0,3,1,Ex,8,0,Detchd,Unf,1.0,Y
+650,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Fa,TA,Gd,ALQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,Attchd,RFn,2.0,Y
+651,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,ALQ,LwQ,1.0,0.0,1,0,2,1,TA,6,1,Attchd,RFn,2.0,Y
+652,1Story,Gable,CompShg,WdShing,Stucco,PConc,TA,TA,No,LwQ,Unf,0.0,0.0,1,0,2,1,Gd,4,1,Detchd,Unf,1.0,P
+654,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,2.0,Y
+655,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,No,Rec,ALQ,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+656,2Story,Gable,CompShg,AsbShng,Stucco,BrkTil,TA,Fa,No,Unf,Unf,1.0,0.0,2,0,4,2,TA,8,0,2Types,Unf,3.0,N
+657,SLvl,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,Av,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,Fin,1.0,Y
+658,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+659,1Story,Hip,CompShg,BrkFace,Plywood,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+660,2Story,Hip,CompShg,Stucco,Wd Shng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Gd,7,1,Detchd,Unf,1.0,Y
+661,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,Fin,3.0,Y
+662,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,TA,5,1,Detchd,Unf,1.0,Y
+664,1Story,Gable,CompShg,ImStucc,ImStucc,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,RFn,3.0,Y
+665,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,BLQ,1.0,0.0,1,0,2,1,TA,5,0,Attchd,Unf,2.0,Y
+666,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,Gd,BLQ,Unf,0.0,1.0,1,1,2,1,TA,5,2,Attchd,RFn,1.0,P
+667,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,1,Detchd,Unf,1.0,N
+668,2Story,Hip,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,2,1,4,1,Gd,9,2,Attchd,RFn,2.0,Y
+669,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+670,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,Gd,No,GLQ,Unf,1.0,0.0,3,0,3,1,Ex,8,0,Attchd,Unf,1.0,Y
+671,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,LwQ,1.0,0.0,1,0,2,1,TA,6,1,Attchd,RFn,2.0,Y
+672,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+673,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,0,Detchd,Unf,2.0,Y
+674,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,0.0,1.0,1,0,3,1,TA,5,0,Attchd,Unf,2.0,Y
+675,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Gd,BLQ,Unf,1.0,0.0,1,0,2,1,TA,6,2,Attchd,RFn,1.0,Y
+676,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,8,0,Attchd,Fin,2.0,Y
+677,SLvl,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,1,1,TA,4,1,BuiltIn,RFn,1.0,Y
+678,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,Rec,Unf,0.0,1.0,1,0,3,1,TA,6,1,Attchd,RFn,1.0,Y
+679,2Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,Fa,Mn,Unf,Unf,0.0,0.0,1,0,2,1,TA,7,0,Detchd,Unf,1.0,N
+680,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,Mn,BLQ,Rec,0.0,0.0,1,1,3,1,TA,6,1,Attchd,RFn,2.0,Y
+681,2Story,Hip,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Detchd,Unf,2.0,Y
+682,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,7,1,Attchd,Fin,3.0,Y
+683,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,2,1,TA,6,0,Detchd,Unf,1.0,Y
+684,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,10,2,BuiltIn,RFn,3.0,Y
+685,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,9,2,Attchd,Fin,3.0,Y
+686,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,4,0,Detchd,Unf,1.0,Y
+687,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,2.0,Y
+688,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,1,4,1,TA,7,0,Attchd,Unf,2.0,Y
+690,1.5Fin,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+691,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+693,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,3.0,Y
+694,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,2,Attchd,Unf,2.0,Y
+695,1Story,Gable,CompShg,Plywood,Wd Sdng,CBlock,TA,TA,No,Rec,ALQ,1.0,0.0,2,0,2,1,TA,5,0,Attchd,Fin,2.0,Y
+697,2Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,TA,TA,No,ALQ,Rec,0.0,1.0,2,1,3,1,TA,6,1,Attchd,Unf,2.0,Y
+698,2Story,Gable,CompShg,Stucco,Stucco,PConc,TA,TA,No,ALQ,Unf,1.0,0.0,1,1,4,1,Ex,7,1,Attchd,Unf,1.0,Y
+699,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,ALQ,Unf,1.0,0.0,2,0,2,1,TA,6,1,Attchd,Fin,2.0,Y
+701,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,1,Attchd,Fin,2.0,Y
+702,SLvl,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Av,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Detchd,Unf,1.0,Y
+703,1.5Fin,Gable,CompShg,BrkFace,BrkFace,CBlock,Gd,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,Gd,6,1,Attchd,Fin,1.0,Y
+704,1Story,Mansard,CompShg,MetalSd,MetalSd,BrkTil,TA,Gd,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,P
+706,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,Fin,3.0,Y
+707,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,RFn,2.0,Y
+709,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,ALQ,Unf,0.0,1.0,2,0,3,1,TA,7,1,Attchd,Fin,2.0,Y
+710,1Story,Gable,CompShg,VinylSd,Plywood,CBlock,Gd,Fa,No,ALQ,LwQ,1.0,0.0,2,0,3,1,TA,7,1,Attchd,Fin,2.0,Y
+711,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+712,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,2,TA,8,0,Attchd,Unf,2.0,Y
+713,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,3,1,Gd,6,1,Detchd,Unf,1.0,Y
+714,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,6,0,Attchd,Unf,2.0,Y
+715,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+716,SFoyer,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Gd,ALQ,Unf,0.0,1.0,1,0,3,1,TA,6,1,Basment,Fin,2.0,Y
+717,1.5Fin,Gambrel,CompShg,MetalSd,MetalSd,BrkTil,Gd,Gd,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,7,0,Detchd,Unf,1.0,N
+718,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Rec,1.0,0.0,1,0,3,1,Gd,7,1,Attchd,RFn,1.0,Y
+719,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,9,2,Attchd,RFn,2.0,Y
+720,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+721,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,5,0,Attchd,Fin,2.0,Y
+723,2Story,Gable,CompShg,Stucco,Stucco,BrkTil,TA,TA,No,Unf,Unf,1.0,0.0,1,0,3,1,Ex,5,1,Attchd,Unf,1.0,N
+724,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,6,0,Detchd,Unf,1.0,Y
+725,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,1,1,1,1,Gd,4,1,Attchd,Fin,2.0,Y
+726,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,No,GLQ,Unf,1.0,0.0,2,1,4,1,Ex,11,1,Attchd,RFn,3.0,Y
+727,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,2,Attchd,RFn,3.0,Y
+728,1Story,Gable,CompShg,VinylSd,Wd Shng,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+729,SLvl,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Gd,GLQ,Rec,0.0,1.0,2,0,3,1,Gd,5,1,Attchd,Fin,2.0,Y
+730,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,BLQ,Rec,1.0,0.0,1,0,3,1,TA,6,2,Attchd,Unf,1.0,Y
+731,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,ALQ,Unf,1.0,0.0,2,1,3,1,TA,7,0,Attchd,Fin,2.0,Y
+732,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,Gd,6,0,Attchd,Unf,1.0,Y
+733,1Story,Gable,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,2,1,TA,4,1,Attchd,RFn,1.0,Y
+734,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,ALQ,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+735,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+738,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,1.0,N
+739,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,3.0,Y
+740,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,1.0,1,0,3,1,Gd,6,1,Attchd,Unf,1.0,Y
+742,1Story,Gable,CompShg,VinylSd,VinylSd,Wood,Gd,TA,Av,GLQ,BLQ,1.0,0.0,2,0,2,1,Gd,5,0,Attchd,Unf,2.0,Y
+743,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,2,0,4,2,TA,8,0,Attchd,Fin,2.0,Y
+744,SFoyer,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Av,GLQ,Unf,2.0,0.0,0,2,0,2,TA,6,0,CarPort,Unf,2.0,Y
+745,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Av,BLQ,Rec,1.0,0.0,1,0,3,1,TA,7,2,Detchd,Unf,2.0,N
+746,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,2,TA,8,0,Detchd,Unf,2.0,Y
+747,2Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+748,SFoyer,Gable,CompShg,VinylSd,Wd Shng,CBlock,Ex,TA,Gd,GLQ,Unf,1.0,0.0,1,0,2,1,TA,5,1,Attchd,RFn,2.0,Y
+749,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,Rec,BLQ,1.0,0.0,1,0,3,1,TA,5,0,Attchd,RFn,1.0,Y
+750,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Mn,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+751,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Attchd,RFn,2.0,N
+752,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+753,SLvl,Hip,CompShg,Plywood,Plywood,PConc,Gd,TA,Gd,GLQ,ALQ,2.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+754,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,5,0,Basment,Unf,2.0,Y
+755,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,7,1,Attchd,Unf,2.0,Y
+756,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,1,Attchd,RFn,2.0,Y
+757,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,1,2,1,TA,5,1,Attchd,RFn,1.0,Y
+758,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,BLQ,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+759,2Story,Gable,CompShg,WdShing,Wd Shng,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+760,SLvl,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,Unf,2.0,Y
+761,SLvl,Gable,CompShg,WdShing,Wd Sdng,CBlock,Gd,TA,Gd,ALQ,BLQ,1.0,2.0,2,0,3,1,Gd,9,4,Attchd,RFn,2.0,Y
+762,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+763,SFoyer,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+764,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,8,0,Attchd,Unf,2.0,Y
+765,1.5Fin,Shed,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,GLQ,Rec,0.0,0.0,2,2,4,2,TA,12,1,BuiltIn,RFn,2.0,N
+766,2Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,Fa,TA,No,Unf,Unf,0.0,0.0,2,0,4,2,TA,10,0,Detchd,Unf,2.0,N
+767,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+768,1.5Fin,Gable,CompShg,AsbShng,AsbShng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,4,0,Detchd,Unf,1.0,P
+769,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,RFn,1.0,Y
+770,2Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,Gd,LwQ,ALQ,1.0,0.0,2,1,4,1,Gd,8,1,Attchd,Fin,2.0,Y
+771,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+773,2Story,Gable,CompShg,AsbShng,AsbShng,BrkTil,TA,TA,No,Rec,Unf,0.0,0.0,2,0,4,2,TA,10,0,2Types,Unf,2.0,Y
+774,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,Fa,Mn,ALQ,Rec,1.0,0.0,1,1,4,1,TA,7,0,Attchd,RFn,2.0,Y
+775,1Story,Gable,CompShg,BrkFace,Wd Sdng,CBlock,TA,TA,No,BLQ,LwQ,0.0,0.0,1,1,3,1,TA,6,1,Detchd,Unf,1.0,Y
+776,1Story,Hip,CompShg,Plywood,HdBoard,PConc,TA,TA,Mn,BLQ,Unf,1.0,0.0,1,1,3,1,TA,6,0,Attchd,Unf,2.0,Y
+777,SLvl,Gable,CompShg,AsbShng,AsbShng,CBlock,TA,TA,Av,BLQ,LwQ,1.0,0.0,1,0,3,1,TA,7,2,Basment,RFn,1.0,Y
+778,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+779,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,Gd,No,GLQ,Unf,1.0,0.0,2,0,1,1,Ex,6,1,Attchd,Fin,3.0,Y
+780,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+781,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,2,1,TA,4,0,Basment,Unf,1.0,Y
+782,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,Mn,LwQ,Unf,0.0,0.0,2,0,3,1,Gd,5,0,Detchd,Unf,1.0,Y
+784,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,Mn,Unf,Unf,0.0,0.0,2,0,5,1,Fa,8,0,Detchd,Unf,1.0,N
+785,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+786,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,Gd,TA,Gd,ALQ,Rec,1.0,0.0,2,0,2,1,Gd,7,2,Attchd,RFn,2.0,Y
+788,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,6,0,BuiltIn,RFn,2.0,Y
+789,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,2,1,Gd,7,1,Attchd,RFn,2.0,Y
+792,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+793,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,LwQ,GLQ,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+795,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+796,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,1.0,Y
+797,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Mn,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,2.0,N
+798,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,Fin,2.0,Y
+799,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+800,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Av,GLQ,Unf,2.0,0.0,2,1,2,1,Ex,7,1,Attchd,Fin,3.0,Y
+801,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+802,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+803,SFoyer,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,2,1,Gd,4,0,Attchd,Unf,2.0,Y
+804,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,Fa,Fa,Mn,Unf,Unf,0.0,0.0,2,0,3,1,TA,6,0,Detchd,Fin,2.0,Y
+805,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+806,SFoyer,Gable,CompShg,VinylSd,VinylSd,Wood,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,Basment,Fin,2.0,Y
+807,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,N
+808,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,3.0,Y
+809,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,1,Attchd,Fin,3.0,Y
+810,2Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,2,4,1,TA,8,1,Attchd,RFn,2.0,Y
+811,SLvl,Gable,CompShg,Plywood,HdBoard,CBlock,Gd,Gd,Gd,GLQ,LwQ,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+812,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,1,Attchd,Fin,2.0,Y
+813,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,Rec,Unf,0.0,1.0,1,1,4,1,Gd,6,1,Attchd,RFn,2.0,Y
+815,2Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Gd,BLQ,Rec,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+816,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,2,1,Gd,4,0,Detchd,Unf,2.0,Y
+817,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,BLQ,Unf,0.0,0.0,2,0,2,1,TA,8,1,Detchd,Unf,1.0,P
+818,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+819,SFoyer,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,2,1,Gd,5,0,Attchd,Unf,2.0,Y
+820,1.5Fin,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,No,ALQ,Rec,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+821,1.5Fin,Gable,CompShg,CBlock,CBlock,PConc,TA,TA,No,ALQ,Rec,0.0,0.0,1,0,2,1,TA,6,0,Detchd,Fin,1.0,Y
+823,2Story,Hip,CompShg,CemntBd,Wd Shng,PConc,Gd,TA,Gd,ALQ,Unf,1.0,0.0,3,1,4,1,Ex,12,1,BuiltIn,Fin,3.0,Y
+825,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,2,Attchd,Fin,2.0,Y
+826,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+827,1Story,Hip,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,BLQ,LwQ,1.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+828,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,8,1,Detchd,Unf,2.0,Y
+829,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,GLQ,ALQ,1.0,0.0,1,0,2,1,Gd,6,0,Attchd,Unf,2.0,Y
+830,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,2,1,TA,6,0,Attchd,RFn,2.0,Y
+831,2.5Unf,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,7,1,Detchd,Unf,1.0,Y
+832,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+833,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,7,0,Detchd,Fin,2.0,Y
+834,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,5,0,Detchd,Unf,1.0,Y
+835,2Story,Gable,CompShg,HdBoard,ImStucc,PConc,Gd,TA,No,LwQ,GLQ,1.0,0.0,2,1,3,1,Gd,8,1,Attchd,Fin,3.0,Y
+836,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+837,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,0,Attchd,RFn,2.0,Y
+838,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,1,Attchd,Fin,3.0,Y
+839,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,3.0,Y
+840,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,1.0,Y
+841,1Story,Flat,Membran,Plywood,Plywood,CBlock,Gd,TA,Gd,LwQ,GLQ,1.0,0.0,1,0,2,1,TA,5,2,Attchd,Unf,2.0,Y
+842,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,7,1,Attchd,Fin,3.0,Y
+843,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,Fa,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,1,Detchd,Unf,1.0,P
+844,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,2,1,Gd,5,0,Attchd,Fin,2.0,Y
+845,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,1.0,2,0,2,1,Ex,5,1,Attchd,Fin,2.0,Y
+846,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,5,0,Attchd,Fin,2.0,Y
+847,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,1,1,Gd,5,0,Attchd,RFn,2.0,Y
+848,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Rec,1.0,0.0,1,0,3,1,TA,6,0,Attchd,Fin,1.0,Y
+849,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,2,0,4,1,TA,8,0,Attchd,RFn,2.0,Y
+850,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+851,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+852,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,7,1,Attchd,Fin,2.0,Y
+853,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Rec,LwQ,0.0,0.0,2,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+854,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,Rec,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,N
+855,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,Gd,TA,No,ALQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+856,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+857,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,7,1,Attchd,Unf,1.0,Y
+859,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,1.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+860,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+861,SLvl,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Av,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,2.0,Y
+862,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,BuiltIn,RFn,3.0,Y
+863,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+864,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+865,1Story,Gable,CompShg,BrkFace,HdBoard,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,7,2,Attchd,Fin,2.0,Y
+866,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,3.0,Y
+867,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Ex,6,1,Attchd,Fin,2.0,Y
+868,1Story,Hip,CompShg,HdBoard,HdBoard,PConc,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,Gd,5,0,Attchd,Fin,1.0,Y
+869,1.5Fin,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,7,1,Detchd,Unf,1.0,N
+870,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,RFn,1.0,Y
+871,SFoyer,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,3,1,TA,5,2,Attchd,Fin,2.0,Y
+872,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Detchd,Unf,2.0,Y
+873,1Story,Gable,CompShg,Stucco,Stucco,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,N
+874,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,Rec,GLQ,0.0,1.0,1,0,2,1,TA,5,0,Attchd,Fin,1.0,Y
+875,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Gd,GLQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,CarPort,Unf,1.0,Y
+876,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+877,SFoyer,Gable,CompShg,CemntBd,CmentBd,CBlock,TA,TA,Av,ALQ,Unf,1.0,0.0,1,0,3,1,Ex,6,0,Attchd,RFn,2.0,Y
+879,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+880,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,Gd,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,BuiltIn,Fin,2.0,Y
+881,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,No,GLQ,Unf,1.0,0.0,1,1,3,1,Gd,6,0,Detchd,RFn,2.0,Y
+882,1.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+883,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,Fa,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,TA,5,0,Detchd,Unf,1.0,Y
+884,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Ex,Gd,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,8,1,Attchd,RFn,2.0,Y
+885,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,1.0,1,0,2,1,TA,4,0,Detchd,Unf,2.0,N
+886,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Gd,GLQ,Unf,0.0,1.0,2,1,3,1,TA,6,1,Attchd,Unf,2.0,Y
+887,2Story,Hip,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,BLQ,Unf,0.0,0.0,2,1,4,1,TA,8,1,Attchd,Fin,2.0,Y
+888,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,8,1,BuiltIn,Fin,2.0,Y
+889,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+890,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,8,1,BuiltIn,Fin,2.0,Y
+891,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+892,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,RFn,2.0,Y
+893,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,5,2,TA,10,0,Detchd,Unf,2.0,Y
+894,1.5Unf,Gable,CompShg,Wd Sdng,HdBoard,PConc,TA,TA,No,LwQ,Rec,0.0,0.0,1,0,2,1,TA,4,0,Attchd,Unf,2.0,Y
+895,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,0,Attchd,Fin,2.0,Y
+896,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,GLQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+897,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,BLQ,GLQ,0.0,1.0,2,1,3,1,Gd,9,1,Attchd,Unf,3.0,Y
+898,1Story,Gable,CompShg,BrkFace,Wd Sdng,PConc,TA,TA,No,BLQ,Rec,1.0,0.0,1,1,3,1,Gd,6,0,Attchd,RFn,1.0,Y
+899,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,RFn,3.0,Y
+900,1.5Fin,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,1,5,1,Gd,7,0,Detchd,Unf,2.0,Y
+902,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+903,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,8,1,Attchd,Fin,3.0,Y
+904,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+905,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,8,0,Attchd,Fin,3.0,Y
+906,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,LwQ,1.0,0.0,1,1,2,1,TA,5,0,Detchd,Unf,1.0,Y
+907,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Mn,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,3.0,Y
+908,1Story,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,Mn,BLQ,Unf,1.0,0.0,1,0,3,1,TA,7,1,Attchd,Unf,2.0,Y
+909,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,3,0,Attchd,Fin,2.0,Y
+910,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,2,1,Gd,5,0,Detchd,Unf,1.0,Y
+911,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,2.0,Y
+912,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Ex,5,0,Detchd,Unf,2.0,Y
+913,1Story,Hip,CompShg,Wd Sdng,Stone,PConc,TA,TA,No,Rec,Unf,1.0,0.0,3,0,4,2,TA,9,2,Attchd,RFn,2.0,Y
+914,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Mn,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+915,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+916,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,No,GLQ,Unf,0.0,0.0,2,0,2,1,Ex,6,1,Attchd,RFn,2.0,Y
+917,2Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,LwQ,Rec,0.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+918,1.5Fin,Hip,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,LwQ,Unf,0.0,0.0,1,0,2,1,TA,7,0,Detchd,Unf,2.0,Y
+919,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Gd,6,1,BuiltIn,Unf,1.0,Y
+920,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+921,1Story,Hip,CompShg,Stucco,Stucco,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,1,1,1,1,Gd,5,1,Attchd,Unf,2.0,Y
+922,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,Fin,2.0,Y
+923,1Story,Gable,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,Gd,4,1,Attchd,Unf,1.0,Y
+925,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,LwQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,5.0,P
+926,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+927,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,8,1,BuiltIn,Fin,3.0,Y
+928,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+929,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,4,0,Attchd,Fin,2.0,Y
+930,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+931,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Mn,Rec,Unf,0.0,0.0,1,0,2,1,TA,4,0,Attchd,Unf,1.0,Y
+932,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,BLQ,1.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+934,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+935,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,8,1,Attchd,RFn,3.0,Y
+936,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+937,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Rec,Unf,0.0,1.0,1,0,3,1,Gd,7,0,Detchd,Unf,2.0,Y
+938,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+939,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+940,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,3.0,Y
+941,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,LwQ,Unf,0.0,1.0,2,1,4,1,Gd,9,1,BuiltIn,Fin,2.0,Y
+944,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+945,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,GLQ,1.0,0.0,1,0,2,1,TA,6,0,Detchd,Unf,1.0,Y
+946,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,1,1,1,Gd,4,2,Attchd,RFn,2.0,Y
+947,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,1,1,1,Gd,5,1,BuiltIn,Fin,2.0,Y
+948,SLvl,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,Av,ALQ,Unf,1.0,0.0,1,0,2,1,Ex,5,1,Basment,RFn,1.0,Y
+949,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Mn,ALQ,BLQ,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+950,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,Mn,Unf,Unf,0.0,0.0,1,1,3,1,TA,4,1,BuiltIn,Fin,1.0,Y
+952,1Story,Gable,CompShg,WdShing,Plywood,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+953,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,0,Attchd,RFn,2.0,Y
+955,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,BLQ,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+956,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,1,1,1,1,Gd,5,1,Attchd,RFn,2.0,Y
+957,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+958,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,7,2,Attchd,Fin,3.0,Y
+960,2Story,Hip,ClyTile,Stucco,Stucco,PConc,Ex,TA,Gd,GLQ,Unf,2.0,0.0,2,1,3,1,Ex,12,3,Attchd,Fin,2.0,Y
+961,SFoyer,Gable,CompShg,VinylSd,VinylSd,CBlock,Gd,TA,Av,ALQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+962,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Av,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,Fin,1.0,Y
+963,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,1,2,1,Gd,4,0,Detchd,RFn,2.0,Y
+965,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,0,3,1,TA,6,1,Attchd,Unf,2.0,Y
+966,SLvl,Gable,CompShg,HdBoard,Plywood,PConc,Gd,TA,Gd,GLQ,Unf,2.0,0.0,2,0,3,1,TA,6,1,Attchd,Fin,2.0,Y
+967,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,Gd,ALQ,Unf,0.0,1.0,2,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+968,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,ALQ,1.0,0.0,2,1,3,1,Gd,6,1,Attchd,RFn,2.0,Y
+969,2Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,TA,8,1,Attchd,RFn,2.0,Y
+971,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,ALQ,Unf,1.0,0.0,2,1,4,1,Gd,8,1,Attchd,Fin,2.0,Y
+972,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,BLQ,1.0,0.0,1,0,3,1,TA,7,1,Detchd,Unf,2.0,N
+973,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,0,2,1,TA,6,1,Attchd,Unf,1.0,Y
+974,1.5Fin,Gable,CompShg,BrkFace,Wd Sdng,BrkTil,Gd,TA,No,LwQ,Unf,0.0,0.0,2,0,5,1,TA,8,2,Detchd,Unf,2.0,Y
+975,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,ALQ,Unf,0.0,0.0,2,0,4,1,TA,6,1,Attchd,Unf,1.0,Y
+976,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,1,Attchd,RFn,3.0,Y
+977,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,RFn,3.0,Y
+979,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,No,GLQ,Unf,0.0,0.0,2,0,3,1,Ex,8,1,Attchd,RFn,3.0,Y
+980,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,Mn,ALQ,Rec,1.0,0.0,2,0,3,1,Gd,7,2,Basment,Unf,2.0,Y
+981,1.5Fin,Gable,CompShg,BrkFace,Wd Sdng,BrkTil,Gd,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,TA,6,1,Detchd,Unf,2.0,Y
+982,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+983,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,1,BuiltIn,Fin,2.0,Y
+984,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,6,2,TA,10,0,Detchd,Unf,2.0,Y
+985,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+986,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,2,1,Ex,7,2,Attchd,Fin,3.0,Y
+987,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,TA,6,0,Detchd,Unf,2.0,Y
+988,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Rec,0.0,0.0,2,1,4,1,TA,9,1,Attchd,RFn,2.0,Y
+989,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,3,0,4,1,Gd,8,1,Attchd,RFn,2.0,Y
+990,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,Fin,3.0,Y
+991,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,BLQ,Unf,0.0,0.0,1,1,3,1,TA,5,0,Attchd,Unf,2.0,Y
+992,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+993,1Story,Gable,CompShg,BrkComm,Brk Cmn,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,TA,5,0,Attchd,Unf,2.0,Y
+994,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,0,Attchd,RFn,2.0,Y
+995,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,TA,6,1,Attchd,Fin,1.0,Y
+996,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Fa,6,1,Detchd,Unf,1.0,Y
+997,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,BLQ,Rec,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+998,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,9,1,Attchd,Fin,3.0,Y
+999,2Story,Gable,CompShg,HdBoard,Plywood,CBlock,Gd,TA,Av,GLQ,Unf,0.0,0.0,1,1,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1000,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,LwQ,BLQ,1.0,0.0,1,0,2,1,TA,7,3,Attchd,Fin,1.0,Y
+1001,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,Mn,LwQ,Unf,0.0,0.0,1,0,2,1,Fa,5,0,Detchd,Unf,2.0,Y
+1002,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,2,Attchd,RFn,1.0,Y
+1003,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1004,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,Ex,TA,No,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,9,1,Attchd,RFn,2.0,Y
+1005,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,BLQ,BLQ,0.0,0.0,2,0,2,1,TA,5,1,Attchd,RFn,1.0,Y
+1006,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,9,1,BuiltIn,Fin,2.0,Y
+1008,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,No,GLQ,Unf,1.0,0.0,2,0,2,1,TA,5,0,Attchd,Fin,2.0,Y
+1009,SFoyer,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Gd,ALQ,Unf,1.0,0.0,2,0,3,1,TA,6,2,Basment,Fin,2.0,Y
+1010,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,1,4,1,TA,9,0,Attchd,Unf,1.0,Y
+1011,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Mn,Rec,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+1012,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,TA,5,0,Attchd,Unf,1.0,Y
+1013,1Story,Gable,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,2,0,3,1,TA,5,1,Attchd,RFn,2.0,P
+1014,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Mn,Unf,Unf,0.0,0.0,2,0,2,1,Gd,5,0,Attchd,RFn,2.0,Y
+1015,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,GLQ,0.0,0.0,1,0,3,1,Ex,5,0,Attchd,RFn,1.0,Y
+1016,SFoyer,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,Gd,GLQ,Unf,2.0,0.0,2,0,2,2,TA,8,0,Attchd,Fin,4.0,Y
+1017,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,Gd,7,2,Attchd,Unf,1.0,P
+1018,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1019,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,Fa,No,LwQ,Unf,0.0,0.0,2,0,3,1,TA,6,1,Detchd,Unf,1.0,Y
+1020,2Story,Hip,CompShg,Plywood,Plywood,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,3,0,5,1,Gd,11,2,Attchd,Unf,3.0,Y
+1021,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,Rec,BLQ,0.0,0.0,1,1,3,1,TA,6,0,Attchd,RFn,2.0,Y
+1024,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,Fin,2.0,Y
+1025,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,3,2,3,1,Gd,6,1,Attchd,Unf,2.0,Y
+1026,2Story,Gambrel,CompShg,AsbShng,AsbShng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,5,1,Gd,11,0,Detchd,Unf,2.0,Y
+1027,1.5Fin,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,7,1,Detchd,Unf,1.0,Y
+1029,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+1030,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+1031,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,LwQ,Rec,1.0,0.0,1,0,2,1,TA,4,0,Detchd,RFn,2.0,Y
+1032,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,4,1,TA,8,0,Attchd,Unf,2.0,Y
+1033,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1034,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,Unf,1.0,Y
+1035,2.5Fin,Gable,WdShngl,Wd Sdng,Wd Sdng,BrkTil,TA,TA,Mn,Unf,Unf,0.0,0.0,2,1,4,1,Ex,12,2,Detchd,Unf,3.0,Y
+1036,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,2.0,0.0,2,0,2,1,Ex,5,1,Attchd,Fin,2.0,Y
+1038,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,0,Attchd,RFn,2.0,Y
+1039,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,LwQ,ALQ,1.0,0.0,1,0,2,1,TA,4,1,Detchd,Unf,1.0,Y
+1040,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,2,1,Gd,4,0,Detchd,RFn,2.0,Y
+1041,2Story,Hip,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,6,0,Detchd,Unf,2.0,Y
+1042,1.5Fin,Gable,CompShg,HdBoard,HdBoard,BrkTil,TA,Fa,No,Unf,Unf,0.0,0.0,2,0,2,1,TA,6,0,Detchd,Unf,2.0,Y
+1043,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Rec,0.0,0.0,2,1,3,1,Gd,7,0,BuiltIn,Fin,2.0,Y
+1044,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,No,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,7,1,Attchd,Fin,2.0,Y
+1045,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,BuiltIn,Fin,2.0,Y
+1046,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,Av,Rec,Unf,0.0,0.0,1,0,3,1,TA,7,1,Attchd,RFn,1.0,Y
+1047,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+1048,SLvl,Hip,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Av,ALQ,Unf,0.0,0.0,1,0,3,1,Gd,5,0,2Types,Unf,3.0,Y
+1050,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,Gd,5,0,Detchd,Unf,2.0,Y
+1052,1Story,Flat,Tar&Grv,Plywood,Plywood,CBlock,Gd,TA,Gd,BLQ,Unf,1.0,0.0,1,0,2,1,Gd,6,2,Attchd,Fin,2.0,Y
+1053,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,Rec,0.0,1.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+1054,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,Fa,No,Rec,Unf,1.0,0.0,1,1,2,1,TA,7,2,Detchd,Unf,1.0,Y
+1055,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,TA,TA,No,Rec,ALQ,1.0,0.0,1,0,3,1,TA,6,1,Attchd,Unf,1.0,Y
+1056,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,3.0,Y
+1057,2Story,Gable,CompShg,VinylSd,VinylSd,CBlock,Gd,TA,Mn,Unf,Unf,0.0,0.0,2,2,4,2,TA,8,0,Detchd,Unf,2.0,Y
+1058,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,BLQ,1.0,0.0,2,1,4,1,Ex,9,1,Attchd,Fin,3.0,Y
+1059,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,0.0,1.0,2,0,1,1,Gd,7,1,Attchd,RFn,3.0,Y
+1060,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,1,1,1,1,Ex,8,1,Attchd,Fin,3.0,Y
+1061,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1062,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,2,1,TA,4,1,Attchd,Unf,1.0,Y
+1063,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,BLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1064,1.5Fin,Gable,CompShg,AsbShng,AsbShng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Gd,6,0,Detchd,Unf,1.0,Y
+1065,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,1,TA,6,0,Detchd,Unf,1.0,Y
+1066,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,3,0,5,2,TA,9,0,2Types,Unf,2.0,Y
+1067,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+1068,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Fa,TA,No,Rec,Unf,0.0,0.0,1,1,2,1,TA,6,0,Detchd,Unf,2.0,Y
+1069,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,3,1,5,1,TA,7,1,Attchd,Fin,2.0,Y
+1070,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,BuiltIn,Fin,2.0,Y
+1071,SFoyer,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Av,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1072,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+1073,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,Mn,Rec,Unf,1.0,0.0,1,0,3,1,TA,5,1,Detchd,Unf,2.0,Y
+1075,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,6,0,Attchd,RFn,1.0,Y
+1076,1.5Fin,Gambrel,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,1,4,1,Gd,8,1,Detchd,Unf,2.0,N
+1077,1.5Fin,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,Rec,Unf,0.0,0.0,2,0,4,1,TA,7,1,Detchd,Unf,2.0,Y
+1078,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+1079,1.5Fin,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,LwQ,Unf,1.0,0.0,1,1,3,1,TA,6,1,Detchd,Unf,2.0,Y
+1080,1Story,Hip,CompShg,BrkFace,Plywood,CBlock,TA,Gd,Gd,BLQ,Unf,1.0,0.0,1,0,3,1,TA,7,2,Attchd,Fin,2.0,P
+1081,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,9,1,BuiltIn,Fin,3.0,Y
+1082,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,Gd,5,1,Attchd,Unf,1.0,Y
+1083,1Story,Gable,CompShg,Stucco,Stucco,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Gd,6,1,Detchd,Unf,2.0,Y
+1084,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,7,1,Attchd,Fin,3.0,Y
+1085,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,Av,GLQ,Unf,0.0,1.0,2,0,3,1,TA,6,1,Attchd,Fin,2.0,Y
+1086,1.5Fin,Gable,CompShg,Wd Sdng,Wd Shng,BrkTil,Gd,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+1087,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,0.0,0.0,3,1,5,1,Ex,9,1,BuiltIn,Fin,3.0,Y
+1090,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,Unf,Unf,0.0,0.0,2,0,4,1,TA,10,2,Attchd,Unf,1.0,Y
+1091,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,3,1,TA,7,2,Attchd,Fin,2.0,Y
+1092,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,Fin,2.0,Y
+1093,1Story,Gable,CompShg,Wd Sdng,Wd Shng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,P
+1094,1Story,Hip,CompShg,WdShing,Plywood,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,N
+1095,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,No,LwQ,Unf,1.0,0.0,1,0,2,1,TA,6,1,Attchd,RFn,1.0,Y
+1096,2Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,3,1,TA,6,1,Attchd,Fin,2.0,Y
+1097,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,Unf,Unf,1.0,0.0,1,0,4,1,TA,7,1,Detchd,Unf,1.0,P
+1099,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,2,1,Gd,5,0,Attchd,RFn,3.0,Y
+1100,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,LwQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+1101,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,2,TA,8,0,Detchd,Unf,3.0,Y
+1102,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Fa,TA,Mn,Rec,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+1103,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1104,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,4,1,Attchd,Fin,2.0,Y
+1105,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,0.0,1.0,2,0,3,1,TA,6,1,Attchd,Fin,2.0,Y
+1106,SLvl,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,Av,Rec,ALQ,0.0,1.0,2,0,4,1,TA,6,2,BuiltIn,Unf,1.0,Y
+1107,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,ALQ,Unf,1.0,0.0,1,0,2,1,TA,3,1,Detchd,Unf,1.0,Y
+1108,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,3.0,Y
+1109,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,Fa,TA,No,Unf,Unf,0.0,0.0,2,0,3,2,TA,7,1,Detchd,Unf,2.0,Y
+1110,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,1,Attchd,RFn,2.0,Y
+1111,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+1112,2Story,Gable,CompShg,AsbShng,Plywood,BrkTil,Fa,Fa,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,7,0,Detchd,Unf,1.0,N
+1113,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,Fin,2.0,Y
+1114,SFoyer,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,GLQ,Unf,0.0,1.0,2,0,3,1,TA,6,1,Basment,Fin,2.0,Y
+1115,1Story,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,TA,5,0,Attchd,RFn,2.0,Y
+1116,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,RFn,2.0,Y
+1117,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,2,1,Ex,8,2,Attchd,RFn,3.0,Y
+1118,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,Unf,1.0,Y
+1119,1Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,2,1,TA,4,0,Attchd,Unf,1.0,Y
+1120,1Story,Hip,CompShg,Stucco,Plywood,PConc,TA,TA,Mn,BLQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1121,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,TA,5,0,Detchd,Unf,2.0,Y
+1122,1Story,Gable,CompShg,Plywood,Wd Sdng,CBlock,Gd,Gd,Mn,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,1,Attchd,RFn,2.0,Y
+1123,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,1,2,1,Gd,5,1,Attchd,Unf,2.0,Y
+1124,SLvl,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Av,ALQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+1126,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+1127,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,1.0,0.0,1,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1128,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,TA,4,0,Attchd,Fin,1.0,Y
+1129,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1130,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,LwQ,1.0,0.0,1,1,3,1,Gd,5,1,Attchd,RFn,2.0,Y
+1131,2Story,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,No,ALQ,Unf,1.0,0.0,2,1,5,1,TA,10,1,Attchd,Fin,2.0,Y
+1132,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+1133,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Unf,2.0,Y
+1134,2.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,8,1,Attchd,Unf,2.0,N
+1135,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,BLQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+1136,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,7,1,Attchd,RFn,2.0,Y
+1138,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,4,0,Detchd,Unf,2.0,Y
+1139,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,4,1,Gd,9,1,BuiltIn,RFn,3.0,Y
+1140,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,2,Attchd,RFn,2.0,Y
+1141,2.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,3,1,3,1,Gd,9,1,Detchd,Unf,2.0,Y
+1142,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,Gd,Gd,Gd,ALQ,Rec,1.0,0.0,2,0,2,1,Gd,6,2,Attchd,RFn,3.0,Y
+1143,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,9,1,Attchd,RFn,3.0,Y
+1144,1Story,Hip,CompShg,Plywood,Plywood,CBlock,TA,TA,Gd,BLQ,GLQ,1.0,0.0,2,0,3,1,TA,7,2,Attchd,Fin,2.0,Y
+1145,1Story,Gable,CompShg,Wd Sdng,Wd Shng,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+1146,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+1148,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,5,0,Attchd,RFn,1.0,Y
+1149,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,3.0,Y
+1150,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1151,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,2,1,TA,5,1,Detchd,Unf,2.0,Y
+1152,1Story,Hip,CompShg,HdBoard,BrkFace,PConc,Gd,TA,No,BLQ,Unf,0.0,1.0,2,0,3,1,TA,7,2,Attchd,RFn,2.0,Y
+1153,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1154,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,ALQ,BLQ,0.0,0.0,1,0,3,1,Gd,5,0,Detchd,Unf,2.0,Y
+1155,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Av,Unf,Unf,0.0,0.0,2,1,4,1,TA,7,1,BuiltIn,Fin,2.0,Y
+1156,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,Unf,0.0,1.0,1,0,3,1,Gd,5,1,Attchd,Unf,1.0,Y
+1158,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,7,2,Attchd,RFn,3.0,Y
+1159,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,Fa,Po,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,6,0,Detchd,Unf,1.0,N
+1160,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,1,1,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+1161,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,1,1,1,1,Gd,4,1,Attchd,RFn,2.0,Y
+1162,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,GLQ,Unf,1.0,0.0,1,1,3,1,Gd,6,0,Detchd,Unf,2.0,Y
+1163,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,1,3,1,TA,6,0,Attchd,RFn,2.0,Y
+1164,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,ALQ,1.0,0.0,2,0,2,1,Ex,10,2,Attchd,Fin,3.0,Y
+1165,1Story,Gable,CompShg,Plywood,Plywood,PConc,Gd,TA,No,BLQ,Unf,0.0,0.0,2,0,3,1,TA,6,0,Attchd,Unf,2.0,Y
+1166,SFoyer,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Av,LwQ,GLQ,2.0,0.0,2,0,2,2,Gd,8,0,Attchd,Unf,4.0,Y
+1167,1Story,Hip,CompShg,AsbShng,AsbShng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,6,1,Attchd,RFn,2.0,Y
+1168,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+1169,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,GLQ,Unf,0.0,0.0,1,0,3,1,Gd,6,0,Attchd,Unf,1.0,Y
+1170,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,Unf,Unf,0.0,0.0,3,1,3,1,Gd,10,1,BuiltIn,Fin,3.0,Y
+1171,SLvl,Gable,Tar&Grv,Plywood,Plywood,CBlock,Gd,TA,Gd,GLQ,Unf,0.0,1.0,1,0,3,1,TA,6,1,Basment,RFn,1.0,Y
+1172,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,RFn,1.0,Y
+1173,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,TA,5,2,Attchd,Unf,2.0,Y
+1174,1Story,Hip,CompShg,Wd Sdng,Plywood,CBlock,TA,TA,Mn,ALQ,Rec,1.0,0.0,1,1,3,1,TA,6,1,Attchd,Unf,2.0,Y
+1175,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,7,1,Attchd,Fin,3.0,Y
+1176,1.5Fin,Gable,CompShg,Stucco,Stucco,PConc,TA,TA,No,Rec,Unf,1.0,0.0,2,0,3,1,TA,6,1,Detchd,Unf,1.0,Y
+1177,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,BuiltIn,Fin,2.0,Y
+1178,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,Fa,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Attchd,Unf,1.0,Y
+1179,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1180,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Mn,Rec,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,Unf,1.0,Y
+1181,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,BLQ,1.0,0.0,2,0,4,1,Gd,8,1,Attchd,Unf,2.0,Y
+1182,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,LwQ,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,2.0,P
+1183,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,3.0,Y
+1184,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,RFn,2.0,Y
+1185,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1186,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1187,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,3.0,Y
+1188,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,7,0,Attchd,Fin,3.0,Y
+1189,1.5Fin,Gable,CompShg,BrkFace,Plywood,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,1,Attchd,Unf,1.0,Y
+1190,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,Fa,5,0,Detchd,Unf,1.0,N
+1191,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,2,1,Fa,5,0,Detchd,Unf,1.0,Y
+1192,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Av,Unf,Unf,0.0,0.0,1,0,2,1,Fa,4,0,Basment,Unf,2.0,N
+1193,1.5Fin,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,Gd,7,1,Detchd,Unf,1.0,Y
+1194,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,Gd,No,GLQ,LwQ,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,Unf,2.0,Y
+1195,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1196,1Story,Gable,CompShg,Plywood,HdBoard,CBlock,Gd,Gd,Av,GLQ,Rec,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,Unf,2.0,Y
+1197,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,1,1,3,1,TA,6,1,Attchd,Fin,2.0,Y
+1198,1Story,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,Gd,Av,ALQ,Unf,1.0,0.0,2,0,4,1,Gd,7,1,Attchd,Unf,2.0,Y
+1199,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,9,1,Attchd,Fin,3.0,Y
+1200,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,3,1,TA,5,0,Attchd,Unf,2.0,Y
+1201,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,RFn,3.0,Y
+1202,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1203,SLvl,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,LwQ,Unf,0.0,0.0,2,1,3,1,TA,7,1,BuiltIn,Fin,2.0,Y
+1205,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1206,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,No,Unf,Unf,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,RFn,2.0,Y
+1207,2Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+1208,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,BLQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+1209,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1210,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,LwQ,1.0,0.0,2,0,3,1,TA,7,0,Attchd,RFn,2.0,Y
+1212,2Story,Gable,CompShg,Wd Sdng,Wd Shng,BrkTil,TA,TA,No,Rec,Unf,1.0,0.0,1,1,3,1,Gd,6,1,Attchd,Unf,2.0,Y
+1213,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,Gd,No,ALQ,BLQ,1.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+1214,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,RFn,3.0,Y
+1215,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,ALQ,BLQ,0.0,1.0,2,0,2,1,TA,4,1,Attchd,RFn,2.0,Y
+1216,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,2.0,Y
+1217,SFoyer,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1218,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,6,0,Attchd,Unf,2.0,Y
+1219,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,5,0,Attchd,RFn,2.0,Y
+1220,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Attchd,Unf,1.0,Y
+1221,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Ex,7,1,Attchd,Fin,3.0,Y
+1223,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,Fin,2.0,Y
+1224,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,Unf,2.0,P
+1225,1Story,Gable,Tar&Grv,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,TA,6,1,Attchd,RFn,2.0,Y
+1226,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,1,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1227,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,10,2,Attchd,Fin,3.0,Y
+1228,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,1,BuiltIn,Fin,2.0,Y
+1229,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,10,1,Attchd,Fin,3.0,Y
+1230,2Story,Hip,CompShg,Plywood,Plywood,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,2,1,4,1,TA,8,1,Attchd,RFn,2.0,Y
+1231,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,4,1,Attchd,RFn,2.0,Y
+1232,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,1.0,2,0,2,1,Gd,5,1,Attchd,Fin,2.0,Y
+1233,1Story,Gable,CompShg,WdShing,Plywood,CBlock,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,0,3,1,TA,6,0,Attchd,Unf,2.0,Y
+1234,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,LwQ,ALQ,1.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+1235,2Story,Gable,CompShg,Wd Sdng,Wd Shng,BrkTil,Fa,Fa,No,Unf,Unf,0.0,0.0,2,0,2,1,TA,7,0,Detchd,Unf,2.0,Y
+1236,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1237,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Ex,7,1,Attchd,RFn,2.0,Y
+1238,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,8,0,BuiltIn,Fin,2.0,Y
+1239,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,1,TA,9,1,Detchd,Unf,2.0,Y
+1240,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,9,1,BuiltIn,Fin,2.0,Y
+1241,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,6,0,Attchd,RFn,2.0,Y
+1242,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+1243,1Story,Hip,WdShake,Stone,HdBoard,CBlock,Gd,TA,Av,ALQ,LwQ,1.0,0.0,2,0,2,1,Gd,10,1,Attchd,Fin,2.0,Y
+1244,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,8,1,BuiltIn,Fin,3.0,Y
+1245,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,1.0,Y
+1246,1.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Gd,6,1,Attchd,Unf,1.0,N
+1247,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,3.0,Y
+1248,1Story,Flat,Tar&Grv,Wd Sdng,Wd Sdng,PConc,TA,Gd,Gd,ALQ,Rec,1.0,0.0,2,0,4,1,Gd,8,1,Attchd,Unf,2.0,Y
+1249,SLvl,Flat,Tar&Grv,Plywood,Plywood,CBlock,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,4,1,Gd,8,1,Attchd,Unf,2.0,Y
+1250,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,5,1,Attchd,Fin,2.0,Y
+1251,2Story,Gambrel,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Rec,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Detchd,Unf,2.0,N
+1253,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Av,Rec,Unf,1.0,0.0,1,0,2,1,TA,5,0,Attchd,Unf,1.0,Y
+1254,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,3.0,Y
+1255,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,6,0,Attchd,RFn,2.0,Y
+1257,1Story,Gable,CompShg,BrkFace,BrkFace,PConc,Gd,TA,Gd,LwQ,ALQ,1.0,0.0,1,1,1,1,Gd,5,1,Attchd,Fin,2.0,Y
+1258,1Story,Gable,CompShg,BrkFace,BrkFace,CBlock,Fa,TA,Mn,BLQ,Unf,0.0,0.0,1,1,3,1,TA,6,1,Attchd,RFn,1.0,Y
+1259,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,8,2,Attchd,Fin,3.0,Y
+1260,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,TA,7,0,CarPort,Unf,1.0,Y
+1261,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,Fin,2.0,Y
+1262,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,1,Attchd,RFn,2.0,Y
+1263,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Ex,9,1,Attchd,Fin,3.0,Y
+1264,2Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,2,1,4,1,Gd,8,1,Attchd,Fin,2.0,Y
+1265,SLvl,Hip,CompShg,WdShing,Wd Shng,CBlock,TA,TA,Av,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+1266,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1267,1Story,Gable,CompShg,BrkFace,MetalSd,PConc,TA,TA,No,Rec,Unf,0.0,0.0,2,1,3,1,TA,7,2,Attchd,Unf,2.0,Y
+1268,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+1269,1Story,Gable,CompShg,BrkFace,Wd Sdng,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,2,0,1,1,TA,6,2,Attchd,Fin,2.0,Y
+1271,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,7,1,Attchd,Fin,2.0,Y
+1272,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,Unf,2.0,Y
+1273,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,GLQ,Unf,1.0,0.0,1,1,1,1,Gd,6,0,Detchd,Unf,2.0,Y
+1274,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1275,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,0,Attchd,RFn,2.0,Y
+1276,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+1277,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+1278,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1279,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,Gd,6,1,Attchd,Unf,2.0,Y
+1280,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,Unf,Unf,0.0,2.0,0,2,2,1,Gd,7,1,Attchd,Fin,3.0,Y
+1281,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,1,1,Gd,7,1,Attchd,Fin,2.0,Y
+1282,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,4,1,TA,7,0,Attchd,RFn,1.0,Y
+1283,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1284,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,Unf,Unf,0.0,0.0,2,1,3,1,Gd,9,1,Attchd,RFn,3.0,Y
+1285,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,8,0,BuiltIn,RFn,2.0,Y
+1286,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,Fin,2.0,Y
+1287,1.5Fin,Gable,CompShg,Stucco,Stucco,BrkTil,TA,TA,No,Unf,Unf,0.0,1.0,1,1,3,1,Fa,7,0,Detchd,Unf,1.0,P
+1288,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Rec,1.0,0.0,1,1,3,1,TA,6,2,Attchd,Unf,2.0,Y
+1289,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Rec,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1290,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,4,1,TA,6,0,Attchd,Unf,1.0,Y
+1291,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1292,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,1,1,TA,3,0,Detchd,Unf,1.0,N
+1293,2Story,Mansard,WdShake,Plywood,Plywood,PConc,Gd,TA,No,ALQ,Unf,0.0,1.0,2,1,4,1,Gd,8,2,Attchd,Fin,4.0,Y
+1294,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,2,1,TA,5,0,Detchd,Unf,1.0,Y
+1295,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,Fa,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,2.0,N
+1296,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,8,1,Attchd,RFn,3.0,Y
+1297,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,ALQ,Unf,0.0,0.0,2,0,2,1,TA,4,1,Attchd,RFn,2.0,Y
+1298,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1299,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Gd,GLQ,Unf,0.0,0.0,1,1,1,1,Ex,6,1,Attchd,RFn,2.0,Y
+1300,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,6,1,Attchd,Fin,2.0,Y
+1301,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,Fa,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,6,0,Detchd,Unf,1.0,N
+1302,1.5Fin,Gable,CompShg,MetalSd,MetalSd,PConc,Fa,TA,No,LwQ,Unf,1.0,0.0,2,0,4,1,TA,7,0,Detchd,Unf,1.0,Y
+1303,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1304,SLvl,Gable,CompShg,Plywood,Wd Sdng,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,1,4,1,Ex,9,3,Attchd,Fin,2.0,Y
+1305,1Story,Hip,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Gd,BLQ,GLQ,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1306,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,Fin,2.0,Y
+1307,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,8,0,Detchd,Unf,1.0,Y
+1308,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,1,1,0,1,Ex,5,1,Attchd,Fin,2.0,Y
+1310,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,LwQ,0.0,0.0,1,0,2,1,TA,5,0,Attchd,Unf,1.0,Y
+1311,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,Unf,Unf,0.0,0.0,2,0,2,1,Gd,7,1,Attchd,Fin,2.0,Y
+1312,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,8,0,Detchd,Unf,1.0,N
+1313,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Av,GLQ,BLQ,1.0,0.0,1,1,1,1,Gd,4,0,Attchd,RFn,2.0,Y
+1314,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,7,1,Attchd,Fin,2.0,Y
+1315,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,8,1,Detchd,Unf,1.0,Y
+1316,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,8,1,Attchd,Fin,2.0,Y
+1317,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,Gd,5,0,Detchd,Unf,1.0,N
+1318,2Story,Gable,CompShg,Wd Sdng,VinylSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,8,0,Detchd,Unf,2.0,P
+1319,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,Fin,2.0,Y
+1320,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Ex,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Ex,10,1,BuiltIn,Fin,3.0,Y
+1321,2Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,Gd,TA,No,ALQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Detchd,Unf,2.0,Y
+1322,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,Unf,2.0,Y
+1323,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,4,1,TA,7,1,Attchd,Fin,2.0,Y
+1324,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Gd,GLQ,LwQ,1.0,1.0,2,1,3,1,Gd,6,2,Attchd,Unf,2.0,Y
+1326,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+1328,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,ALQ,LwQ,1.0,0.0,2,0,1,1,TA,6,0,Detchd,Unf,2.0,Y
+1329,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,3.0,Y
+1330,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+1332,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,TA,7,0,Detchd,Unf,1.0,Y
+1333,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,Fa,No,LwQ,Unf,1.0,0.0,1,0,3,1,TA,7,1,Attchd,Unf,1.0,Y
+1334,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Gd,Unf,Unf,0.0,0.0,2,1,4,1,Gd,9,1,BuiltIn,Fin,3.0,Y
+1335,1Story,Flat,Tar&Grv,Wd Sdng,Wd Sdng,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,4,1,Gd,9,1,Attchd,RFn,2.0,Y
+1336,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,2,0,3,1,TA,6,2,Attchd,Unf,2.0,Y
+1337,2Story,Hip,CompShg,HdBoard,Stucco,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,BuiltIn,Fin,2.0,Y
+1338,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,0,3,1,TA,5,0,Attchd,RFn,2.0,Y
+1339,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Rec,Unf,1.0,0.0,1,0,4,1,TA,7,0,Detchd,Unf,1.0,Y
+1340,2Story,Gable,CompShg,AsbShng,Wd Sdng,Stone,TA,TA,No,Rec,Unf,1.0,0.0,1,0,4,1,TA,7,0,Detchd,Fin,2.0,Y
+1341,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+1342,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+1343,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,5,1,Ex,11,1,BuiltIn,RFn,3.0,Y
+1344,SLvl,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,TA,6,0,Attchd,Unf,2.0,Y
+1345,1.5Fin,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,LwQ,ALQ,0.0,0.0,2,0,4,1,TA,5,1,Detchd,Unf,2.0,Y
+1346,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Rec,BLQ,0.0,1.0,1,1,3,1,Ex,6,0,2Types,RFn,2.0,Y
+1347,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,12,2,Attchd,RFn,2.0,Y
+1348,SFoyer,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,2,1,Gd,5,0,Basment,Fin,2.0,Y
+1349,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,Mn,Unf,Unf,0.0,0.0,2,0,4,2,TA,10,0,2Types,Unf,2.0,Y
+1350,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,BLQ,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,Fin,2.0,Y
+1351,1Story,Gable,CompShg,Wd Sdng,Plywood,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,4,1,Attchd,Fin,2.0,Y
+1352,2Story,Gable,CompShg,CemntBd,CmentBd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,TA,5,0,Attchd,Unf,1.0,Y
+1353,2Story,Hip,CompShg,Stucco,Stucco,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,1,3,1,TA,6,1,Detchd,Unf,1.0,Y
+1354,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,LwQ,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,RFn,2.0,Y
+1355,SLvl,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,ALQ,1.0,0.0,1,1,1,1,Gd,4,0,Attchd,Unf,2.0,Y
+1356,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,N
+1357,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,ALQ,LwQ,1.0,0.0,2,0,3,1,TA,7,2,Attchd,RFn,2.0,Y
+1358,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,7,1,Attchd,RFn,3.0,Y
+1359,2.5Unf,Hip,CompShg,AsbShng,AsbShng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,2,0,2,3,TA,11,0,Detchd,Unf,2.0,N
+1360,2Story,Gable,CompShg,WdShing,Plywood,PConc,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,1,TA,8,2,2Types,Unf,3.0,P
+1362,1Story,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,No,ALQ,Rec,1.0,0.0,1,1,3,1,TA,6,1,Attchd,Unf,2.0,Y
+1363,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,ALQ,Unf,1.0,0.0,1,1,3,1,TA,7,0,Detchd,Unf,1.0,P
+1364,1.5Fin,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Detchd,Unf,2.0,N
+1365,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,TA,7,0,Attchd,Unf,1.0,Y
+1367,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,Fin,3.0,Y
+1368,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1369,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Gd,GLQ,Unf,2.0,0.0,1,1,3,1,Gd,6,1,Attchd,RFn,2.0,Y
+1370,1Story,Gable,CompShg,AsbShng,AsbShng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,0,Basment,Unf,1.0,Y
+1371,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,BLQ,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+1373,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,Fa,Mn,Unf,Unf,0.0,0.0,1,0,3,1,Gd,7,0,Detchd,Unf,2.0,Y
+1375,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,ALQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+1378,2Story,Gable,CompShg,HdBoard,Wd Shng,PConc,Gd,TA,No,ALQ,Unf,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,2.0,Y
+1379,1.5Fin,Gable,CompShg,AsbShng,Plywood,PConc,Fa,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,2.0,Y
+1380,1Story,Hip,CompShg,VinylSd,ImStucc,PConc,Ex,Gd,No,Unf,Unf,0.0,0.0,2,0,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+1381,1Story,Hip,CompShg,Stucco,Stucco,BrkTil,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,2.0,Y
+1382,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,0,Attchd,RFn,2.0,Y
+1383,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+1386,SFoyer,Gable,CompShg,Plywood,Plywood,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,4,1,Attchd,Fin,2.0,Y
+1388,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,7,0,Attchd,Unf,2.0,Y
+1389,1.5Fin,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,Fin,3.0,Y
+1390,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+1391,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,TA,TA,No,BLQ,Unf,0.0,1.0,1,0,2,1,TA,5,0,Attchd,Fin,1.0,Y
+1392,2Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,Gd,6,1,Detchd,Unf,1.0,Y
+1393,2Story,Hip,CompShg,VinylSd,VinylSd,CBlock,TA,Gd,No,GLQ,ALQ,0.0,1.0,3,1,4,1,Gd,11,2,BuiltIn,Fin,2.0,Y
+1394,1.5Fin,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,Unf,Unf,1.0,0.0,2,0,4,1,TA,6,0,Detchd,Unf,1.0,N
+1395,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,BLQ,Rec,1.0,1.0,1,0,3,1,Gd,6,0,Detchd,Unf,2.0,Y
+1396,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,TA,5,1,Detchd,Fin,2.0,Y
+1397,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,Gd,No,ALQ,Unf,1.0,0.0,2,1,4,1,TA,11,1,Attchd,Fin,2.0,Y
+1398,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1399,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,TA,7,2,Attchd,Fin,2.0,Y
+1400,SFoyer,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,2.0,Y
+1401,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,4,1,Ex,10,1,BuiltIn,Fin,3.0,Y
+1402,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,0.0,1.0,2,0,3,1,TA,6,1,2Types,Unf,2.0,Y
+1403,SFoyer,Gable,CompShg,HdBoard,Wd Shng,CBlock,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+1404,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,Fin,3.0,Y
+1405,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,Rec,Unf,0.0,1.0,1,1,3,1,TA,5,1,Attchd,Fin,2.0,Y
+1406,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,RFn,1.0,Y
+1407,2Story,Gable,CompShg,AsbShng,AsbShng,BrkTil,TA,Fa,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,6,0,Attchd,Unf,1.0,Y
+1408,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,1,3,1,TA,6,2,Attchd,RFn,2.0,Y
+1409,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,BLQ,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Detchd,RFn,2.0,Y
+1410,SFoyer,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Gd,GLQ,Unf,2.0,0.0,2,0,2,2,TA,8,0,Attchd,Fin,4.0,Y
+1411,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Av,ALQ,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,Unf,2.0,Y
+1412,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,2,0,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+1413,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,4,1,TA,8,1,BuiltIn,Fin,2.0,Y
+1414,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,RFn,2.0,Y
+1415,1.5Fin,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,No,Rec,BLQ,1.0,0.0,1,0,3,1,TA,6,1,Attchd,Unf,1.0,Y
+1416,SLvl,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,Av,ALQ,BLQ,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+1417,1.5Fin,Gable,CompShg,HdBoard,HdBoard,CBlock,Fa,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,8,0,Detchd,Unf,1.0,N
+1418,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,1,2,1,Gd,7,1,Attchd,Fin,3.0,Y
+1420,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,Rec,Unf,0.0,0.0,2,0,3,1,TA,7,2,Attchd,Fin,2.0,Y
+1421,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+1422,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Fa,TA,No,ALQ,Unf,0.0,1.0,2,0,3,1,Gd,7,1,Attchd,Unf,2.0,Y
+1423,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Fa,TA,No,LwQ,Unf,0.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,2.0,Y
+1424,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Mn,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1425,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,8,1,Attchd,RFn,3.0,Y
+1426,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,8,1,BuiltIn,RFn,2.0,Y
+1427,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,2,TA,8,0,Detchd,Unf,2.0,Y
+1430,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+1431,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1432,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,Av,Unf,Unf,0.0,0.0,2,0,4,2,TA,8,0,Attchd,Unf,2.0,P
+1433,2.5Fin,Gable,CompShg,Wd Sdng,Plywood,BrkTil,TA,TA,No,GLQ,Unf,1.0,0.0,2,1,5,1,TA,12,2,Basment,Fin,2.0,Y
+1434,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1435,2Story,Mansard,CompShg,HdBoard,AsphShn,CBlock,TA,TA,No,ALQ,Rec,0.0,1.0,1,2,3,1,TA,7,1,Attchd,Unf,2.0,Y
+1436,2Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,2,Detchd,Unf,2.0,Y
+1437,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+1438,1Story,Gable,CompShg,VinylSd,Wd Shng,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+1440,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Gd,7,0,Detchd,Unf,1.0,Y
+1441,1Story,Gable,CompShg,Wd Sdng,Plywood,CBlock,TA,TA,No,GLQ,Rec,1.0,0.0,1,0,3,1,Gd,6,1,Attchd,Unf,1.0,Y
+1442,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,TA,7,0,Detchd,Unf,2.0,Y
+1443,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,4,1,TA,7,0,Detchd,Unf,1.0,Y
+1444,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,1,Gd,5,0,Detchd,Unf,2.0,Y
+1445,SLvl,Gable,CompShg,HdBoard,Plywood,CBlock,Gd,Gd,Av,ALQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,Unf,2.0,Y
+1446,1Story,Hip,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+1447,2Story,Gable,CompShg,CemntBd,CmentBd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,3,1,TA,5,0,Attchd,Unf,1.0,Y
+1448,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,ALQ,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+1449,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,9,0,Attchd,Fin,2.0,Y
+1450,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,TA,7,0,Attchd,RFn,2.0,Y
+1452,1.5Fin,Gable,CompShg,WdShing,Wd Shng,BrkTil,TA,TA,No,BLQ,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Detchd,Unf,1.0,Y
+1453,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,2,0,3,1,TA,8,1,Attchd,Unf,2.0,Y
+1454,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,Fa,Mn,LwQ,Rec,0.0,1.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+1455,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,TA,6,0,Detchd,Unf,2.0,Y
+1457,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,6,0,Attchd,Unf,2.0,Y
+1458,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,Gd,Mn,BLQ,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Detchd,Unf,2.0,Y
+1459,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,RFn,3.0,Y
+1460,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1461,SLvl,Gambrel,CompShg,MetalSd,AsphShn,CBlock,TA,TA,Av,ALQ,Unf,0.0,1.0,1,0,3,1,TA,5,0,BuiltIn,Unf,1.0,Y
+1462,1Story,Flat,Tar&Grv,WdShing,Wd Shng,CBlock,Gd,TA,Av,Rec,ALQ,1.0,0.0,1,0,1,1,TA,4,2,Attchd,Unf,2.0,Y
+1463,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,No,GLQ,Unf,0.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,2.0,Y
+1465,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,Fin,2.0,Y
+1466,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,Fa,TA,No,Rec,ALQ,1.0,0.0,2,0,3,1,TA,5,0,Detchd,RFn,2.0,Y
+1467,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+1468,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,2,1,Gd,4,0,Detchd,RFn,2.0,Y
+1469,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,4,0,Attchd,Fin,2.0,Y
+1470,SFoyer,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,Av,GLQ,BLQ,0.0,1.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+1471,2Story,Gable,CompShg,Plywood,Plywood,PConc,Gd,TA,No,Rec,Unf,1.0,0.0,1,1,3,1,TA,6,1,Attchd,Fin,2.0,Y
+1472,2Story,Hip,CompShg,VinylSd,VinylSd,CBlock,TA,Fa,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1473,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,6,1,Attchd,Fin,2.0,Y
+1474,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+1475,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+1476,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+1477,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,1,Attchd,Fin,2.0,Y
+1478,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,GLQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+1479,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Fin,1.0,Y
+1480,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+1482,SFoyer,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,LwQ,2.0,0.0,2,0,2,2,TA,8,0,Attchd,Unf,3.0,Y
+1483,2Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,TA,6,1,Attchd,Fin,2.0,Y
+1484,2Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,7,0,Detchd,Unf,1.0,N
+1485,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,Fa,No,LwQ,Unf,0.0,0.0,1,1,3,1,TA,7,1,Detchd,Unf,1.0,Y
+1486,1.5Fin,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,Gd,7,0,Detchd,Unf,1.0,N
+1487,SLvl,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Gd,LwQ,BLQ,0.0,1.0,2,0,3,1,TA,5,1,Detchd,Unf,2.0,Y
+1488,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1489,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,2,1,Gd,4,0,Detchd,RFn,2.0,Y
+1490,1.5Fin,Gable,CompShg,CemntBd,CmentBd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,2,0,3,1,TA,7,2,Detchd,Unf,2.0,Y
+1491,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,No,ALQ,Rec,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,1.0,Y
+1492,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,LwQ,1.0,0.0,1,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+1493,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,LwQ,0.0,0.0,1,1,3,1,Gd,7,2,Detchd,Unf,1.0,Y
+1494,1Story,Hip,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,1,Attchd,Fin,2.0,Y
+1495,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+1496,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,1.0,Y
+1497,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,4,0,Attchd,Fin,2.0,Y
+1498,SFoyer,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,BLQ,Unf,1.0,0.0,1,0,2,1,TA,6,1,Detchd,Unf,2.0,Y
+1499,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,ALQ,Unf,0.0,1.0,2,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+1500,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,7,2,Attchd,Fin,3.0,Y
+1501,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,LwQ,Unf,0.0,0.0,2,0,4,1,TA,7,1,Detchd,Unf,2.0,Y
+1502,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,0,Attchd,Fin,2.0,Y
+1503,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,7,1,Attchd,RFn,3.0,Y
+1504,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1505,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,BLQ,Unf,1.0,0.0,1,1,3,1,TA,5,0,Attchd,RFn,1.0,Y
+1506,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Fin,2.0,Y
+1507,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,1,5,1,TA,7,0,Attchd,Unf,1.0,Y
+1508,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,Fa,No,Unf,Unf,0.0,0.0,1,1,3,1,Gd,8,0,Attchd,Unf,1.0,Y
+1509,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+1510,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,No,ALQ,Unf,0.0,0.0,1,1,2,1,TA,5,1,Attchd,Fin,2.0,Y
+1512,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,RFn,2.0,Y
+1513,1Story,Gable,CompShg,Plywood,Plywood,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1514,1Story,Gable,CompShg,Wd Sdng,Plywood,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,2,1,TA,5,0,Attchd,Unf,1.0,Y
+1515,1.5Fin,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,2,1,Gd,7,0,Basment,Fin,1.0,Y
+1516,1Story,Gable,CompShg,BrkComm,Brk Cmn,CBlock,TA,Fa,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+1517,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1518,1Story,Gable,CompShg,AsbShng,AsbShng,CBlock,TA,TA,Av,BLQ,Unf,1.0,0.0,0,0,1,1,TA,4,0,Detchd,Unf,1.0,Y
+1520,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,2.0,Y
+1521,SLvl,Hip,CompShg,Plywood,Plywood,CBlock,TA,TA,Av,ALQ,Rec,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+1522,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,Unf,Unf,0.0,0.0,3,1,4,1,Gd,9,1,BuiltIn,Fin,3.0,Y
+1523,1Story,Hip,CompShg,BrkFace,BrkFace,CBlock,Gd,TA,No,GLQ,ALQ,1.0,0.0,2,0,3,1,Ex,7,2,Attchd,Fin,2.0,Y
+1524,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,2,1,Gd,5,0,Detchd,Unf,2.0,Y
+1525,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Av,GLQ,Unf,1.0,0.0,2,0,1,1,Ex,7,1,Attchd,Fin,3.0,Y
+1526,SLvl,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,TA,6,1,Detchd,Unf,2.0,Y
+1527,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,5,1,Detchd,Unf,2.0,Y
+1529,1Story,Shed,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Mn,GLQ,LwQ,1.0,0.0,2,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+1530,1Story,Hip,CompShg,Plywood,Plywood,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,TA,7,1,Attchd,Unf,1.0,Y
+1531,1.5Fin,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,Rec,Unf,1.0,0.0,1,0,4,1,Fa,7,0,Detchd,Unf,1.0,Y
+1532,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,LwQ,Rec,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+1533,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1534,2Story,Gable,CompShg,CemntBd,CmentBd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1535,1Story,Gable,CompShg,HdBoard,ImStucc,CBlock,TA,TA,Av,ALQ,Unf,0.0,1.0,2,0,3,1,TA,6,2,Attchd,Unf,2.0,Y
+1536,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,Gd,Gd,GLQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Detchd,Unf,2.0,Y
+1537,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+1538,SFoyer,Gable,CompShg,HdBoard,Wd Sdng,CBlock,Gd,TA,Av,ALQ,Unf,1.0,0.0,1,0,3,1,Gd,6,0,Detchd,Unf,2.0,Y
+1539,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,Gd,6,0,Attchd,RFn,1.0,Y
+1540,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,Gd,No,GLQ,Unf,1.0,0.0,2,1,5,1,Gd,10,1,Attchd,RFn,3.0,Y
+1541,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,ALQ,Unf,0.0,1.0,1,0,3,1,TA,6,1,Attchd,Unf,1.0,Y
+1542,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,No,GLQ,Rec,1.0,0.0,2,1,4,1,Gd,8,1,Attchd,RFn,3.0,Y
+1543,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,9,1,Attchd,Fin,3.0,Y
+1546,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,1,Attchd,RFn,2.0,Y
+1548,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,4,1,Gd,7,0,Attchd,Unf,2.0,Y
+1549,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,Fa,No,BLQ,Rec,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+1550,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,LwQ,ALQ,0.0,0.0,2,1,4,1,Gd,9,1,Attchd,RFn,3.0,Y
+1551,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,8,1,Attchd,RFn,3.0,Y
+1552,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,1,2,1,TA,5,0,Detchd,Unf,1.0,Y
+1553,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+1554,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,LwQ,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,2.0,Y
+1555,2Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,7,1,Attchd,RFn,2.0,Y
+1556,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,1,Attchd,RFn,2.0,Y
+1557,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,3.0,Y
+1558,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Gd,ALQ,Unf,1.0,0.0,2,0,3,1,Gd,6,1,Attchd,RFn,2.0,Y
+1559,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,1,Attchd,Unf,2.0,Y
+1560,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+1561,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,0,Attchd,Fin,3.0,Y
+1562,SLvl,Gable,CompShg,BrkFace,BrkFace,PConc,TA,TA,Gd,ALQ,Unf,0.0,1.0,2,0,3,1,Gd,6,1,Attchd,RFn,2.0,Y
+1565,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Mn,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,5,0,Attchd,Unf,2.0,Y
+1566,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,2.0,0.0,4,2,6,2,TA,8,2,BuiltIn,Fin,4.0,Y
+1567,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,Fin,2.0,Y
+1568,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,Gd,6,0,Detchd,Fin,2.0,Y
+1569,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Mn,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,8,1,Attchd,RFn,3.0,Y
+1570,1Story,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,No,GLQ,Rec,1.0,0.0,1,1,3,1,TA,5,0,Attchd,Unf,1.0,Y
+1571,1Story,Gable,WdShngl,WdShing,Wd Shng,CBlock,Ex,TA,Gd,GLQ,Unf,2.0,0.0,0,1,0,1,Gd,5,1,Attchd,Fin,3.0,Y
+1572,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,2,1,3,1,TA,7,3,Attchd,Unf,2.0,Y
+1573,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,0,Attchd,RFn,2.0,Y
+1574,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1575,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Fa,Fa,No,LwQ,Unf,0.0,0.0,1,0,2,1,TA,6,0,Detchd,Unf,2.0,Y
+1576,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,ALQ,LwQ,0.0,1.0,2,0,3,1,Ex,6,0,Attchd,RFn,2.0,Y
+1577,1Story,Hip,CompShg,Wd Sdng,VinylSd,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,TA,6,0,Attchd,Unf,2.0,Y
+1578,1Story,Hip,CompShg,HdBoard,Plywood,CBlock,TA,Ex,No,BLQ,Unf,0.0,1.0,1,1,3,1,TA,6,1,Detchd,Unf,2.0,Y
+1579,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,Fa,No,Rec,Unf,0.0,0.0,2,0,4,1,TA,7,0,Attchd,Unf,1.0,Y
+1580,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,6,1,Attchd,Unf,1.0,Y
+1581,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,1,Attchd,RFn,3.0,Y
+1582,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Mn,BLQ,Unf,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,Unf,2.0,Y
+1583,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,RFn,3.0,Y
+1585,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,5,0,Detchd,Unf,2.0,Y
+1586,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,Fa,No,LwQ,Unf,0.0,0.0,1,1,3,1,TA,7,1,Detchd,Unf,2.0,N
+1587,1Story,Gable,CompShg,Plywood,Plywood,PConc,TA,TA,Mn,ALQ,Unf,1.0,0.0,2,0,3,1,Gd,6,2,Attchd,RFn,2.0,Y
+1588,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+1589,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,Mn,Rec,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+1590,SLvl,Hip,CompShg,Wd Sdng,ImStucc,CBlock,TA,TA,Av,BLQ,Rec,0.0,1.0,1,0,3,1,Gd,6,0,BuiltIn,Unf,1.0,Y
+1591,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,2,Detchd,Unf,2.0,Y
+1592,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Ex,11,1,Attchd,RFn,3.0,Y
+1593,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,LwQ,BLQ,0.0,1.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1595,2Story,Gable,CompShg,Wd Sdng,Wd Shng,BrkTil,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,3,1,TA,7,0,Detchd,Unf,1.0,Y
+1596,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+1597,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,LwQ,1.0,0.0,1,1,3,1,TA,7,1,Attchd,Unf,2.0,Y
+1598,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1599,SLvl,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,Gd,No,Unf,Unf,0.0,0.0,2,0,4,1,TA,8,1,Attchd,Unf,1.0,Y
+1600,1.5Fin,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,BLQ,Unf,0.0,0.0,2,0,5,1,TA,8,0,Attchd,Fin,1.0,Y
+1601,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,Fin,2.0,Y
+1602,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,8,1,BuiltIn,Fin,2.0,Y
+1603,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,5,0,Attchd,RFn,2.0,Y
+1604,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,10,1,BuiltIn,Fin,2.0,Y
+1605,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,2.0,0.0,4,2,6,2,TA,8,2,BuiltIn,Fin,4.0,Y
+1606,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,1,Attchd,Fin,2.0,Y
+1607,SLvl,Hip,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Gd,LwQ,ALQ,0.0,1.0,2,0,3,1,Gd,7,0,Attchd,RFn,1.0,Y
+1608,SLvl,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,Fin,2.0,Y
+1609,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Mn,ALQ,BLQ,0.0,1.0,2,0,2,1,TA,6,1,Attchd,Unf,2.0,Y
+1610,SLvl,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,2,1,3,1,TA,6,1,BuiltIn,Fin,2.0,Y
+1611,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,4,0,Attchd,Fin,2.0,Y
+1612,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,1.0,2,0,2,1,Ex,5,1,Attchd,Fin,2.0,Y
+1613,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,1,Attchd,RFn,2.0,Y
+1614,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,Mn,BLQ,Unf,0.0,0.0,1,1,2,1,TA,7,1,Attchd,Unf,1.0,Y
+1615,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,3,1,TA,5,0,Attchd,RFn,1.0,Y
+1616,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,Gd,TA,Av,GLQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+1617,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1618,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,Unf,Unf,0.0,0.0,2,1,5,1,Gd,8,1,Attchd,RFn,2.0,Y
+1619,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+1621,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,3.0,Y
+1622,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,Gd,6,0,2Types,RFn,2.0,Y
+1623,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Rec,1.0,0.0,2,0,2,1,TA,5,0,Attchd,RFn,2.0,Y
+1624,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,7,1,Attchd,RFn,3.0,Y
+1625,2Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,Gd,ALQ,Unf,1.0,0.0,3,0,3,1,TA,9,2,Attchd,RFn,2.0,Y
+1626,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1627,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+1628,1Story,Gable,CompShg,AsbShng,AsbShng,BrkTil,Fa,Fa,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,2.0,N
+1629,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,Gd,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,6,1,Attchd,Fin,2.0,Y
+1630,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,Av,Unf,Unf,0.0,0.0,3,1,4,1,Gd,9,0,Attchd,RFn,3.0,Y
+1631,1Story,Gable,CompShg,HdBoard,Wd Sdng,CBlock,TA,TA,No,GLQ,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1632,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,8,1,Attchd,Unf,2.0,Y
+1633,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,Mn,Unf,Unf,0.0,0.0,2,0,2,1,Ex,6,1,Attchd,Fin,2.0,Y
+1635,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,Rec,1.0,0.0,1,0,3,1,TA,6,1,Attchd,Fin,1.0,Y
+1636,1Story,Gable,CompShg,WdShing,Wd Shng,PConc,Ex,TA,Av,Unf,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,3.0,Y
+1637,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,7,0,Detchd,Unf,1.0,Y
+1638,1Story,Hip,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,2,1,Gd,5,0,Detchd,Unf,1.0,N
+1639,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,Unf,Unf,0.0,0.0,2,1,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+1640,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1641,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,Gd,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+1642,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,1,3,1,Gd,5,0,Attchd,RFn,1.0,Y
+1643,1Story,Gable,CompShg,AsbShng,AsbShng,BrkTil,Fa,TA,No,LwQ,Unf,1.0,0.0,1,0,1,1,TA,3,0,Detchd,Unf,1.0,N
+1644,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Mn,Unf,Unf,0.0,0.0,2,0,3,1,TA,8,1,Attchd,Fin,2.0,Y
+1645,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,ALQ,1.0,0.0,1,1,3,1,TA,7,0,Detchd,Unf,1.0,Y
+1646,SLvl,Hip,CompShg,VinylSd,VinylSd,CBlock,TA,TA,Av,GLQ,Unf,0.0,1.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+1647,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,2.0,0.0,2,0,3,1,Ex,10,1,Attchd,Fin,3.0,Y
+1648,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Mn,LwQ,Rec,0.0,0.0,2,0,3,1,Gd,5,0,Detchd,Unf,2.0,Y
+1649,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+1650,1Story,Hip,CompShg,Plywood,Plywood,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,2,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+1651,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,4,1,Gd,9,1,BuiltIn,Fin,3.0,Y
+1652,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,RFn,2.0,Y
+1653,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,LwQ,1.0,0.0,1,0,3,1,TA,6,2,Attchd,RFn,1.0,Y
+1654,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Mn,BLQ,Rec,1.0,0.0,1,0,3,1,Gd,5,0,Detchd,Unf,1.0,Y
+1655,1Story,Hip,CompShg,MetalSd,Stucco,BrkTil,TA,TA,No,ALQ,Rec,1.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+1656,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,Fa,No,LwQ,Unf,0.0,0.0,2,0,4,1,TA,7,0,Detchd,Unf,2.0,Y
+1657,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,0.0,0.0,2,1,3,1,TA,7,0,Attchd,Fin,2.0,Y
+1658,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,Gd,TA,No,Unf,Unf,1.0,0.0,1,1,4,1,Fa,6,0,Detchd,Unf,1.0,Y
+1659,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,Gd,5,1,Detchd,Unf,1.0,Y
+1660,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,ALQ,Unf,0.0,0.0,1,1,3,1,TA,5,1,Detchd,Unf,2.0,Y
+1661,1Story,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,P
+1662,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,0,Attchd,RFn,2.0,Y
+1663,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1664,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,BuiltIn,Fin,2.0,Y
+1665,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,2,0,2,2,TA,7,1,Detchd,Unf,1.0,Y
+1666,1Story,Hip,CompShg,Plywood,Plywood,CBlock,TA,TA,No,ALQ,LwQ,1.0,0.0,1,1,3,1,TA,5,0,Detchd,Unf,2.0,Y
+1667,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,Gd,6,0,Attchd,Unf,1.0,Y
+1668,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,2,Attchd,RFn,2.0,Y
+1669,SFoyer,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Av,ALQ,Unf,1.0,0.0,1,0,2,1,TA,5,1,Attchd,Unf,2.0,Y
+1670,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,1,1,2,1,Ex,5,1,Attchd,Fin,2.0,Y
+1671,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,2,1,Ex,11,2,Attchd,Fin,3.0,Y
+1672,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,1,0,3,1,Gd,6,0,Detchd,Unf,2.0,Y
+1673,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,ALQ,Unf,0.0,0.0,2,0,2,1,Gd,5,0,Attchd,RFn,2.0,Y
+1674,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,Unf,Unf,0.0,0.0,2,1,4,1,Gd,9,1,BuiltIn,RFn,3.0,Y
+1675,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,2,1,Gd,6,2,Attchd,Unf,1.0,Y
+1676,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1677,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,Gd,Gd,GLQ,Unf,1.0,0.0,1,0,1,1,TA,4,1,Attchd,Unf,2.0,Y
+1678,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,LwQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,2.0,Y
+1679,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,2,0,3,1,TA,6,1,Attchd,RFn,2.0,Y
+1680,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1682,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,Gd,Gd,No,ALQ,BLQ,1.0,0.0,1,0,3,1,Gd,6,0,Detchd,RFn,2.0,Y
+1683,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Ex,6,0,Detchd,Unf,1.0,N
+1685,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Ex,10,1,Attchd,Fin,3.0,Y
+1687,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1688,2.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,Ex,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,11,1,Detchd,Fin,2.0,Y
+1689,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,Gd,5,0,Detchd,Unf,1.0,N
+1690,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,7,1,BuiltIn,RFn,2.0,Y
+1691,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,5,0,Attchd,Unf,1.0,Y
+1692,2Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Gd,Rec,GLQ,1.0,0.0,3,1,4,1,Ex,11,1,Attchd,RFn,3.0,Y
+1693,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+1694,1.5Fin,Gable,CompShg,HdBoard,HdBoard,PConc,Fa,TA,No,Unf,Unf,0.0,0.0,1,0,4,1,TA,7,0,Detchd,Unf,2.0,Y
+1695,2Story,Flat,Tar&Grv,Plywood,Plywood,CBlock,Gd,TA,No,LwQ,Rec,0.0,0.0,2,1,3,1,TA,7,1,CarPort,Unf,2.0,Y
+1696,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,Gd,7,1,Detchd,Unf,2.0,Y
+1697,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,2,1,Gd,5,0,Detchd,RFn,2.0,Y
+1698,2Story,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,Unf,Unf,0.0,1.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1699,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,2,1,Ex,6,1,Attchd,RFn,2.0,Y
+1700,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,Unf,Unf,0.0,0.0,3,1,4,1,Ex,11,2,BuiltIn,Fin,3.0,Y
+1701,1.5Fin,Gable,CompShg,BrkFace,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,5,1,TA,8,1,Detchd,Unf,2.0,Y
+1702,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1703,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Mn,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,3.0,Y
+1704,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,7,1,Attchd,Fin,3.0,Y
+1706,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Gd,BLQ,LwQ,1.0,0.0,1,0,2,1,TA,7,1,Attchd,RFn,2.0,Y
+1707,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,Gd,5,1,Detchd,Unf,1.0,N
+1708,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+1709,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1710,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,Gd,5,0,Attchd,RFn,2.0,Y
+1713,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,2,1,TA,4,0,Attchd,RFn,1.0,Y
+1714,1Story,Gable,CompShg,WdShing,Plywood,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,N
+1715,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,2,1,Ex,6,1,Attchd,RFn,2.0,Y
+1716,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,Gd,TA,Mn,Rec,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+1717,2Story,Gable,CompShg,HdBoard,Wd Sdng,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,2,1,3,1,TA,6,1,Attchd,Unf,2.0,P
+1718,1Story,Gable,CompShg,BrkFace,Wd Sdng,CBlock,TA,TA,No,ALQ,BLQ,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+1719,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Detchd,Unf,2.0,Y
+1720,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,TA,4,0,Attchd,Unf,1.0,N
+1721,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,1,Attchd,Fin,3.0,Y
+1722,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,2,1,Fa,4,0,Detchd,Unf,1.0,Y
+1723,SLvl,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,Av,ALQ,Unf,1.0,0.0,1,0,3,1,TA,5,1,Detchd,Unf,1.0,Y
+1724,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,8,2,BuiltIn,Fin,3.0,Y
+1725,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,1,3,1,TA,6,1,Attchd,Unf,1.0,Y
+1726,1Story,Gable,Tar&Grv,Plywood,Plywood,CBlock,Gd,TA,Gd,BLQ,Unf,1.0,0.0,1,0,2,1,TA,6,2,Attchd,Unf,2.0,Y
+1727,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,10,1,BuiltIn,Fin,3.0,Y
+1728,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,1,Attchd,Fin,2.0,Y
+1729,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,Rec,0.0,0.0,1,0,4,1,TA,8,3,Attchd,Unf,2.0,Y
+1730,2Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,Gd,TA,No,ALQ,Unf,0.0,1.0,2,1,3,1,TA,7,1,Detchd,Unf,2.0,Y
+1731,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,TA,5,1,Attchd,Unf,1.0,Y
+1732,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,8,1,Attchd,RFn,3.0,Y
+1733,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+1734,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,1.0,1,0,2,1,TA,4,0,Attchd,Unf,1.0,Y
+1735,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,LwQ,Unf,0.0,1.0,2,0,3,1,TA,7,1,Attchd,Unf,2.0,Y
+1737,2Story,Gable,CompShg,HdBoard,ImStucc,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,9,3,Attchd,RFn,3.0,Y
+1738,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+1739,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,RFn,2.0,Y
+1740,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,ALQ,Rec,1.0,0.0,1,0,3,1,Gd,7,1,Detchd,Fin,2.0,Y
+1741,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,2,1,Gd,7,1,Attchd,Fin,2.0,Y
+1742,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1743,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,2,1,Gd,4,2,Attchd,Unf,1.0,Y
+1744,2Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,2,0,4,1,TA,8,1,Attchd,RFn,1.0,Y
+1745,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,8,1,BuiltIn,Fin,2.0,Y
+1746,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,1.0,2,0,2,1,Ex,5,1,Attchd,Fin,2.0,Y
+1747,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Fa,TA,Mn,ALQ,LwQ,0.0,0.0,2,1,4,1,TA,9,2,Attchd,Unf,2.0,Y
+1748,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,8,0,BuiltIn,RFn,2.0,Y
+1749,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,Fa,No,BLQ,Rec,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+1750,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,TA,7,1,BuiltIn,Fin,2.0,Y
+1751,1Story,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,Av,ALQ,Unf,0.0,0.0,1,1,3,1,TA,5,0,Detchd,Unf,2.0,Y
+1752,1.5Unf,Gable,CompShg,AsbShng,AsbShng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+1753,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,1,1,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1755,2Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,Gd,TA,No,ALQ,LwQ,0.0,0.0,2,1,4,1,TA,7,0,Attchd,RFn,2.0,Y
+1756,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,6,1,Detchd,Unf,2.0,Y
+1757,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,Mn,Rec,Unf,0.0,0.0,1,0,3,1,TA,6,1,Attchd,Unf,1.0,Y
+1758,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,1.0,2,0,2,1,Gd,5,1,Attchd,Fin,2.0,Y
+1759,2Story,Gable,CompShg,CemntBd,CmentBd,Stone,TA,Gd,No,GLQ,Unf,0.0,0.0,2,0,4,1,Gd,9,2,Attchd,RFn,1.0,Y
+1760,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,TA,7,1,BuiltIn,Fin,2.0,Y
+1761,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,Gd,6,0,Attchd,Unf,1.0,Y
+1762,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,1,BuiltIn,Fin,2.0,Y
+1763,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,2,1,5,1,TA,8,1,Attchd,RFn,2.0,Y
+1764,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,3,1,4,1,Gd,10,1,BuiltIn,Fin,3.0,Y
+1765,1.5Fin,Gable,CompShg,Stucco,Stucco,PConc,TA,TA,No,LwQ,Unf,0.0,0.0,1,1,4,1,TA,7,2,Detchd,Unf,1.0,Y
+1766,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Mn,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1767,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,2,1,TA,6,0,Attchd,Fin,1.0,Y
+1768,2Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Rec,Unf,0.0,1.0,1,1,4,1,TA,9,1,Attchd,RFn,2.0,Y
+1769,1Story,Gable,CompShg,Plywood,ImStucc,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,2,1,Gd,5,0,Attchd,RFn,2.0,Y
+1770,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Mn,Unf,Unf,0.0,0.0,2,0,3,1,TA,5,0,Detchd,Unf,2.0,N
+1771,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,9,1,Attchd,Fin,3.0,Y
+1772,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,2.0,Y
+1773,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,1,Attchd,Unf,3.0,Y
+1774,1Story,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,1,1,3,1,TA,6,1,Attchd,Unf,1.0,Y
+1775,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1776,2Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,Mn,Unf,Unf,0.0,0.0,1,1,4,1,TA,8,0,Detchd,Unf,1.0,N
+1777,1Story,Gable,CompShg,WdShing,Wd Shng,BrkTil,TA,TA,No,LwQ,BLQ,0.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,1.0,Y
+1778,SLvl,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,Av,Rec,GLQ,0.0,0.0,1,1,2,1,Gd,5,1,Attchd,Unf,2.0,Y
+1779,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+1780,2Story,Mansard,WdShake,WdShing,Plywood,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,8,1,Attchd,RFn,2.0,Y
+1781,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+1782,2Story,Gable,CompShg,MetalSd,Wd Sdng,BrkTil,TA,Fa,No,Unf,Unf,0.0,0.0,3,1,4,1,TA,8,0,BuiltIn,RFn,2.0,Y
+1784,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,No,ALQ,Unf,1.0,0.0,1,1,3,1,TA,5,1,Detchd,Unf,2.0,Y
+1785,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,5,2,TA,9,0,Detchd,Unf,2.0,Y
+1786,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1787,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,1.0,2,0,2,1,Gd,5,1,Attchd,Fin,2.0,Y
+1789,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,LwQ,Unf,0.0,0.0,2,0,6,2,TA,10,0,Detchd,Unf,2.0,Y
+1790,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1791,2.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,LwQ,Unf,0.0,0.0,2,1,5,2,TA,13,2,Detchd,Unf,2.0,Y
+1792,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,1,1,1,Gd,5,1,Attchd,RFn,2.0,Y
+1793,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,Stone,Po,Fa,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,6,0,Detchd,Unf,1.0,Y
+1794,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,Fa,5,0,Detchd,Unf,2.0,P
+1795,1Story,Gable,CompShg,Wd Sdng,Plywood,CBlock,Gd,TA,Gd,GLQ,Rec,1.0,0.0,1,0,1,1,Gd,4,1,Attchd,Fin,2.0,Y
+1796,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,Unf,Unf,0.0,0.0,3,1,4,1,Ex,12,1,BuiltIn,RFn,3.0,Y
+1797,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,2,1,Gd,5,1,Detchd,Unf,2.0,Y
+1798,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Attchd,Fin,2.0,P
+1800,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,1,BuiltIn,RFn,3.0,Y
+1801,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,1,4,1,TA,8,1,Attchd,Fin,2.0,Y
+1802,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,0,BuiltIn,RFn,2.0,Y
+1803,1Story,Gable,CompShg,Plywood,Plywood,PConc,Gd,TA,No,LwQ,Unf,1.0,0.0,1,1,3,1,TA,6,0,Attchd,Unf,2.0,Y
+1804,2.5Unf,Gable,CompShg,MetalSd,Stucco,BrkTil,TA,TA,Mn,Unf,Unf,0.0,0.0,1,1,4,1,Gd,7,1,Detchd,Unf,1.0,N
+1805,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,RFn,1.0,Y
+1806,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,ALQ,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1807,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,9,1,BuiltIn,RFn,3.0,Y
+1808,SLvl,Gable,CompShg,Plywood,Plywood,CBlock,TA,Fa,No,ALQ,Unf,0.0,0.0,3,0,3,1,Gd,8,1,Attchd,RFn,2.0,Y
+1809,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,1,2,1,TA,6,0,Detchd,Unf,1.0,Y
+1810,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,Gd,No,GLQ,Rec,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1811,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,2,1,Gd,5,0,Detchd,RFn,2.0,Y
+1812,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,4,1,Ex,9,1,Attchd,RFn,2.0,Y
+1813,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,7,1,Attchd,Fin,2.0,Y
+1815,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,No,GLQ,Unf,1.0,0.0,2,1,2,1,Gd,6,1,Attchd,RFn,3.0,Y
+1816,2Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+1817,1Story,Hip,CompShg,CemntBd,CmentBd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+1818,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1819,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,8,2,Attchd,Fin,3.0,Y
+1820,2Story,Gable,CompShg,VinylSd,VinylSd,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,3,0,3,1,Gd,7,0,Attchd,Unf,2.0,Y
+1821,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1822,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,2,1,4,1,TA,7,1,Attchd,Fin,2.0,Y
+1823,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,1,TA,5,0,Detchd,Unf,1.0,Y
+1824,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+1825,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,Fin,2.0,Y
+1826,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+1827,SLvl,Hip,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,RFn,2.0,Y
+1828,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,Mn,ALQ,Unf,1.0,0.0,2,0,3,1,Gd,8,0,Attchd,RFn,2.0,Y
+1829,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,3.0,Y
+1830,2Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,2,1,TA,5,2,Attchd,RFn,1.0,Y
+1831,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,Unf,Unf,0.0,0.0,2,1,3,1,Ex,8,1,Attchd,RFn,3.0,Y
+1832,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,9,1,Attchd,Fin,2.0,Y
+1833,SLvl,Gable,CompShg,BrkFace,Plywood,CBlock,Gd,TA,Av,GLQ,Rec,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+1834,2Story,Gable,CompShg,HdBoard,ImStucc,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1835,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Ex,9,1,BuiltIn,Fin,3.0,Y
+1836,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,3.0,Y
+1837,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Mn,BLQ,Rec,0.0,1.0,1,0,3,1,Gd,5,0,Detchd,Unf,2.0,Y
+1838,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,1,1,2,1,TA,5,1,Attchd,Fin,2.0,Y
+1839,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,3,0,3,1,Gd,7,0,Attchd,Fin,2.0,Y
+1840,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,0,Attchd,RFn,3.0,Y
+1842,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,2,1,TA,5,0,Basment,Unf,1.0,Y
+1843,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,9,2,Attchd,Fin,2.0,Y
+1844,1.5Fin,Gable,CompShg,AsbShng,AsbShng,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,7,0,Detchd,Unf,1.0,Y
+1845,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,Fa,No,Rec,Unf,0.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1846,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Mn,GLQ,Unf,1.0,1.0,1,0,3,1,Gd,5,0,Detchd,Unf,1.0,Y
+1847,1.5Unf,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+1848,1.5Fin,Gable,CompShg,VinylSd,VinylSd,CBlock,Gd,TA,Mn,ALQ,Unf,1.0,0.0,2,0,4,1,TA,7,0,Attchd,Unf,1.0,Y
+1849,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,8,1,Attchd,Fin,2.0,Y
+1850,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,RFn,2.0,Y
+1851,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,3,1,Gd,6,1,Attchd,Fin,2.0,Y
+1852,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,3,1,TA,5,1,Detchd,Unf,1.0,Y
+1853,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+1854,1Story,Gable,WdShngl,Plywood,Plywood,CBlock,Gd,TA,Gd,ALQ,Unf,1.0,0.0,2,0,2,1,Gd,5,2,Attchd,Unf,2.0,Y
+1855,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,0,Attchd,Fin,2.0,Y
+1856,1Story,Gable,CompShg,CemntBd,CmentBd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,Unf,2.0,Y
+1857,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,1.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+1858,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,3.0,Y
+1860,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,5,1,Detchd,RFn,1.0,P
+1861,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,Fa,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,N
+1862,1Story,Gable,CompShg,MetalSd,VinylSd,BrkTil,TA,TA,Mn,Rec,Unf,0.0,0.0,2,0,2,1,Fa,5,1,Detchd,Unf,1.0,Y
+1863,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1864,2Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,Gd,6,1,Attchd,RFn,2.0,Y
+1865,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Av,Rec,BLQ,1.0,0.0,1,0,3,1,TA,6,0,Attchd,RFn,1.0,Y
+1866,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Mn,Unf,Unf,0.0,0.0,2,1,4,1,Ex,8,1,BuiltIn,RFn,3.0,Y
+1867,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,2,1,TA,5,1,Detchd,Unf,1.0,Y
+1868,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,0,Attchd,Fin,2.0,Y
+1869,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,BLQ,LwQ,1.0,0.0,2,0,3,1,TA,7,1,Detchd,Unf,2.0,Y
+1870,1.5Fin,Gable,CompShg,AsbShng,AsbShng,BrkTil,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,4,1,TA,7,0,Attchd,Unf,1.0,Y
+1871,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1872,1Story,Hip,CompShg,MetalSd,MetalSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,6,1,Attchd,RFn,2.0,Y
+1873,SLvl,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,BuiltIn,Fin,2.0,Y
+1874,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+1876,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,Mn,Rec,LwQ,0.0,0.0,2,0,4,1,TA,7,1,Detchd,Unf,2.0,Y
+1877,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,5,0,Attchd,RFn,2.0,Y
+1878,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,ALQ,Unf,2.0,0.0,2,0,4,2,TA,8,0,Detchd,Unf,2.0,Y
+1879,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+1880,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,1,1,2,1,TA,5,0,Attchd,Unf,2.0,Y
+1881,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,Mn,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,5,0,Attchd,RFn,2.0,Y
+1882,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,8,1,BuiltIn,Fin,2.0,Y
+1883,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+1884,2Story,Hip,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,1,3,1,TA,6,0,Attchd,Fin,2.0,Y
+1885,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,1.0,2,1,2,1,Ex,15,2,Attchd,Fin,3.0,Y
+1886,1Story,Hip,CompShg,Plywood,Plywood,PConc,TA,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,Unf,2.0,Y
+1887,1Story,Flat,Tar&Grv,Plywood,Plywood,CBlock,TA,Gd,Gd,GLQ,Unf,1.0,0.0,1,0,2,1,TA,5,1,Attchd,Unf,2.0,Y
+1888,2Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Unf,2.0,Y
+1890,2Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,6,1,Attchd,RFn,1.0,Y
+1891,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,No,ALQ,Unf,1.0,0.0,1,1,2,1,TA,5,0,Attchd,Fin,2.0,Y
+1892,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,Fa,Fa,Mn,Unf,Unf,1.0,1.0,1,0,4,1,TA,7,1,Detchd,Unf,1.0,P
+1894,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,ALQ,GLQ,1.0,0.0,1,0,2,1,TA,6,0,Detchd,Unf,2.0,Y
+1895,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,0,Attchd,Unf,1.0,Y
+1896,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Rec,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1897,2.5Unf,Gable,CompShg,BrkFace,Wd Sdng,BrkTil,TA,TA,No,Rec,Unf,0.0,0.0,3,1,5,1,Gd,7,2,Detchd,Unf,2.0,Y
+1898,1Story,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,LwQ,BLQ,1.0,0.0,2,0,3,1,TA,6,1,Attchd,Fin,2.0,Y
+1899,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,6,1,Attchd,Fin,2.0,Y
+1900,2Story,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,TA,Mn,ALQ,Unf,1.0,0.0,1,1,3,1,TA,6,1,Attchd,Unf,2.0,Y
+1901,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1902,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,TA,TA,Mn,LwQ,Unf,1.0,0.0,1,0,4,1,TA,7,1,Attchd,Unf,1.0,Y
+1903,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1904,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,Ex,Gd,Mn,LwQ,ALQ,0.0,1.0,1,0,2,1,TA,6,0,Detchd,Unf,1.0,Y
+1905,1.5Fin,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,8,0,Attchd,Unf,1.0,Y
+1906,SLvl,Gable,CompShg,HdBoard,Plywood,CBlock,TA,TA,Av,GLQ,Unf,1.0,0.0,1,0,3,1,TA,7,1,Detchd,Unf,2.0,Y
+1907,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Rec,1.0,0.0,1,1,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1908,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1909,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,10,1,BuiltIn,Fin,3.0,Y
+1910,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,9,1,BuiltIn,Fin,3.0,Y
+1911,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Av,Rec,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+1912,1Story,Gable,CompShg,Plywood,Plywood,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,5,0,Attchd,RFn,2.0,Y
+1913,SFoyer,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,Av,GLQ,Rec,1.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,2.0,Y
+1914,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,ALQ,Unf,1.0,0.0,2,0,1,1,Gd,5,1,Attchd,RFn,2.0,Y
+1915,1.5Unf,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Av,BLQ,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+1916,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,Fa,TA,No,Rec,Unf,1.0,0.0,1,0,3,1,TA,6,0,Detchd,Unf,1.0,Y
+1917,1Story,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,No,ALQ,Rec,1.0,0.0,2,0,3,1,TA,7,2,Attchd,Unf,2.0,Y
+1918,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,Rec,LwQ,0.0,0.0,1,1,3,1,TA,7,1,Detchd,Unf,2.0,Y
+1919,1Story,Gable,CompShg,VinylSd,HdBoard,CBlock,Gd,TA,No,BLQ,Unf,0.0,0.0,2,0,2,1,Gd,4,0,Attchd,Unf,2.0,Y
+1920,1.5Fin,Gable,CompShg,Stucco,Stucco,BrkTil,TA,Fa,No,BLQ,Unf,0.0,0.0,1,0,2,1,Gd,6,1,Detchd,Unf,2.0,Y
+1921,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,ALQ,Unf,1.0,0.0,2,0,3,1,TA,6,1,Attchd,Unf,2.0,Y
+1922,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,Gd,No,BLQ,LwQ,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+1923,1Story,Hip,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,Gd,5,2,Attchd,Unf,1.0,Y
+1924,2Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,1,Attchd,RFn,2.0,Y
+1925,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,No,BLQ,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1926,1Story,Hip,CompShg,Wd Sdng,Plywood,CBlock,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,5,1,Attchd,Fin,2.0,Y
+1928,1Story,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,Rec,Unf,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+1929,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+1930,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,8,1,Attchd,Fin,3.0,Y
+1931,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,3,0,3,1,Gd,7,1,BuiltIn,RFn,3.0,Y
+1932,SFoyer,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,ALQ,LwQ,1.0,0.0,1,0,3,1,TA,6,0,2Types,Fin,3.0,Y
+1934,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,8,1,Attchd,Fin,3.0,Y
+1935,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1936,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,0.0,1.0,1,0,3,1,TA,5,1,Attchd,Fin,2.0,Y
+1937,1Story,Gable,CompShg,MetalSd,MetalSd,PConc,TA,TA,No,BLQ,LwQ,1.0,0.0,1,0,3,1,TA,5,0,Attchd,Unf,1.0,Y
+1938,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,0,3,1,TA,5,0,Attchd,Fin,2.0,Y
+1939,2.5Fin,Gable,CompShg,CemntBd,CmentBd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,3,0,3,1,Gd,10,1,Attchd,Unf,3.0,Y
+1940,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,1,0,3,1,Gd,6,0,Detchd,Unf,2.0,Y
+1941,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,8,2,BuiltIn,Fin,2.0,Y
+1942,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,ALQ,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,N
+1943,1Story,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,LwQ,BLQ,1.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,2.0,Y
+1944,1Story,Gable,CompShg,WdShing,Wd Shng,PConc,Gd,TA,Gd,Unf,Unf,0.0,0.0,2,0,2,1,Gd,5,1,Attchd,Fin,2.0,Y
+1945,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,6,0,Detchd,RFn,2.0,Y
+1946,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,Mn,GLQ,Unf,1.0,0.0,1,0,2,1,Gd,6,0,Detchd,Unf,2.0,Y
+1947,SLvl,Gable,CompShg,Wd Sdng,Wd Sdng,PConc,Gd,TA,Gd,GLQ,Unf,1.0,1.0,2,0,2,1,Gd,5,1,Attchd,Fin,2.0,Y
+1948,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,3,0,5,2,TA,9,0,2Types,Unf,3.0,Y
+1949,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,RFn,2.0,Y
+1950,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,ALQ,Unf,0.0,0.0,1,0,3,1,TA,5,0,Detchd,Unf,1.0,Y
+1951,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,0,2,1,Gd,5,1,Attchd,Fin,3.0,Y
+1953,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,1,1,Gd,4,1,Attchd,Fin,2.0,Y
+1954,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+1955,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Ex,7,1,Attchd,Fin,3.0,Y
+1956,SLvl,Gable,CompShg,Plywood,Plywood,CBlock,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,TA,6,2,Attchd,Unf,2.0,Y
+1957,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,8,1,Attchd,RFn,2.0,Y
+1958,SFoyer,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,BuiltIn,RFn,1.0,Y
+1959,SLvl,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Gd,ALQ,Unf,1.0,0.0,1,0,4,1,Gd,7,1,BuiltIn,Fin,2.0,Y
+1960,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,9,1,Attchd,Unf,2.0,Y
+1961,1.5Fin,Gable,CompShg,WdShing,Wd Shng,CBlock,TA,Fa,No,LwQ,Unf,0.0,0.0,1,0,3,1,TA,8,1,Detchd,Unf,1.0,Y
+1962,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+1963,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,8,1,Attchd,RFn,2.0,Y
+1964,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,8,2,Attchd,Fin,3.0,Y
+1965,1.5Fin,Gable,CompShg,MetalSd,MetalSd,CBlock,TA,TA,Mn,GLQ,Unf,2.0,0.0,2,1,5,1,TA,10,1,Attchd,RFn,3.0,N
+1966,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,2,TA,8,0,Detchd,Unf,3.0,Y
+1967,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,ALQ,Unf,0.0,0.0,2,1,3,1,Gd,7,1,BuiltIn,Fin,2.0,Y
+1968,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,Unf,Unf,0.0,1.0,2,0,3,1,TA,6,1,Detchd,Unf,1.0,Y
+1969,1Story,Gable,CompShg,Wd Sdng,Plywood,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+1970,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,3.0,Y
+1971,1.5Fin,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,1,Gd,8,0,Detchd,Unf,2.0,Y
+1972,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,GLQ,Unf,1.0,0.0,1,0,2,1,TA,6,0,Detchd,Unf,2.0,Y
+1973,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,8,1,Attchd,Fin,2.0,Y
+1974,1.5Unf,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,TA,No,GLQ,Unf,1.0,0.0,1,0,2,2,TA,5,2,Attchd,RFn,1.0,Y
+1975,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,2,1,TA,4,0,Attchd,Unf,1.0,Y
+1976,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,TA,7,0,Attchd,Fin,2.0,Y
+1977,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,3.0,Y
+1978,2Story,Gable,CompShg,HdBoard,HdBoard,BrkTil,Gd,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Gd,8,0,Detchd,Unf,2.0,Y
+1979,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,8,1,Attchd,RFn,3.0,Y
+1980,SLvl,Gable,CompShg,WdShing,Wd Shng,PConc,Gd,TA,Mn,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,1,BuiltIn,Fin,2.0,Y
+1981,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,1,0,2,1,TA,5,0,Basment,Fin,2.0,Y
+1983,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,Gd,TA,No,ALQ,BLQ,1.0,0.0,1,0,3,1,TA,6,1,Attchd,Unf,2.0,Y
+1984,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+1985,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,Attchd,RFn,2.0,Y
+1986,2Story,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Ex,10,1,Attchd,RFn,2.0,Y
+1987,1Story,Gable,CompShg,Plywood,Brk Cmn,CBlock,TA,TA,No,ALQ,BLQ,1.0,0.0,2,0,2,1,TA,4,0,Attchd,Unf,1.0,Y
+1988,1Story,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,Mn,ALQ,Unf,1.0,0.0,1,0,2,1,Gd,5,1,Attchd,RFn,2.0,Y
+1989,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,0,3,1,TA,6,1,Attchd,RFn,1.0,Y
+1990,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,No,GLQ,Unf,1.0,0.0,2,1,4,1,Ex,9,1,BuiltIn,Fin,3.0,Y
+1992,SLvl,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,6,0,BuiltIn,Fin,2.0,Y
+1993,2Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,Gd,TA,Mn,Unf,Unf,0.0,0.0,1,1,4,1,TA,9,0,Detchd,Unf,1.0,N
+1994,2Story,Hip,CompShg,Stucco,Stucco,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,2,0,4,1,Gd,7,2,Basment,Unf,2.0,Y
+1995,1Story,Hip,CompShg,MetalSd,MetalSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+1996,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,TA,Fa,No,Unf,Unf,0.0,0.0,2,0,3,1,Fa,7,0,Detchd,Unf,2.0,Y
+1998,1Story,Gable,CompShg,CemntBd,CmentBd,CBlock,Gd,TA,No,ALQ,Unf,0.0,1.0,2,0,3,1,Gd,8,1,Attchd,Fin,2.0,Y
+1999,1.5Fin,Gable,CompShg,Wd Sdng,Wd Sdng,CBlock,Gd,Gd,No,BLQ,Unf,0.0,0.0,2,0,3,1,TA,6,0,Detchd,Unf,2.0,N
+2000,1Story,Hip,CompShg,Wd Sdng,Wd Sdng,CBlock,TA,TA,No,Rec,Unf,0.0,0.0,1,0,2,1,TA,5,0,Detchd,Unf,1.0,Y
+2001,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,4,1,Gd,9,1,Attchd,RFn,2.0,Y
+2002,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,3.0,Y
+2003,1Story,Hip,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,2,1,TA,4,0,Detchd,Unf,1.0,Y
+2004,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,6,1,Detchd,Unf,2.0,Y
+2005,1.5Fin,Gable,CompShg,MetalSd,MetalSd,BrkTil,Fa,TA,No,LwQ,Unf,0.0,0.0,2,0,2,1,TA,6,0,Attchd,Unf,1.0,Y
+2006,2Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,BLQ,Unf,1.0,0.0,1,1,2,1,TA,5,0,Detchd,Unf,1.0,Y
+2007,2Story,Gable,CompShg,CemntBd,CmentBd,CBlock,TA,TA,No,BLQ,LwQ,0.0,0.0,1,1,3,1,TA,6,0,Attchd,RFn,1.0,Y
+2008,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,2,0,4,2,TA,8,0,Detchd,Unf,2.0,Y
+2009,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Rec,LwQ,0.0,1.0,1,0,3,1,TA,5,0,Detchd,Unf,2.0,Y
+2011,1Story,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,Unf,Unf,0.0,0.0,1,0,3,1,Gd,7,0,Detchd,Unf,2.0,Y
+2012,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,0,BuiltIn,RFn,3.0,Y
+2013,2Story,Gable,CompShg,MetalSd,MetalSd,PConc,Gd,TA,Mn,GLQ,Unf,1.0,0.0,2,1,4,1,Gd,9,1,Attchd,Unf,2.0,Y
+2014,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,1,1,Gd,5,1,Attchd,RFn,2.0,Y
+2015,1Story,Gable,CompShg,HdBoard,HdBoard,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,0,3,1,TA,6,1,Attchd,Unf,2.0,Y
+2016,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,Gd,6,0,Attchd,RFn,1.0,Y
+2017,1Story,Gable,CompShg,Wd Sdng,Wd Sdng,BrkTil,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,1,1,TA,4,0,Detchd,Unf,1.0,N
+2018,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+2019,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Mn,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,Fin,2.0,Y
+2020,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,1.0,0.0,2,1,3,1,TA,7,1,Attchd,Fin,2.0,Y
+2021,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,Unf,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+2022,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,Av,Rec,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,RFn,2.0,Y
+2023,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,6,1,Attchd,RFn,2.0,Y
+2024,SLvl,Hip,CompShg,HdBoard,HdBoard,CBlock,TA,TA,No,GLQ,Rec,0.0,0.0,2,1,3,1,TA,6,1,Attchd,RFn,2.0,Y
+2025,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Gd,Unf,Unf,0.0,0.0,2,1,4,1,Gd,10,1,BuiltIn,Fin,3.0,Y
+2026,2.5Unf,Gable,CompShg,VinylSd,VinylSd,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,2,1,4,1,Gd,8,1,Detchd,Unf,2.0,Y
+2028,1Story,Hip,CompShg,BrkFace,HdBoard,CBlock,TA,TA,No,BLQ,Rec,0.0,0.0,2,0,3,1,TA,9,1,Attchd,RFn,2.0,Y
+2029,1Story,Hip,CompShg,CemntBd,CmentBd,PConc,Ex,TA,Gd,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,7,1,Attchd,Fin,3.0,Y
+2030,1.5Fin,Gable,CompShg,MetalSd,MetalSd,Stone,TA,TA,Mn,Unf,Unf,0.0,0.0,1,0,2,1,TA,7,0,Detchd,RFn,1.0,N
+2031,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,GLQ,Unf,1.0,0.0,1,1,3,1,TA,6,1,Attchd,Fin,2.0,Y
+2032,SLvl,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,ALQ,Unf,0.0,1.0,2,0,3,1,Gd,6,1,Attchd,Unf,2.0,Y
+2033,1Story,Gable,CompShg,HdBoard,HdBoard,CBlock,Gd,TA,Av,GLQ,Unf,0.0,0.0,2,0,2,1,Gd,5,1,Attchd,Unf,2.0,Y
+2034,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Gd,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+2035,1Story,Gable,CompShg,MetalSd,MetalSd,BrkTil,Fa,TA,No,Unf,Unf,0.0,0.0,1,0,2,1,Fa,5,1,Detchd,Unf,1.0,Y
+2036,2Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,Gd,No,GLQ,Unf,1.0,0.0,2,1,3,1,Gd,8,1,Attchd,Fin,3.0,Y
+2037,1Story,Hip,CompShg,HdBoard,Plywood,CBlock,TA,TA,No,ALQ,Unf,1.0,0.0,1,0,3,1,TA,5,1,Attchd,Unf,2.0,Y
+2038,SLvl,Gable,CompShg,HdBoard,HdBoard,CBlock,TA,TA,Gd,GLQ,Unf,0.0,0.0,2,0,3,1,TA,5,0,Attchd,RFn,2.0,Y
+2040,1.5Fin,Gable,CompShg,BrkFace,AsbShng,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,2,0,3,1,TA,7,1,Attchd,Fin,2.0,Y
+2041,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,1,3,1,Ex,10,2,BuiltIn,Fin,3.0,Y
+2043,2Story,Gable,CompShg,MetalSd,VinylSd,CBlock,TA,TA,Mn,Rec,Unf,0.0,0.0,1,1,3,1,TA,6,2,Attchd,Unf,1.0,Y
+2044,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,No,GLQ,Unf,0.0,0.0,2,1,3,1,Gd,6,0,Attchd,RFn,2.0,Y
+2045,1Story,Hip,CompShg,VinylSd,VinylSd,PConc,Ex,TA,Av,GLQ,Unf,1.0,0.0,2,0,2,1,Ex,7,1,Attchd,Fin,3.0,Y
+2046,1Story,Gable,CompShg,VinylSd,VinylSd,PConc,Gd,TA,Av,GLQ,Unf,1.0,0.0,2,0,3,1,Gd,7,1,Attchd,Fin,2.0,Y
+2047,1Story,Gable,CompShg,VinylSd,VinylSd,CBlock,TA,TA,No,BLQ,Unf,0.0,0.0,1,0,1,1,TA,4,0,Detchd,Unf,2.0,Y
+2048,1.5Fin,Gable,CompShg,BrkFace,Stone,BrkTil,TA,TA,No,Unf,Unf,0.0,0.0,1,1,3,1,TA,9,1,Detchd,Unf,2.0,Y
+2049,1Story,Gable,CompShg,Plywood,Plywood,CBlock,TA,TA,No,Rec,LwQ,1.0,0.0,1,0,3,1,TA,6,2,Attchd,Unf,1.0,Y
+2050,2Story,Gable,CompShg,VinylSd,VinylSd,PConc,TA,TA,No,Unf,Unf,0.0,0.0,2,1,3,1,Gd,7,1,Attchd,Fin,2.0,Y

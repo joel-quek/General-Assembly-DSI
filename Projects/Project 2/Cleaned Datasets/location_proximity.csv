@@ -1,0 +1,1888 @@
+,MS SubClass,MS Zoning,Lot Config,Neighborhood,Condition 1,Condition 2,Bldg Type,Land Contour,Land Slope,Street,Lot Shape
+0,2 Storey 1946 Newer,Residential Low Density,CulDSac,Sawyer,RRAe,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1,2 Storey 1946 Newer,Residential Low Density,CulDSac,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+3,2 Storey 1946 Newer,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+4,1.5 Finished,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+5,1 Storey Newer All,Residential Low Density,Corner,NAmes,PosA,Norm,1Fam,Lvl,Gtl,Pave,IR1
+6,PUD Multi,Residential Medium Density,Inside,Edwards,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+7,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+8,1 Storey Newer All,Residential Low Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+9,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,HLS,Sev,Pave,IR1
+10,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+11,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+13,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+14,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+15,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+16,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+17,1 Storey Newer All,Residential Low Density,Corner,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+18,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+19,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+20,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+21,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+22,2 Storey 1946 Newer,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+23,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+24,Family Conversion,Residential Low Density,Inside,Gilbert,Norm,Norm,2fmCon,Bnk,Gtl,Pave,Reg
+25,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+26,1 Storey Newer All,Residential Low Density,Inside,Sawyer,RRAe,Norm,1Fam,Lvl,Gtl,Pave,Reg
+27,1.5 Finished,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,HLS,Mod,Pave,IR1
+29,1.5 Finished,Residential Low Density,Corner,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+30,1 Storey Newer All,Residential Low Density,Inside,NWAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,Reg
+31,2 Storey 1946 Older,Residential Low Density,Corner,Crawfor,Norm,Norm,1Fam,HLS,Mod,Pave,IR1
+32,1 Storey PUD,Residential Low Density,CulDSac,Veenker,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+33,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+34,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+35,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,HLS,Mod,Pave,IR1
+36,2 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+37,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+38,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+39,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+40,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+41,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+42,Split Foyer,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+43,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+44,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+45,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,HLS,Mod,Pave,IR1
+46,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+47,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,HLS,Mod,Pave,Reg
+48,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+49,2 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+50,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+51,1.5 Finished,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+52,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,RRAn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+54,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+55,2 Storey 1946 Newer,Residential Low Density,Corner,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+56,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+57,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+58,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+59,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+60,2 Storey 1946 Newer,Residential Low Density,CulDSac,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+61,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+62,1 Storey Newer All,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Low,Mod,Pave,IR1
+63,1.5 Finished,Residential Medium Density,Corner,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+64,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+66,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+67,2 Storey PUD,Residential Medium Density,Inside,Edwards,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+68,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,HLS,Mod,Pave,IR1
+69,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+70,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+71,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+72,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+73,2 Storey PUD,Residential Medium Density,Inside,Edwards,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+74,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+75,1 Storey 1945 older,Residential Medium Density,Inside,IDOTRR,RRNe,Norm,1Fam,Lvl,Gtl,Grvl,IR1
+76,1 Storey 1945 older,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+77,1 Storey 1945 older,Residential Medium Density,Inside,BrkSide,Feedr,RRNn,1Fam,Lvl,Gtl,Pave,IR1
+78,Duplex All,Residential Low Density,Corner,NAmes,Feedr,Norm,Duplex,Lvl,Gtl,Pave,Reg
+80,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+81,1 Storey Newer All,Residential Low Density,CulDSac,StoneBr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+82,1.5 Finished,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,IR1
+83,1 Storey Newer All,Residential Low Density,FR2,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+84,1 Storey PUD,Residential Medium Density,FR2,Mitchel,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+85,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+86,1 Storey Newer All,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+87,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+88,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+89,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+90,Split,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+91,2 Storey 1946 Newer,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR3
+92,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,RRAe,Norm,1Fam,Lvl,Gtl,Pave,Reg
+94,Split,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+95,1 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+96,Split,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+97,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+98,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+99,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+100,1 Storey Newer All,Residential Low Density,CulDSac,StoneBr,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+102,1 Storey Newer All,Residential Low Density,Inside,Veenker,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+104,2 Storey 1946 Newer,Residential Low Density,CulDSac,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+105,Family Conversion,Residential Low Density,Corner,NWAmes,RRAn,Feedr,2fmCon,Lvl,Gtl,Pave,IR1
+106,2 Storey PUD,Floating Village Residential,FR2,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+107,1.5 Finished,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+108,1 Storey Newer All,Residential Low Density,CulDSac,NAmes,Norm,Norm,1Fam,Low,Sev,Pave,IR1
+109,2 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+110,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+111,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+112,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+113,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+115,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+116,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+117,1 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+118,Family Conversion,Residential Low Density,Corner,ClearCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+119,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+121,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+122,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+123,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+124,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+125,2 Storey 1946 Newer,Residential Low Density,CulDSac,Veenker,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+126,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+127,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+128,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+129,Split,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+130,1 Storey PUD,Residential Low Density,Inside,NPkVill,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+131,2 Storey 1946 Newer,Residential Low Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+132,2 Storey PUD,Residential Low Density,Inside,NPkVill,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+133,1 Storey PUD,Residential Low Density,CulDSac,Veenker,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+135,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+137,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+138,2 Storey 1946 Newer,Residential Low Density,CulDSac,StoneBr,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+140,1 Storey Newer All,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+141,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+142,1 Storey Newer All,Residential Low Density,Corner,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+143,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+144,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+145,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+147,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+148,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+149,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+150,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+151,2 Storey 1946 Newer,Residential Low Density,Inside,StoneBr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+152,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+153,2 Storey 1946 Newer,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+154,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+155,1 Storey Newer All,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+156,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+157,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Mod,Pave,Reg
+158,Family Conversion,Residential Low Density,Inside,BrkSide,RRAn,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+159,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+160,1 Storey 1945 older,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+161,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+163,2 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+164,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+165,2 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+166,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+167,2 Storey PUD,Residential Low Density,Inside,NPkVill,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+168,Family Conversion,Residential Low Density,Inside,Edwards,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+169,Split Foyer,Residential Low Density,CulDSac,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+170,1 Storey Newer All,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+171,1.5 Finished,Residential Low Density,Inside,BrkSide,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+172,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+173,2 Storey 1946 Older,Residential Low Density,Inside,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+174,1 Storey Newer All,Residential Low Density,Inside,NWAmes,RRAn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+175,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+176,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+177,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+178,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+179,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+180,1 Storey Newer All,Residential Medium Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+181,1 Storey Newer All,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+182,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+184,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+185,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+186,1.5 Finished,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+187,1 Storey Newer All,Residential Low Density,CulDSac,Somerst,RRAn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+188,2 Storey 1946 Newer,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+189,2 Storey 1946 Newer,Residential Low Density,Inside,StoneBr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+190,2 Storey 1946 Newer,Residential Low Density,CulDSac,StoneBr,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+191,1 Storey Newer All,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Low,Sev,Pave,IR1
+192,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Mod,Pave,IR1
+193,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+194,Duplex All,Residential Low Density,Inside,NAmes,Artery,Norm,Duplex,Lvl,Gtl,Pave,Reg
+195,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+196,1 Storey Newer All,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+197,1.5 Finished,Residential Low Density,Corner,Edwards,Artery,Norm,1Fam,Bnk,Gtl,Pave,Reg
+198,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+199,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+200,PUD Multi,Residential Medium Density,Inside,MeadowV,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+201,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+202,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+203,2.5 Story All,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+204,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+205,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+206,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR1
+207,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+208,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+209,Split Foyer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+210,1 Storey Newer All,Residential Low Density,CulDSac,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+211,1 Storey Newer All,Residential Low Density,Corner,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+212,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+213,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+214,1 Storey Newer All,Residential Low Density,CulDSac,Edwards,Norm,Norm,1Fam,Low,Gtl,Pave,IR1
+215,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+216,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+217,1.5 Finished,Residential Low Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+218,1 Storey Newer All,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+219,1 Storey 1945 older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+220,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+221,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+222,2 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+223,1 Storey Newer All,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+224,Split,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+225,1 Storey Newer All,Residential Low Density,Inside,SawyerW,RRAe,Norm,1Fam,Lvl,Gtl,Pave,Reg
+226,1 Storey PUD,Residential Medium Density,FR2,Mitchel,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+227,2 Storey 1946 Newer,Residential Low Density,Inside,StoneBr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+228,Family Conversion,Residential Low Density,Inside,Crawfor,Norm,Norm,2fmCon,Lvl,Gtl,Pave,IR1
+229,Split,Residential Medium Density,Corner,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+230,1 Storey PUD,Residential Low Density,Corner,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+231,Split,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+232,2 Storey 1946 Older,Residential Low Density,Corner,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+233,1 Storey Newer All,Residential Low Density,CulDSac,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+234,Split,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+236,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+237,2 Storey 1946 Newer,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+238,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+239,1.5 Finished,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+241,1 Storey Newer All,Residential Low Density,Corner,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+242,1 Storey PUD,Residential Low Density,Corner,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+243,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+244,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+245,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Mod,Pave,IR1
+246,2 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+247,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+248,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+250,2 Storey 1946 Newer,Residential Low Density,CulDSac,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+251,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+252,2 Storey 1946 Older,Residential Low Density,Inside,BrkSide,RRAn,Feedr,1Fam,Bnk,Mod,Pave,IR1
+253,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+254,1 Storey Newer All,Residential Low Density,FR2,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+255,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+257,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+258,Family Conversion,Residential Low Density,Corner,OldTown,Artery,Artery,2fmCon,Bnk,Mod,Pave,IR1
+259,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+261,1 Storey 1945 older,Residential Low Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+262,1 Storey Newer All,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+263,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Bnk,Mod,Pave,Reg
+265,1 Storey PUD,Residential Low Density,Inside,SawyerW,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+266,1 Storey Newer All,Residential Low Density,Corner,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+267,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+268,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+269,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+270,2 Storey 1946 Newer,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+271,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+272,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+273,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+274,1 Storey Newer All,Residential Low Density,CulDSac,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+275,Split,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+277,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+278,2 Storey PUD,Residential Medium Density,Inside,Blueste,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+279,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+280,1 Storey 1945 older,Residential Low Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+281,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+282,2 Storey PUD,Residential Low Density,FR2,NPkVill,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+283,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+284,Split,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+285,1 Storey Newer All,Residential Low Density,Corner,ClearCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+286,1 Storey Newer All,Residential Low Density,Corner,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+287,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+288,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+289,Duplex All,Residential Medium Density,Inside,Mitchel,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+290,Duplex All,Residential Low Density,Corner,Mitchel,Norm,Norm,Duplex,Lvl,Gtl,Pave,IR1
+291,1.5 Finished,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+292,Split,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+293,1 Storey PUD,Residential Medium Density,Inside,CollgCr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+294,1 Storey PUD,Residential Low Density,FR2,NPkVill,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+295,1 Storey PUD,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,HLS,Gtl,Pave,Reg
+296,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+297,PUD Multi,Residential Medium Density,Inside,MeadowV,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+298,1.5 Finished,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+299,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+300,1 Storey PUD,Residential Low Density,CulDSac,Veenker,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR2
+301,1.5 Finished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+302,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+303,Split,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Bnk,Mod,Pave,Reg
+304,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+305,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+306,1 Storey Newer All,Residential High Density,Inside,SawyerW,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+307,1.5 Finished,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+308,2.5 Story All,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+309,1 Storey PUD,Residential Low Density,CulDSac,StoneBr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+310,1 Storey Newer All,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+311,2 Storey 1946 Newer,Residential Low Density,CulDSac,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+312,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+313,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+314,1 Storey Newer All,Residential Low Density,CulDSac,Sawyer,RRAe,Norm,1Fam,Lvl,Gtl,Pave,IR1
+315,2 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+316,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+317,2 Storey 1946 Newer,Residential Low Density,CulDSac,StoneBr,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+318,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+319,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+320,1.5 Finished,Residential Medium Density,Inside,OldTown,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR1
+321,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+322,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+323,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+324,1 Storey Newer All,Residential Low Density,Corner,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+325,2 Storey 1946 Older,Residential Low Density,Corner,SWISU,Norm,Norm,1Fam,HLS,Gtl,Pave,Reg
+326,Duplex All,Residential Low Density,Inside,NWAmes,Feedr,Norm,Duplex,Lvl,Gtl,Pave,IR1
+327,1 Storey PUD,Residential Low Density,Inside,NPkVill,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+328,1 Storey Newer All,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+329,1 Storey Newer All,Residential Low Density,Corner,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+330,1.5 Finished,Residential Low Density,Corner,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+331,Split,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+332,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,PosN,Norm,1Fam,Lvl,Gtl,Pave,Reg
+333,2.5 Story All,Residential Low Density,Inside,BrkSide,PosN,Norm,1Fam,Bnk,Gtl,Pave,IR1
+335,2 Storey 1946 Newer,Residential Low Density,FR2,Gilbert,RRNn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+336,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+337,Family Conversion,Residential Low Density,Inside,Mitchel,Norm,Norm,2fmCon,Low,Mod,Pave,Reg
+338,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+339,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+340,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+341,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+342,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+343,Family Conversion,Residential Low Density,Inside,NAmes,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+344,2 Storey PUD,Residential Medium Density,Inside,Edwards,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+345,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+346,Split,Residential Low Density,CulDSac,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+347,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+348,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+349,2 Storey 1946 Newer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+350,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+351,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+352,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+353,1.5 Finished,Residential Low Density,Inside,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+354,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+355,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+357,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+358,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+359,1 Storey Newer All,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+360,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+361,2 Storey 1946 Newer,Residential Low Density,CulDSac,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+362,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+363,1.5 Finished,Residential High Density,Inside,SWISU,Norm,Norm,1Fam,Bnk,Gtl,Pave,IR2
+364,1 Storey Newer All,Residential Low Density,Inside,Somerst,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+365,1.5 Finished,Residential Low Density,Corner,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+366,Split Foyer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+367,1.5 Finished,Residential Low Density,Corner,SWISU,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+368,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+369,2 Storey 1946 Newer,Residential Low Density,Corner,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+370,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+371,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+372,1 Storey Newer All,Residential Low Density,Inside,Sawyer,RRAe,Norm,1Fam,Lvl,Gtl,Pave,IR1
+373,Split,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+374,2 Storey 1946 Older,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+375,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Sev,Pave,Reg
+376,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+377,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+378,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+379,2.5 Story All,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+380,1 Storey Newer All,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+381,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+383,1.5 Unfinished,Residential Low Density,Corner,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+384,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+385,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+386,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Low,Gtl,Pave,Reg
+387,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+388,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+389,Split,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+391,1 Storey Newer All,Residential Low Density,Corner,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+392,2 Storey 1946 Newer,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+393,Split,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+394,Family Conversion,Residential Medium Density,Inside,OldTown,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+395,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+396,1.5 Finished,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Bnk,Mod,Pave,IR1
+397,1 Storey Newer All,Residential Low Density,Inside,NWAmes,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+398,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+399,1 Storey Newer All,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+400,Duplex All,Residential Low Density,Inside,SawyerW,Feedr,Norm,Duplex,Bnk,Gtl,Pave,Reg
+401,2 Storey 1946 Older,Residential High Density,Inside,Edwards,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+402,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+403,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+404,2 Storey 1946 Newer,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+405,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+407,Family Conversion,Residential Medium Density,Inside,OldTown,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+408,2 Storey 1946 Older,C (all),Inside,IDOTRR,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+410,1 Storey 1945 older,C (all),Corner,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Grvl,Reg
+411,1 Storey Newer All,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+412,1 Storey 1945 older,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+413,1.5 Finished,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+414,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+415,2 Storey 1946 Older,Residential Low Density,Inside,Sawyer,Feedr,Norm,1Fam,Bnk,Gtl,Pave,Reg
+416,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Low,Mod,Pave,IR1
+417,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+418,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+419,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+420,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+421,1 Storey Newer All,Residential Low Density,Inside,SawyerW,RRAe,Norm,1Fam,Lvl,Gtl,Pave,Reg
+422,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+423,1.5 Finished,Residential Low Density,Corner,SWISU,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+424,Family Conversion,Residential Low Density,Inside,NAmes,RRAn,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+425,2.5 Story All,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+427,Split,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+428,2 Storey 1946 Newer,Residential Low Density,CulDSac,Gilbert,RRNn,Norm,1Fam,Lvl,Gtl,Pave,IR2
+429,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,HLS,Gtl,Pave,IR1
+430,2 Storey PUD,Floating Village Residential,FR2,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR2
+431,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+432,1 Storey 1945 older,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+433,Split Foyer,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+434,2 Storey 1946 Newer,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+435,1 Storey Newer All,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+436,Family Conversion,Residential High Density,Corner,SWISU,Feedr,Norm,2fmCon,Bnk,Gtl,Pave,Reg
+438,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+439,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+440,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+441,Family Conversion,Residential Low Density,FR2,Gilbert,Norm,Norm,2fmCon,Lvl,Gtl,Pave,IR1
+442,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+443,1 Storey 1945 older,Residential Low Density,Corner,SWISU,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+444,2 Storey 1946 Newer,Residential Low Density,CulDSac,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+446,1 Storey Newer All,Residential Low Density,Inside,NWAmes,PosA,Norm,1Fam,Lvl,Gtl,Pave,IR1
+447,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+448,2 Storey 1946 Newer,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+449,2 Storey 1946 Newer,Residential Low Density,FR2,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+450,Split Foyer,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+451,1 Storey Newer All,Residential Low Density,Corner,Somerst,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+452,Split Foyer,Residential Low Density,CulDSac,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+453,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+454,2 Storey PUD,Floating Village Residential,FR2,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+455,1.5 Finished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+456,1.5 Finished,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,HLS,Mod,Pave,Reg
+458,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+459,1.5 Finished,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+460,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+461,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+462,1 Storey 1945 older,Residential Low Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+463,1 Storey PUD,Residential Medium Density,Inside,GrnHill,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+464,1 Storey Newer All,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Bnk,Gtl,Pave,Reg
+465,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+466,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+467,1.5 Finished,Residential Low Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+468,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Mod,Pave,IR1
+469,2 Storey 1946 Newer,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+470,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+471,1.5 Finished,Residential Low Density,CulDSac,ClearCr,Norm,Norm,1Fam,Low,Sev,Pave,IR2
+472,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+473,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+474,1.5 Finished,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+475,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+476,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+477,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+478,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+479,2 Storey 1946 Newer,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+480,1 Storey Newer All,Residential Low Density,Inside,StoneBr,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+481,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+482,2 Storey 1946 Newer,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Low,Gtl,Pave,IR1
+483,1 Storey Newer All,Residential Low Density,FR3,CollgCr,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+484,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+487,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Bnk,Gtl,Pave,IR3
+488,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+489,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+490,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+491,Split Foyer,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+492,1 Storey Newer All,Residential Low Density,Corner,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+493,2 Storey 1946 Older,Residential Low Density,Inside,SWISU,Feedr,Norm,1Fam,Bnk,Gtl,Pave,Reg
+494,1 Storey Newer All,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+495,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+496,1 Storey Newer All,Residential Low Density,Inside,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+497,1.5 Finished,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+498,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+500,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+501,1 Storey 1945 older,Residential Low Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+502,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+503,1 Storey Newer All,Residential Medium Density,Inside,OldTown,Norm,Norm,2fmCon,Bnk,Mod,Pave,Reg
+504,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+505,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+506,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+507,2 Storey 1946 Newer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Mod,Pave,IR1
+508,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+509,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+510,2 Storey 1946 Older,Residential Low Density,Inside,SWISU,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+511,1 Storey PUD,Residential Medium Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+512,1 Storey Newer All,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+513,1 Storey W/Finished Attic,Residential Low Density,Inside,BrkSide,Norm,Norm,1Fam,Bnk,Mod,Pave,Reg
+515,1.5 Finished,Residential Low Density,Corner,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+516,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+517,1 Storey Newer All,Residential Low Density,Inside,Timber,PosA,PosA,1Fam,HLS,Gtl,Pave,IR1
+518,2 Storey 1946 Older,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+519,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+520,2 Storey 1946 Older,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+521,1 Storey Newer All,Residential Low Density,Inside,Edwards,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+522,2 Storey 1946 Newer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Mod,Pave,Reg
+523,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+524,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Low,Mod,Pave,Reg
+525,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+526,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,HLS,Mod,Pave,IR1
+527,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+528,1 Storey Newer All,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+529,2 Storey 1946 Newer,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+531,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+532,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+533,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+534,Duplex All,Residential Medium Density,Inside,Sawyer,RRAe,Norm,Duplex,Lvl,Gtl,Pave,Reg
+535,1 Storey Newer All,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+536,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+537,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+538,2 Storey 1946 Newer,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+539,1.5 Finished,Residential Medium Density,Corner,OldTown,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+540,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+541,1 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+543,2 Storey 1946 Newer,Residential Low Density,CulDSac,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+544,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+545,1 Storey Newer All,Residential Low Density,CulDSac,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+546,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+547,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+548,1.5 Finished,Residential Low Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+549,1 Storey Newer All,Residential High Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+550,1.5 Finished,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+551,1.5 Finished,Residential Medium Density,Corner,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+552,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+553,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+554,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+556,1 Storey Newer All,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+557,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+558,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+559,1 Storey PUD,Residential Medium Density,Inside,CollgCr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+560,1.5 Finished,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+561,1 Storey Newer All,Residential Low Density,CulDSac,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+563,2 Storey 1946 Newer,Residential Low Density,Corner,ClearCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+564,1 Storey PUD,Residential High Density,Inside,NAmes,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+565,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+566,Split,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+567,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+568,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+569,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+570,Split Foyer,Residential Low Density,CulDSac,Mitchel,Norm,Norm,1Fam,Bnk,Gtl,Pave,IR1
+571,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+572,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+573,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+574,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+575,1 Storey PUD,Residential Medium Density,Inside,CollgCr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+576,1 Storey 1945 older,Residential Medium Density,Corner,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+577,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+578,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+582,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+583,1 Storey PUD,Residential Medium Density,FR2,Mitchel,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+584,1.5 Finished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+585,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+586,Split Foyer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+587,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+588,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,RRAn,Feedr,1Fam,Bnk,Gtl,Pave,IR1
+589,1 Storey Newer All,Floating Village Residential,Corner,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+590,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+591,1 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+592,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+593,1 Storey Newer All,Residential Low Density,CulDSac,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+594,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+595,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+596,1 Storey PUD,Floating Village Residential,CulDSac,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+597,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+598,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+599,1.5 Finished,Residential Low Density,Corner,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+600,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+601,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+602,Family Conversion,Residential Low Density,Corner,Crawfor,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+603,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+604,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+605,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+606,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+607,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+608,1 Storey Newer All,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+609,2 Storey 1946 Newer,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+610,1 Storey Newer All,C (all),Corner,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+611,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,Reg
+613,2 Storey 1946 Newer,Residential Low Density,CulDSac,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+614,Split,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+615,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+617,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+618,1 Storey PUD,Residential Low Density,Inside,Veenker,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR2
+619,1.5 Unfinished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Bnk,Mod,Pave,Reg
+620,1 Storey Newer All,Residential Low Density,FR3,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+621,1 Storey Newer All,Residential Low Density,Corner,StoneBr,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+622,1 Storey Newer All,Residential Low Density,FR2,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+623,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,HLS,Mod,Pave,IR1
+624,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+625,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+626,2 Storey 1946 Newer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+627,2 Storey 1946 Newer,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+628,1 Storey Newer All,Residential Low Density,Corner,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR1
+629,1.5 Finished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+630,2 Storey 1946 Newer,Floating Village Residential,Corner,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+631,2 Storey 1946 Newer,Residential Low Density,CulDSac,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+632,1 Storey Newer All,Residential Low Density,CulDSac,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+633,Family Conversion,Residential Low Density,Inside,Edwards,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+634,1 Storey PUD,Residential Low Density,FR2,NPkVill,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+637,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+638,Duplex All,Residential High Density,Inside,Crawfor,Norm,Norm,Duplex,HLS,Gtl,Pave,Reg
+639,1.5 Finished,Residential Low Density,Corner,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+640,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+641,2 Storey 1946 Newer,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+643,2 Storey 1946 Older,Residential Low Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+644,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+645,2 Storey 1946 Newer,Residential Low Density,Inside,StoneBr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+646,1 Storey Newer All,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+647,1 Storey Newer All,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+648,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+649,2 Storey 1946 Older,Residential Medium Density,Corner,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+650,1 Storey Newer All,Residential Low Density,CulDSac,Sawyer,RRAe,Norm,1Fam,Lvl,Gtl,Pave,IR1
+651,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Mod,Pave,Reg
+652,1 Storey 1945 older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+654,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+655,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+656,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+657,Split,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+658,1.5 Finished,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+659,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+660,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+661,2 Storey 1946 Newer,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+662,1 Storey Newer All,Residential Low Density,FR2,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+664,1 Storey Newer All,Residential Low Density,Corner,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+665,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+666,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+667,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+668,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+669,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+670,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Bnk,Mod,Pave,Reg
+671,1 Storey Newer All,Residential Low Density,CulDSac,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+672,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+673,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+674,1 Storey Newer All,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+675,1 Storey Newer All,Residential Low Density,CulDSac,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+676,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+677,PUD Multi,Residential Medium Density,Inside,MeadowV,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+678,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+679,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Mod,Pave,Reg
+680,1 Storey Newer All,Residential Low Density,CulDSac,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+681,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+682,1 Storey Newer All,Residential Low Density,Inside,NridgHt,PosN,PosN,1Fam,Lvl,Gtl,Pave,Reg
+683,1 Storey 1945 older,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+684,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+685,1 Storey Newer All,Residential Low Density,Corner,Somerst,PosN,PosN,1Fam,Lvl,Gtl,Pave,Reg
+686,1.5 Finished,Residential Medium Density,Corner,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+687,1 Storey Newer All,Residential Low Density,Inside,SawyerW,RRAe,Norm,1Fam,Lvl,Gtl,Pave,Reg
+688,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+690,Family Conversion,Residential Low Density,Corner,SWISU,Norm,Norm,2fmCon,Lvl,Gtl,Pave,IR1
+691,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,RRAe,Norm,1Fam,Lvl,Gtl,Pave,IR1
+693,1 Storey Newer All,Residential Low Density,FR2,Somerst,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+694,1 Storey Newer All,Residential Low Density,CulDSac,ClearCr,Norm,Norm,1Fam,Low,Sev,Pave,IR2
+695,1 Storey Newer All,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+697,2 Storey PUD,Residential Low Density,Inside,NPkVill,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+698,2 Storey 1946 Older,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+699,1 Storey Newer All,Residential Low Density,CulDSac,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+701,Split,Residential Low Density,Corner,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+702,Split,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+703,1.5 Finished,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+704,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+706,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+707,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+709,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+710,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+711,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+712,Duplex All,Residential Low Density,Corner,NAmes,Feedr,Norm,Duplex,Lvl,Gtl,Pave,Reg
+713,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+714,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+715,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+716,Split Foyer,Residential Low Density,CulDSac,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+717,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+718,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+719,2 Storey 1946 Newer,Residential Low Density,Corner,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+720,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+721,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+723,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+724,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+725,1 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+726,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+727,1 Storey Newer All,Residential Low Density,CulDSac,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+728,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+729,Split,Residential Low Density,CulDSac,NWAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,IR1
+730,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+731,2 Storey 1946 Newer,Residential Low Density,Corner,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+732,1 Storey Newer All,Residential Low Density,CulDSac,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+733,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+734,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+735,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+738,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+739,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+740,1 Storey Newer All,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+742,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+743,Duplex All,Residential Low Density,Corner,NAmes,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+744,Duplex All,Residential Low Density,Inside,Sawyer,Feedr,Norm,Duplex,Lvl,Gtl,Pave,Reg
+745,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Bnk,Sev,Pave,IR1
+746,Duplex All,Residential Low Density,Inside,NAmes,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+747,2 Storey 1946 Newer,Residential Low Density,CulDSac,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+748,Split Foyer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+749,1 Storey Newer All,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+750,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+751,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Artery,Norm,1Fam,HLS,Mod,Pave,Reg
+752,1 Storey Newer All,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+753,Split,Residential Low Density,Corner,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+754,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+755,1 Storey Newer All,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+756,1 Storey PUD,Residential Low Density,Inside,StoneBr,PosN,PosN,TwnhsE,HLS,Gtl,Pave,Reg
+757,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+758,1 Storey Newer All,Residential Low Density,Inside,NAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,Reg
+759,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+760,Split,Residential Low Density,CulDSac,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+761,Split,Residential Low Density,Corner,Veenker,Norm,Norm,1Fam,Low,Gtl,Pave,IR1
+762,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+763,Split Foyer,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+764,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+765,Duplex All,Residential Low Density,Inside,Sawyer,Feedr,RRAe,Duplex,Lvl,Gtl,Pave,IR1
+766,Family Conversion,Residential Medium Density,Inside,OldTown,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+767,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+768,1.5 Finished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+769,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+770,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+771,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+773,Family Conversion,Residential Medium Density,Inside,OldTown,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+774,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+775,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+776,Family Conversion,Residential Low Density,Inside,Sawyer,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+777,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+778,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+779,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+780,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+781,1 Storey Newer All,Residential Low Density,FR2,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+782,1 Storey W/Finished Attic,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+784,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+785,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+786,1 Storey Newer All,Residential Low Density,Inside,Veenker,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+788,Split,Residential Low Density,FR2,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+789,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+792,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+793,1 Storey Newer All,Residential Low Density,Inside,NWAmes,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+795,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+796,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+797,1 Storey 1945 older,Residential Low Density,Inside,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+798,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+799,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+800,1 Storey Newer All,Residential Low Density,CulDSac,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+801,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+802,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Low,Mod,Pave,Reg
+803,Duplex All,Residential Low Density,Inside,NAmes,Norm,Norm,Duplex,Lvl,Gtl,Pave,IR1
+804,2 Storey 1946 Older,Residential Medium Density,FR3,BrkSide,RRNn,Feedr,1Fam,Lvl,Gtl,Pave,IR1
+805,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+806,PUD Multi,Residential Medium Density,Inside,Edwards,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+807,1 Storey 1945 older,C (all),Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+808,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+809,1 Storey Newer All,Residential Low Density,Corner,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+810,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+811,Split,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Low,Mod,Pave,IR1
+812,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+813,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+815,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Mod,Pave,Reg
+816,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+817,1.5 Finished,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,HLS,Gtl,Pave,Reg
+818,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+819,Split Foyer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+820,1.5 Finished,Residential Low Density,Inside,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+821,1.5 Finished,Residential Low Density,Corner,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+823,2 Storey 1946 Newer,Residential Low Density,CulDSac,StoneBr,Norm,Norm,1Fam,HLS,Mod,Pave,IR2
+825,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+826,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+827,1 Storey Newer All,Residential Low Density,CulDSac,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+828,1.5 Finished,Residential Low Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+829,1 Storey Newer All,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+830,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+831,2.5 Story All,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Bnk,Gtl,Pave,IR1
+832,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+833,1 Storey Newer All,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+834,1.5 Finished,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+835,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+836,2 Storey 1946 Newer,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+837,1 Storey PUD,Residential Low Density,Corner,StoneBr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+838,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+839,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+840,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+841,1 Storey Newer All,Residential Low Density,CulDSac,ClearCr,Norm,Norm,1Fam,Low,Sev,Pave,IR1
+842,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+843,1 Storey 1945 older,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+844,1 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR2
+845,1 Storey PUD,Residential Medium Density,Inside,Crawfor,Norm,Norm,TwnhsE,HLS,Mod,Pave,IR1
+846,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+847,1 Storey PUD,Floating Village Residential,Corner,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+848,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+849,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+850,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+851,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+852,1 Storey Newer All,Residential Low Density,Corner,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+853,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+854,1 Storey 1945 older,Residential Medium Density,Inside,IDOTRR,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+855,1 Storey 1945 older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+856,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+857,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+859,1 Storey Newer All,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,HLS,Gtl,Pave,Reg
+860,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+861,Duplex All,Residential Low Density,Inside,NAmes,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+862,2 Storey 1946 Newer,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+863,1 Storey Newer All,Residential Low Density,FR2,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+864,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+865,1 Storey Newer All,Residential Low Density,Inside,Crawfor,PosA,Norm,1Fam,Lvl,Gtl,Pave,Reg
+866,1 Storey Newer All,Residential Low Density,Inside,Somerst,PosN,Norm,1Fam,Lvl,Gtl,Pave,Reg
+867,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+868,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+869,2 Storey 1946 Older,Residential Low Density,Inside,BrkSide,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+870,1 Storey 1945 older,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+871,Duplex All,Residential Low Density,Inside,Sawyer,Norm,Norm,Duplex,Lvl,Gtl,Pave,IR1
+872,2 Storey PUD,Residential Medium Density,Inside,Edwards,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+873,1 Storey 1945 older,Residential Medium Density,Inside,IDOTRR,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+874,Split,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+875,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+876,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+877,Split Foyer,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+879,2 Storey 1946 Newer,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+880,2 Storey 1946 Newer,Residential Low Density,Inside,Somerst,RRAn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+881,1 Storey Newer All,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+882,1.5 Unfinished,Residential Medium Density,Corner,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+883,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+884,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+885,1 Storey 1945 older,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+886,2 Storey 1946 Newer,Residential Low Density,FR2,Gilbert,Norm,Norm,1Fam,HLS,Gtl,Pave,IR2
+887,2 Storey 1946 Newer,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+888,2 Storey 1946 Newer,Residential Low Density,FR2,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+889,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+890,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+891,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+892,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+893,Family Conversion,Residential Medium Density,Inside,OldTown,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+894,1.5 Unfinished,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+895,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+896,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+897,2 Storey 1946 Newer,Residential Low Density,CulDSac,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+898,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+899,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+900,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+902,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+903,1 Storey Newer All,Residential Low Density,FR2,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+904,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+905,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+906,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+907,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+908,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+909,1 Storey PUD,Residential Medium Density,Inside,CollgCr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+910,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+911,1 Storey Newer All,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+912,1.5 Finished,Residential Low Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+913,1 Storey Newer All,Residential Low Density,CulDSac,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+914,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+915,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+916,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+917,2 Storey 1946 Newer,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+918,1.5 Finished,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+919,1 Storey 1945 older,Residential Low Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+920,1 Storey Newer All,Residential Low Density,FR2,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+921,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+922,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+923,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+925,1 Storey 1945 older,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+926,1 Storey Newer All,Residential Low Density,FR2,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+927,2 Storey 1946 Newer,Residential Low Density,FR2,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+928,1 Storey Newer All,Residential Low Density,Inside,NAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,Reg
+929,1 Storey PUD,Residential Medium Density,Inside,CollgCr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+930,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+931,1 Storey Newer All,Residential Low Density,FR2,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+932,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+934,1 Storey Newer All,Residential Low Density,Inside,StoneBr,PosA,PosA,1Fam,HLS,Gtl,Pave,IR1
+935,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+936,2 Storey 1946 Newer,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+937,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+938,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+939,1 Storey Newer All,Floating Village Residential,Corner,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+940,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+941,2 Storey 1946 Newer,Residential Low Density,Corner,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR3
+944,Split,Residential Low Density,Corner,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+945,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+946,1 Storey Newer All,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Low,Mod,Pave,Reg
+947,1.5 Finished,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Low,Mod,Pave,IR1
+948,Split,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+949,1 Storey Newer All,Residential Low Density,CulDSac,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+950,2 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+952,1 Storey Newer All,Residential Low Density,CulDSac,Crawfor,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+953,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+955,1 Storey Newer All,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+956,1 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+957,1 Storey Newer All,Residential Low Density,Inside,NWAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,IR1
+958,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+960,2 Storey 1946 Newer,Residential Low Density,Corner,Edwards,Feedr,Norm,1Fam,Bnk,Gtl,Pave,IR3
+961,Split Foyer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+962,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+963,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+965,1.5 Finished,Residential Low Density,Corner,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+966,Split,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Low,Mod,Pave,IR1
+967,1 Storey Newer All,Residential Low Density,FR2,Veenker,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+968,2 Storey 1946 Newer,Residential Low Density,CulDSac,CollgCr,PosN,Norm,1Fam,Lvl,Gtl,Pave,IR2
+969,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,PosA,Norm,1Fam,Lvl,Gtl,Pave,Reg
+971,2 Storey 1946 Newer,Residential Low Density,CulDSac,ClearCr,Norm,Norm,1Fam,Low,Mod,Pave,IR1
+972,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+973,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+974,1.5 Finished,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+975,2 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+976,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+977,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+979,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+980,1 Storey Newer All,Residential Low Density,Corner,Crawfor,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+981,1.5 Finished,Residential Low Density,Inside,BrkSide,Norm,Norm,1Fam,Bnk,Gtl,Pave,IR1
+982,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+983,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+984,Duplex All,Residential Low Density,Inside,NAmes,Norm,Norm,Duplex,Lvl,Gtl,Pave,IR1
+985,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+986,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+987,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+988,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+989,2 Storey 1946 Newer,Floating Village Residential,Corner,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+990,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+991,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+992,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+993,1 Storey Newer All,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+994,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+995,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+996,1.5 Finished,Residential Low Density,Inside,BrkSide,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+997,1 Storey Newer All,Residential Low Density,Inside,Sawyer,RRAe,Norm,1Fam,Lvl,Gtl,Pave,Reg
+998,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+999,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1000,1 Storey Newer All,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1001,1 Storey 1945 older,Residential Medium Density,FR2,BrkSide,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1002,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1003,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1004,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1005,1 Storey PUD,Residential Low Density,Inside,SawyerW,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1006,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR3
+1008,1 Storey PUD,Residential Medium Density,FR2,Mitchel,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1009,Split Foyer,Residential Low Density,CulDSac,Sawyer,RRAe,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1010,1.5 Finished,Residential Low Density,FR2,Edwards,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1011,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1012,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1013,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Low,Mod,Pave,Reg
+1014,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,HLS,Gtl,Pave,IR1
+1015,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1016,Duplex All,Residential Medium Density,Inside,Mitchel,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1017,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Bnk,Gtl,Pave,IR1
+1018,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1019,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1020,2 Storey 1946 Newer,Residential Low Density,Corner,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1021,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1024,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1025,1 Storey Newer All,Residential Low Density,FR2,Somerst,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1026,2 Storey 1946 Older,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1027,1.5 Finished,Residential Low Density,Inside,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1029,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1030,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1031,1 Storey Newer All,Residential Medium Density,Inside,OldTown,Feedr,RRNn,1Fam,HLS,Gtl,Pave,IR1
+1032,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1033,2 Storey 1946 Newer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1034,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1035,2.5 Story All,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1036,1 Storey PUD,Residential Medium Density,Inside,Crawfor,Norm,Norm,TwnhsE,HLS,Mod,Pave,IR1
+1038,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1039,1 Storey W/Finished Attic,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1040,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1041,2 Storey PUD,Floating Village Residential,FR2,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1042,1.5 Finished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1043,Split,Residential Low Density,Inside,Gilbert,RRAn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1044,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1045,Split,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1046,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1047,1 Storey Newer All,Residential Low Density,Corner,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1048,Split,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1050,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1052,1 Storey Newer All,Residential Low Density,CulDSac,ClearCr,Norm,Norm,1Fam,Low,Mod,Pave,IR1
+1053,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1054,1.5 Finished,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1055,1 Storey Newer All,Residential Low Density,Inside,Sawyer,PosA,Norm,1Fam,Bnk,Mod,Pave,Reg
+1056,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1057,Duplex All,Residential Low Density,FR2,NAmes,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1058,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1059,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1060,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1061,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1062,1 Storey 1945 older,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1063,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1064,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1065,1.5 Finished,Residential Low Density,Inside,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1066,Duplex All,Residential Low Density,Inside,Mitchel,Norm,Norm,Duplex,Lvl,Gtl,Pave,IR1
+1067,2 Storey 1946 Newer,Residential Low Density,CulDSac,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1068,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1069,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1070,2 Storey 1946 Newer,Residential Low Density,CulDSac,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1071,Split Foyer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1072,1 Storey PUD,Floating Village Residential,FR2,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1073,Family Conversion,Residential Medium Density,Inside,OldTown,Artery,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+1075,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1076,1.5 Finished,Residential Low Density,Inside,BrkSide,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1077,1.5 Finished,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1078,1 Storey Newer All,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1079,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1080,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1081,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1082,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1083,1 Storey 1945 older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1084,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1085,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1086,1.5 Finished,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1087,2 Storey 1946 Newer,Residential Low Density,Corner,StoneBr,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1090,2 Storey 1946 Older,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1091,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1092,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1093,1 Storey 1945 older,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1094,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1095,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1096,2 Storey 1946 Newer,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1097,2 Storey 1946 Older,Residential Low Density,Inside,Edwards,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1099,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1100,1 Storey Newer All,Residential Low Density,Inside,Sawyer,RRAe,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1101,Duplex All,Residential Low Density,Corner,NAmes,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1102,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1103,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1104,1 Storey PUD,Residential Low Density,Inside,Greens,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1105,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1106,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1107,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Mod,Pave,Reg
+1108,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1109,Family Conversion,Residential Medium Density,Inside,OldTown,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+1110,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1111,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1112,2 Storey 1946 Older,Residential Medium Density,FR3,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1113,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1114,Split Foyer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1115,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1116,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1117,1 Storey Newer All,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1118,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1119,1 Storey PUD,Residential Low Density,Inside,NPkVill,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1120,1 Storey 1945 older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1121,2 Storey PUD,Residential High Density,Inside,Landmrk,Norm,Norm,Twnhs,Lvl,Gtl,Pave,IR1
+1122,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1123,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1124,Split,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1126,2 Storey 1946 Newer,Floating Village Residential,Corner,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1127,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1128,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1129,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1130,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1131,2 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1132,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1133,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1134,2.5 Story All,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1135,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1136,1 Storey Newer All,Residential Low Density,Inside,StoneBr,Norm,Norm,1Fam,HLS,Gtl,Pave,Reg
+1138,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1139,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1140,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1141,2.5 Story All,Residential Medium Density,Inside,OldTown,Artery,PosA,1Fam,Lvl,Gtl,Pave,Reg
+1142,1 Storey Newer All,Residential Low Density,Inside,Veenker,Norm,Norm,1Fam,Low,Gtl,Pave,IR1
+1143,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1144,1 Storey Newer All,Residential Low Density,CulDSac,Sawyer,RRNe,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1145,1 Storey 1945 older,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1146,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1148,1 Storey Newer All,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1149,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1150,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1151,2 Storey PUD,Floating Village Residential,Corner,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1152,1 Storey Newer All,Residential Low Density,CulDSac,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1153,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1154,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1155,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,RRAn,Norm,1Fam,Lvl,Gtl,Pave,IR3
+1156,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1158,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1159,1 Storey 1945 older,Residential Medium Density,Corner,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1160,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1161,1 Storey Newer All,Residential Low Density,CulDSac,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1162,1 Storey Newer All,Residential Low Density,Inside,SawyerW,RRAe,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1163,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1164,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1165,1 Storey Newer All,Residential Low Density,CulDSac,Veenker,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1166,Duplex All,Residential Low Density,Inside,SawyerW,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1167,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1168,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1169,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1170,2 Storey 1946 Newer,Residential Low Density,CulDSac,StoneBr,Norm,Norm,1Fam,HLS,Gtl,Pave,IR2
+1171,Split,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1172,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1173,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1174,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1175,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1176,1.5 Finished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1177,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1178,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1179,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1180,1.5 Finished,Residential Low Density,Inside,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1181,1.5 Finished,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1182,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1183,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1184,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1185,1 Storey Newer All,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1186,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1187,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1188,1 Storey Newer All,Residential Low Density,Corner,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1189,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1190,1 Storey Newer All,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1191,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1192,1 Storey Newer All,C (all),Inside,IDOTRR,Norm,Norm,1Fam,Bnk,Mod,Grvl,Reg
+1193,1.5 Finished,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1194,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1195,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1196,1 Storey Newer All,Residential Low Density,Corner,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1197,1 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1198,1 Storey Newer All,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1199,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1200,1 Storey Newer All,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1201,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Low,Mod,Pave,Reg
+1202,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1203,Split,Residential Low Density,CulDSac,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1205,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1206,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1207,2 Storey 1946 Newer,Residential Low Density,CulDSac,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1208,1 Storey Newer All,Residential Low Density,Corner,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1209,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1210,1 Storey Newer All,Residential Low Density,Inside,NWAmes,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1212,2 Storey 1946 Older,Residential Medium Density,Corner,OldTown,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1213,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1214,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1215,1 Storey PUD,Residential Low Density,Inside,NPkVill,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1216,1 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1217,Family Conversion,Residential Low Density,Inside,Sawyer,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+1218,1 Storey Newer All,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1219,1 Storey Newer All,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1220,1 Storey 1945 older,Residential Medium Density,Corner,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1221,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1223,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1224,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Grvl,Reg
+1225,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1226,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1227,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,HLS,Mod,Pave,Reg
+1228,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1229,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1230,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1231,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,HLS,Gtl,Pave,IR1
+1232,1 Storey PUD,Residential Medium Density,Corner,Crawfor,Artery,Norm,TwnhsE,HLS,Mod,Pave,IR1
+1233,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1234,1.5 Finished,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1235,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1236,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1237,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1238,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,RRAn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1239,1.5 Finished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1240,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1241,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1242,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1243,1 Storey Newer All,Residential Low Density,Corner,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1244,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1245,1 Storey 1945 older,Residential Medium Density,Corner,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1246,1.5 Unfinished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1247,1.5 Finished,Residential Low Density,Corner,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1248,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Mod,Pave,IR1
+1249,Split,Residential Low Density,CulDSac,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1250,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1251,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1253,Family Conversion,Residential Low Density,Inside,NAmes,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+1254,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1255,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1257,1 Storey PUD,Residential Low Density,FR2,Veenker,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR2
+1258,1 Storey Newer All,Residential Low Density,Corner,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1259,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,PosN,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1260,1.5 Finished,C (all),Inside,IDOTRR,Norm,Norm,1Fam,Low,Mod,Pave,Reg
+1261,2 Storey 1946 Newer,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1262,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,PosN,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1263,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1264,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1265,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1266,2 Storey 1946 Newer,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1267,1 Storey Newer All,Residential Low Density,CulDSac,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1268,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1269,1 Storey Newer All,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1271,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1272,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1273,1 Storey Newer All,Residential Low Density,Corner,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1274,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1275,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1276,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1277,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1278,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1279,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1280,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1281,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1282,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1283,2 Storey 1946 Newer,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1284,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1285,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1286,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1287,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1288,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1289,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1290,1.5 Finished,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1291,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1292,1 Storey 1945 older,Residential Low Density,Inside,Edwards,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1293,2 Storey 1946 Newer,Residential Low Density,Corner,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1294,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1295,1 Storey 1945 older,Residential Low Density,Corner,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1296,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1297,1 Storey PUD,Residential Low Density,Inside,NPkVill,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1298,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1299,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1300,2 Storey 1946 Newer,Residential Low Density,Corner,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1301,1.5 Finished,Residential Medium Density,Corner,IDOTRR,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1302,1.5 Finished,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1303,2 Storey 1946 Newer,Residential Low Density,Inside,Veenker,Norm,Norm,1Fam,Bnk,Gtl,Pave,IR1
+1304,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1305,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1306,Split,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1307,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1308,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1310,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1311,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1312,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1313,1 Storey PUD,Residential Low Density,Corner,StoneBr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1314,2 Storey 1946 Newer,Residential Low Density,CulDSac,Gilbert,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1315,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1316,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1317,1 Storey 1945 older,Residential Low Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1318,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1319,Split,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1320,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1321,2 Storey PUD,Residential Low Density,Corner,NPkVill,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1322,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Mod,Pave,IR1
+1323,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1324,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Mod,Pave,Reg
+1326,Split,Residential Low Density,Corner,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1328,1.5 Finished,Residential Low Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1329,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1330,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1332,1.5 Finished,Residential Medium Density,Corner,BrkSide,Feedr,Feedr,1Fam,Lvl,Gtl,Pave,Reg
+1333,1.5 Finished,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1334,2 Storey 1946 Newer,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1335,1 Storey Newer All,Residential Low Density,Inside,NAmes,PosA,Norm,1Fam,HLS,Mod,Pave,IR2
+1336,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1337,2 Storey 1946 Newer,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1338,1 Storey Newer All,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1339,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1340,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1341,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1342,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1343,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1344,Split,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1345,1.5 Finished,Residential Low Density,Corner,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1346,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1347,2 Storey 1946 Newer,Residential Low Density,CulDSac,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1348,PUD Multi,Residential Medium Density,Inside,Edwards,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1349,Duplex All,Residential Low Density,Inside,Mitchel,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1350,1 Storey PUD,Residential High Density,FR2,NAmes,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1351,1 Storey PUD,Residential Low Density,Inside,Greens,Norm,Norm,Twnhs,Lvl,Gtl,Pave,IR1
+1352,2 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1353,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,HLS,Mod,Pave,IR1
+1354,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1355,Split,Residential Low Density,Inside,SawyerW,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1356,1 Storey 1945 older,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1357,1 Storey Newer All,Residential Low Density,CulDSac,NWAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1358,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1359,2.5 Story All,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1360,2 Storey 1946 Older,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1362,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1363,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1364,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1365,1.5 Finished,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1367,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1368,1 Storey Newer All,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1369,2 Storey 1946 Older,Residential Low Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1370,1 Storey Newer All,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1371,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1373,1.5 Finished,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1375,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1378,2 Storey 1946 Newer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1379,1.5 Finished,Residential Low Density,Inside,BrkSide,RRAn,Feedr,1Fam,Lvl,Gtl,Pave,IR1
+1380,1 Storey Newer All,Residential Low Density,Corner,Somerst,RRNn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1381,1 Storey 1945 older,Residential Low Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1382,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1383,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Bnk,Mod,Pave,Reg
+1386,Split Foyer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1388,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1389,1.5 Finished,Residential Low Density,CulDSac,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1390,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1391,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1392,2 Storey 1946 Newer,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1393,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1394,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1395,1 Storey Newer All,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Bnk,Mod,Pave,Reg
+1396,1 Storey Newer All,Residential Low Density,CulDSac,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1397,2 Storey 1946 Newer,Residential Low Density,Corner,NWAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1398,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1399,1 Storey Newer All,Residential Low Density,CulDSac,ClearCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1400,Duplex All,Residential Medium Density,Inside,OldTown,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1401,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1402,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1403,Split Foyer,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1404,1 Storey Newer All,Residential Low Density,Inside,Somerst,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1405,1 Storey Newer All,Residential Low Density,Corner,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1406,1 Storey Newer All,Residential Low Density,Inside,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1407,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1408,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1409,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1410,Duplex All,Residential Medium Density,Corner,Mitchel,Norm,Norm,Duplex,Lvl,Gtl,Pave,IR1
+1411,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1412,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1413,2 Storey 1946 Newer,Residential Low Density,FR2,Gilbert,RRAn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1414,1 Storey PUD,Residential Low Density,CulDSac,StoneBr,Norm,Norm,1Fam,Low,Mod,Pave,IR1
+1415,1.5 Finished,Residential Low Density,Inside,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1416,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1417,1.5 Finished,Residential Low Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1418,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1420,1 Storey Newer All,Residential Low Density,Corner,Crawfor,Norm,Norm,1Fam,Bnk,Gtl,Pave,IR1
+1421,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1422,1.5 Finished,Residential Low Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1423,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1424,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1425,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1426,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1427,Duplex All,Residential Low Density,Inside,NAmes,Norm,Norm,Duplex,Lvl,Gtl,Pave,IR1
+1430,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1431,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1432,Duplex All,Residential Low Density,Inside,Mitchel,Norm,Norm,Duplex,Low,Gtl,Pave,Reg
+1433,2.5 Story All,Residential Low Density,Corner,SWISU,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1434,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1435,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1436,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1437,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,Twnhs,Lvl,Gtl,Pave,IR1
+1438,1 Storey PUD,Residential Low Density,Corner,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1440,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1441,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1442,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1443,1 Storey 1945 older,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1444,2 Storey 1946 Older,Residential Low Density,Corner,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1445,Split,Residential Low Density,Corner,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1446,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1447,2 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1448,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1449,2 Storey 1946 Newer,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1450,2 Storey 1946 Newer,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1452,1.5 Finished,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1453,1 Storey Newer All,Residential Low Density,Corner,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1454,1.5 Finished,Residential Low Density,Inside,Edwards,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1455,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1457,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1458,1 Storey Newer All,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1459,2 Storey 1946 Newer,Residential Low Density,Corner,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1460,2 Storey 1946 Newer,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Lvl,Mod,Pave,Reg
+1461,Split,Residential Low Density,FR2,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1462,1 Storey Newer All,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Low,Mod,Pave,Reg
+1463,2 Storey PUD,Residential Medium Density,Inside,Blueste,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1465,1 Storey PUD,Residential High Density,FR2,NAmes,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR2
+1466,Family Conversion,Residential Medium Density,Inside,IDOTRR,Norm,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+1467,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1468,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1469,1 Storey PUD,Residential Medium Density,Inside,CollgCr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1470,Split Foyer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1471,2 Storey 1946 Newer,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1472,2 Storey 1946 Older,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1473,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1474,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1475,1 Storey Newer All,Residential Low Density,CulDSac,Sawyer,RRNe,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1476,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1477,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,HLS,Gtl,Pave,IR1
+1478,Split,Residential Low Density,CulDSac,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1479,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1480,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1482,Duplex All,Residential Medium Density,Corner,CollgCr,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1483,2 Storey PUD,Residential Low Density,Inside,NPkVill,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1484,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1485,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1486,1.5 Finished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1487,Split,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1488,1.5 Finished,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1489,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1490,1.5 Finished,Residential Medium Density,Corner,BrkSide,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1491,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1492,1 Storey Newer All,Residential Low Density,CulDSac,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1493,1.5 Finished,Residential Medium Density,Corner,BrkSide,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1494,1 Storey Newer All,Residential Low Density,Corner,SawyerW,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1495,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1496,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1497,1 Storey PUD,Residential High Density,FR2,NAmes,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR2
+1498,Split Foyer,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1499,Split,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1500,1 Storey Newer All,Residential Low Density,CulDSac,Gilbert,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1501,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1502,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1503,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1504,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1505,1 Storey Newer All,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1506,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1507,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1508,1.5 Finished,Residential Medium Density,Corner,BrkSide,RRAn,Artery,1Fam,Bnk,Gtl,Pave,IR1
+1509,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1510,2 Storey PUD,Residential Medium Density,Inside,Blueste,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1512,1 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1513,1 Storey Newer All,Residential Low Density,Corner,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1514,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1515,1.5 Storey PUD,Residential Low Density,Inside,ClearCr,Norm,Norm,Twnhs,HLS,Gtl,Pave,Reg
+1516,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1517,1 Storey Newer All,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1518,1 Storey Newer All,C (all),Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1520,1 Storey Newer All,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1521,Split,Residential Low Density,CulDSac,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1522,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1523,1 Storey Newer All,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1524,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1525,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1526,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Bnk,Mod,Pave,Reg
+1527,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1529,1 Storey Newer All,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1530,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1531,1.5 Finished,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1532,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1533,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1534,2 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1535,1 Storey Newer All,Residential Low Density,Inside,Veenker,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1536,Split,Residential Low Density,CulDSac,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1537,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1538,Split Foyer,Residential Low Density,Corner,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1539,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1540,2 Storey 1946 Newer,Residential Low Density,Corner,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1541,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1542,2 Storey 1946 Newer,Residential Low Density,CulDSac,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1543,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1546,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1548,1 Storey Newer All,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1549,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1550,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1551,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1552,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1553,2 Storey 1946 Newer,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1554,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1555,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1556,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1557,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1558,1 Storey Newer All,Residential Low Density,Corner,Veenker,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1559,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1560,1 Storey Newer All,Residential Low Density,CulDSac,Gilbert,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1561,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1562,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1565,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1566,Duplex All,Residential Low Density,Inside,SawyerW,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1567,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1568,1.5 Finished,Residential Medium Density,Corner,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1569,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1570,1 Storey Newer All,Residential Low Density,FR2,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1571,1 Storey Newer All,Residential Low Density,Inside,Veenker,Norm,Norm,1Fam,Low,Gtl,Pave,IR1
+1572,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1573,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1574,1 Storey Newer All,Residential Low Density,FR2,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1575,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1576,1 Storey Newer All,Residential Low Density,Corner,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1577,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1578,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1579,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1580,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1581,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1582,2 Storey 1946 Newer,Residential Low Density,Corner,NWAmes,PosA,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1583,2 Storey 1946 Newer,Residential Low Density,FR3,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1585,2 Storey PUD,Floating Village Residential,Corner,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1586,1.5 Finished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1587,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1588,1 Storey PUD,Residential Low Density,Inside,Timber,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1589,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1590,Split,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1591,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1592,2 Storey 1946 Newer,Residential Low Density,CulDSac,StoneBr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1593,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1595,2.5 Story All,Residential Medium Density,Corner,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1596,1 Storey 1945 older,Residential Low Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Sev,Pave,Reg
+1597,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1598,1 Storey Newer All,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1599,Split,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1600,1.5 Finished,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Mod,Pave,IR1
+1601,1 Storey Newer All,Residential Low Density,Corner,Somerst,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1602,2 Storey 1946 Newer,Residential Low Density,Corner,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1603,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1604,2 Storey 1946 Newer,Residential Low Density,Corner,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1605,Duplex All,Residential Low Density,Inside,SawyerW,Feedr,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1606,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1607,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1608,Split,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1609,1 Storey Newer All,Residential Low Density,Inside,NWAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1610,Split,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1611,1 Storey PUD,Residential Medium Density,Inside,CollgCr,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1612,1 Storey PUD,Residential Medium Density,Inside,Crawfor,Norm,Norm,TwnhsE,HLS,Mod,Pave,IR1
+1613,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,HLS,Mod,Pave,IR1
+1614,1.5 Finished,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,HLS,Mod,Pave,Reg
+1615,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1616,1 Storey Newer All,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1617,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1618,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,PosA,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1619,1.5 Finished,Residential Low Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1621,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1622,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1623,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1624,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1625,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1626,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1627,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1628,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1629,1 Storey Newer All,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1630,2 Storey 1946 Newer,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1631,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1632,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1633,1 Storey Newer All,Floating Village Residential,Corner,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1635,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1636,1 Storey PUD,Residential Low Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1637,2 Storey 1946 Older,Residential Low Density,Inside,BrkSide,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1638,1 Storey 1945 older,C (all),Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1639,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1640,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1641,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1642,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1643,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1644,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1645,Family Conversion,Residential Medium Density,Inside,IDOTRR,Artery,Norm,2fmCon,Bnk,Gtl,Pave,Reg
+1646,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1647,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1648,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1649,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1650,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1651,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1652,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1653,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1654,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1655,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1656,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1657,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1658,2 Storey 1946 Older,Residential Low Density,Corner,SWISU,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1659,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1660,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1661,1 Storey W/Finished Attic,Residential Medium Density,Inside,BrkSide,RRAn,Feedr,1Fam,Lvl,Gtl,Pave,Reg
+1662,2 Storey 1946 Newer,Residential Low Density,FR2,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1663,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1664,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1665,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1666,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1667,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1668,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1669,Split Foyer,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1670,1 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1671,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1672,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Low,Mod,Pave,IR2
+1673,1 Storey PUD,Residential Low Density,Inside,StoneBr,Norm,Norm,TwnhsE,HLS,Gtl,Pave,IR1
+1674,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1675,1.5 Finished,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1676,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1677,1 Storey Newer All,Residential Low Density,Inside,Sawyer,PosA,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1678,1 Storey Newer All,Residential Low Density,Corner,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1679,1 Storey Newer All,Residential Low Density,Corner,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1680,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1682,2 Storey 1946 Older,Residential Low Density,Inside,SWISU,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1683,1 Storey 1945 older,Residential Low Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1685,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1687,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1688,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Bnk,Mod,Pave,IR1
+1689,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1690,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1691,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1692,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1693,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1694,1.5 Finished,Residential Low Density,Inside,BrkSide,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1695,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1696,1 Storey Newer All,Residential Low Density,CulDSac,Crawfor,PosN,Norm,1Fam,Low,Gtl,Pave,IR1
+1697,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1698,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1699,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1700,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1701,1.5 Finished,Residential Medium Density,Inside,OldTown,RRAn,Feedr,1Fam,Lvl,Gtl,Pave,IR3
+1702,2 Storey 1946 Newer,Residential Low Density,Corner,CollgCr,PosN,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1703,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1704,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1706,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Mod,Pave,Reg
+1707,2 Storey 1946 Older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1708,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1709,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1710,1 Storey Newer All,Residential Low Density,FR2,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1713,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1714,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,HLS,Gtl,Pave,Reg
+1715,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1716,1 Storey 1945 older,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1717,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1718,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1719,2 Storey 1946 Newer,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1720,1 Storey 1945 older,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1721,Split,Residential Low Density,Corner,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1722,1 Storey 1945 older,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1723,Split,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1724,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1725,1.5 Finished,Residential Low Density,Inside,NAmes,Artery,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1726,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Low,Mod,Pave,IR1
+1727,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1728,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1729,1 Storey Newer All,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1730,2 Storey PUD,Residential Low Density,Inside,NPkVill,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1731,1 Storey PUD,Residential Low Density,Inside,SawyerW,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1732,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1733,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1734,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1735,1 Storey Newer All,Residential Low Density,Inside,NAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,IR3
+1737,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,HLS,Mod,Pave,Reg
+1738,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1739,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1740,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1741,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1742,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1743,1 Storey 1945 older,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1744,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1745,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1746,1 Storey PUD,Residential Medium Density,Inside,Crawfor,Norm,Norm,TwnhsE,HLS,Mod,Pave,IR1
+1747,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1748,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1749,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1750,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1751,1 Storey Newer All,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1752,1.5 Unfinished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1753,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Low,Mod,Pave,IR2
+1755,2 Storey PUD,Residential Low Density,FR2,NPkVill,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1756,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1757,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1758,1 Storey PUD,Residential Medium Density,Inside,Crawfor,Norm,Norm,TwnhsE,HLS,Mod,Pave,IR1
+1759,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1760,Split,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1761,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1762,2 Storey 1946 Newer,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1763,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1764,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1765,1.5 Finished,Residential Medium Density,Corner,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1766,1 Storey Newer All,Residential Low Density,CulDSac,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1767,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1768,2 Storey 1946 Newer,Residential Low Density,Corner,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1769,1 Storey PUD,Residential Low Density,Inside,SawyerW,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1770,1 Storey Newer All,Residential Low Density,CulDSac,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1771,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1772,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1773,2 Storey 1946 Newer,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1774,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1775,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1776,2 Storey 1946 Older,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1777,1 Storey 1945 older,Residential Low Density,Inside,BrkSide,Norm,Norm,1Fam,Bnk,Gtl,Pave,IR1
+1778,Split,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1779,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1780,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,PosA,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1781,1 Storey Newer All,Residential Low Density,Inside,Blmngtn,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1782,2 Storey 1946 Older,Residential Low Density,Inside,SWISU,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1784,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1785,Duplex All,Residential Low Density,Inside,NAmes,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1786,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1787,1 Storey PUD,Residential Medium Density,Inside,Crawfor,Norm,Norm,TwnhsE,HLS,Mod,Pave,IR1
+1789,Duplex All,Residential Low Density,Inside,NAmes,Norm,Norm,Duplex,Lvl,Gtl,Pave,IR1
+1790,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1791,Duplex All,Residential Low Density,Corner,Crawfor,Norm,Norm,Duplex,HLS,Gtl,Pave,IR1
+1792,1 Storey Newer All,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Mod,Pave,IR2
+1793,2 Storey 1946 Older,C (all),Corner,IDOTRR,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1794,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1795,1 Storey PUD,Residential Low Density,Inside,Greens,Norm,Norm,Twnhs,Lvl,Gtl,Pave,IR1
+1796,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1797,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1798,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1800,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1801,2 Storey 1946 Newer,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1802,2 Storey 1946 Newer,Residential Low Density,Corner,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1803,1 Storey Newer All,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1804,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1805,1 Storey Newer All,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1806,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1807,2 Storey 1946 Newer,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1808,Split,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1809,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1810,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1811,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1812,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Bnk,Gtl,Pave,IR1
+1813,1 Storey PUD,Residential Medium Density,Inside,Blmngtn,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1815,1 Storey Newer All,Residential Low Density,CulDSac,Somerst,RRAn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1816,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Low,Mod,Pave,IR1
+1817,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1818,1.5 Finished,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1819,1 Storey Newer All,Residential Low Density,Inside,CollgCr,PosN,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1820,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,RRAn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1821,1 Storey Newer All,Residential Low Density,Corner,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1822,2 Storey 1946 Newer,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1823,1 Storey 1945 older,Residential Low Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1824,1 Storey PUD,Floating Village Residential,CulDSac,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1825,1 Storey Newer All,Residential Low Density,Inside,Blmngtn,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1826,1 Storey 1945 older,Residential Medium Density,Corner,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1827,Split,Residential Low Density,FR2,Veenker,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1828,1 Storey Newer All,Residential Low Density,Corner,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1829,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1830,2 Storey PUD,Residential Low Density,Inside,SawyerW,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1831,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1832,2 Storey 1946 Newer,Residential Low Density,CulDSac,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1833,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1834,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1835,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1836,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1837,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1838,2 Storey PUD,Residential Medium Density,Inside,Blueste,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1839,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1840,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1842,1 Storey 1945 older,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1843,2 Storey 1946 Newer,Residential Low Density,Corner,ClearCr,Feedr,Norm,1Fam,Low,Mod,Pave,IR2
+1844,1.5 Unfinished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1845,1 Storey Newer All,Residential Low Density,Inside,NAmes,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1846,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1847,1.5 Unfinished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1848,1.5 Finished,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1849,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1850,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1851,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1852,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1853,1 Storey Newer All,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1854,1 Storey Newer All,Residential Low Density,Inside,ClearCr,Norm,Norm,1Fam,Low,Mod,Pave,IR1
+1855,1 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1856,1 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1857,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1858,1 Storey Newer All,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1860,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1861,1 Storey 1945 older,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1862,1 Storey 1945 older,Residential Low Density,Inside,SWISU,Artery,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1863,1 Storey Newer All,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1864,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1865,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1866,2 Storey 1946 Newer,Residential Low Density,FR2,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1867,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1868,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1869,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1870,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1871,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1872,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR1
+1873,Split,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1874,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1876,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1877,1 Storey Newer All,Residential Low Density,Corner,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1878,Duplex All,Residential Low Density,Inside,Mitchel,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1879,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+1880,1 Storey Newer All,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1881,1 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR2
+1882,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1883,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,RRAn,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1884,2 Storey 1946 Newer,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Bnk,Gtl,Pave,IR1
+1885,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Bnk,Gtl,Pave,IR1
+1886,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1887,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1888,2 Storey PUD,Residential Low Density,FR2,NPkVill,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1890,2 Storey PUD,Residential Low Density,Corner,SawyerW,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1891,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1892,1.5 Finished,Residential Low Density,Inside,Edwards,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1894,1 Storey Newer All,Residential Low Density,Corner,Edwards,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1895,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1896,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1897,2.5 Story All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1898,1 Storey Newer All,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1899,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1900,2 Storey 1946 Newer,Residential Low Density,Corner,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1901,2 Storey 1946 Newer,Residential Low Density,CulDSac,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1902,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1903,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1904,1 Storey Newer All,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1905,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1906,Split,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1907,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1908,2 Storey 1946 Newer,Residential Low Density,CulDSac,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1909,2 Storey 1946 Newer,Residential Low Density,Corner,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1910,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1911,1.5 Finished,Residential Low Density,Inside,NAmes,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1912,1 Storey PUD,Residential Low Density,Inside,SawyerW,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1913,Split Foyer,Residential Low Density,Corner,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1914,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,Twnhs,Lvl,Gtl,Pave,IR1
+1915,1.5 Unfinished,Residential Medium Density,Inside,IDOTRR,RRAe,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1916,1.5 Finished,Residential Medium Density,Inside,BrkSide,RRNn,Artery,1Fam,HLS,Gtl,Pave,Reg
+1917,1 Storey Newer All,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1918,1.5 Finished,Residential Low Density,Corner,Crawfor,Norm,Norm,1Fam,HLS,Mod,Pave,IR1
+1919,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1920,1.5 Finished,Residential Medium Density,Corner,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1921,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1922,1.5 Finished,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1923,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1924,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1925,1 Storey Newer All,Residential Low Density,Corner,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1926,1 Storey Newer All,Residential Low Density,Corner,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1928,1 Storey 1945 older,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1929,1 Storey Newer All,Residential Low Density,FR3,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1930,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1931,2 Storey 1946 Newer,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1932,Split Foyer,Residential Low Density,Corner,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1934,1 Storey Newer All,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1935,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1936,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1937,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1938,1 Storey Newer All,Residential Low Density,Inside,CollgCr,PosN,Norm,1Fam,Low,Gtl,Pave,IR2
+1939,2.5 Story All,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1940,1 Storey Newer All,Residential Low Density,Inside,SawyerW,RRAe,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1941,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1942,1 Storey Newer All,Residential Low Density,Inside,BrkSide,RRAn,Feedr,1Fam,Lvl,Gtl,Pave,Reg
+1943,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1944,1 Storey Newer All,Residential Low Density,Inside,Blmngtn,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1945,1.5 Finished,C (all),Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1946,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1947,Split,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Low,Mod,Pave,Reg
+1948,Duplex All,Residential Low Density,Inside,Mitchel,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1949,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1950,1 Storey Newer All,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1951,1 Storey Newer All,Floating Village Residential,Corner,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1953,1 Storey PUD,Residential Medium Density,Inside,Blueste,Norm,Norm,TwnhsE,HLS,Mod,Pave,IR1
+1954,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1955,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1956,Split,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1957,2 Storey 1946 Newer,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1958,PUD Multi,Residential Medium Density,Inside,MeadowV,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1959,Split,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1960,2 Storey 1946 Newer,Residential Low Density,FR2,CollgCr,Feedr,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1961,1.5 Finished,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+1962,1 Storey PUD,Residential Medium Density,FR3,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1963,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,RRNn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1964,1 Storey Newer All,Residential Low Density,CulDSac,StoneBr,PosN,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1965,Family Conversion,Residential Low Density,Inside,OldTown,Artery,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+1966,Duplex All,Residential Low Density,Inside,NAmes,Norm,Norm,Duplex,Lvl,Gtl,Pave,Reg
+1967,2 Storey 1946 Newer,Residential Low Density,CulDSac,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1968,1.5 Finished,Residential Low Density,Inside,SWISU,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1969,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1970,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1971,1.5 Finished,Residential Low Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1972,Family Conversion,Residential Low Density,FR3,Sawyer,Feedr,Norm,2fmCon,Lvl,Gtl,Pave,Reg
+1973,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1974,Family Conversion,Residential Low Density,Corner,BrkSide,Artery,Artery,2fmCon,Lvl,Gtl,Pave,Reg
+1975,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1976,2 Storey 1946 Newer,Residential Low Density,CulDSac,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+1977,2 Storey 1946 Newer,Residential Low Density,Inside,NoRidge,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1978,2 Storey 1946 Older,Residential Low Density,Corner,BrkSide,RRAn,Feedr,1Fam,Lvl,Gtl,Pave,IR1
+1979,1 Storey Newer All,Residential Low Density,Corner,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1980,Split,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1981,PUD Multi,Residential Medium Density,Inside,Edwards,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+1983,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1984,1 Storey Newer All,Residential Low Density,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1985,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1986,2 Storey 1946 Newer,Residential Low Density,Corner,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1987,1 Storey PUD,Residential Low Density,FR2,NPkVill,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+1988,1 Storey Newer All,Residential Low Density,CulDSac,Sawyer,RRAe,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1989,1 Storey Newer All,Residential Low Density,Corner,Sawyer,Feedr,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1990,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1992,Split,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1993,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1994,2 Storey 1946 Older,Residential Low Density,Corner,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1995,1 Storey Newer All,Residential Low Density,Inside,NAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1996,1.5 Finished,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+1998,1 Storey Newer All,Residential Low Density,FR2,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+1999,1.5 Finished,Residential Medium Density,Inside,OldTown,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2000,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2001,2 Storey 1946 Newer,Residential Low Density,CulDSac,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+2002,1 Storey Newer All,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2003,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR2
+2004,2 Storey PUD,Floating Village Residential,Inside,Somerst,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+2005,1.5 Finished,Residential Low Density,Corner,OldTown,Artery,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2006,2 Storey PUD,Residential Medium Density,Inside,BrDale,Norm,Norm,Twnhs,Lvl,Gtl,Pave,Reg
+2007,2 Storey PUD,Residential Medium Density,Inside,MeadowV,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,Reg
+2008,Duplex All,Residential Low Density,Corner,NWAmes,Feedr,RRAn,Duplex,Lvl,Gtl,Pave,IR1
+2009,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2011,1 Storey Newer All,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2012,2 Storey 1946 Newer,Residential Low Density,Corner,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2013,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2014,1 Storey PUD,Residential Low Density,Inside,NridgHt,Norm,Norm,Twnhs,Lvl,Gtl,Pave,IR1
+2015,1 Storey Newer All,Residential Low Density,CulDSac,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2016,1 Storey Newer All,Residential Low Density,Inside,Sawyer,RRAe,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2017,1 Storey 1945 older,Residential Medium Density,Inside,IDOTRR,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2018,2 Storey 1946 Newer,Residential Low Density,Corner,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2019,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2020,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,RRAn,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2021,2 Storey 1946 Newer,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2022,1 Storey Newer All,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2023,1 Storey PUD,Residential Low Density,Corner,NridgHt,Norm,Norm,TwnhsE,Lvl,Gtl,Pave,IR3
+2024,2 Storey 1946 Newer,Residential Low Density,Inside,NWAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2025,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2026,2 Storey 1946 Older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2028,1 Storey Newer All,Residential Low Density,CulDSac,NWAmes,PosN,Norm,1Fam,Lvl,Gtl,Pave,IR2
+2029,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+2030,1.5 Finished,C (all),Inside,IDOTRR,Norm,Norm,1Fam,HLS,Mod,Pave,Reg
+2031,1 Storey Newer All,Residential Low Density,CulDSac,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2032,Split,Residential Low Density,Inside,Mitchel,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2033,1 Storey PUD,Residential Medium Density,Inside,Blueste,Norm,Norm,TwnhsE,HLS,Mod,Pave,IR1
+2034,1 Storey Newer All,Residential Low Density,Inside,CollgCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2035,1 Storey 1945 older,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2036,2 Storey 1946 Newer,Floating Village Residential,Inside,Somerst,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2037,1 Storey Newer All,Residential Low Density,Inside,Sawyer,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2038,Split,Residential Low Density,Inside,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2040,1.5 Finished,Residential Low Density,Corner,ClearCr,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2041,2 Storey 1946 Newer,Residential Low Density,Inside,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2043,2 Storey 1946 Older,Residential Medium Density,Inside,BrkSide,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2044,2 Storey 1946 Newer,Residential Low Density,Inside,SawyerW,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2045,1 Storey Newer All,Residential Low Density,FR2,NridgHt,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2046,1 Storey Newer All,Residential Low Density,Inside,Timber,Norm,Norm,1Fam,HLS,Gtl,Pave,IR1
+2047,1 Storey 1945 older,Residential Low Density,Inside,Edwards,Norm,Norm,1Fam,Lvl,Gtl,Pave,IR1
+2048,1.5 Finished,Residential Low Density,Inside,Crawfor,Norm,Norm,1Fam,Bnk,Gtl,Pave,Reg
+2049,1 Storey Newer All,Residential Low Density,Corner,NAmes,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
+2050,2 Storey 1946 Newer,Residential Low Density,Inside,Gilbert,Norm,Norm,1Fam,Lvl,Gtl,Pave,Reg
